@@ -4,7 +4,6 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:path/path.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'package:my_vocabulary/core/database/app_database.dart';
-import 'package:my_vocabulary/core/responsive/responsive_layout.dart';
 import 'package:my_vocabulary/main.dart';
 import 'package:my_vocabulary/screens/vocabulary_form/vocabulary_form_screen.dart';
 

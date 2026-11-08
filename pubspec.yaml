@@ -41,6 +41,9 @@ dependencies:
   sqflite_common_ffi: ^2.4.5
   intl: ^0.20.3
   sqflite_common_ffi_web: ^1.2.0
+  pdf: ^3.13.1
+  printing: ^5.15.1
+  file_picker: ^13.3.2
 
 dev_dependencies:
   flutter_test:

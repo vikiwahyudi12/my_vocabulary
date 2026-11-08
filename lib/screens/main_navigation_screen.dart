@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/constants/app_colors.dart';
 import '../core/constants/app_constants.dart';
 import '../core/responsive/responsive_layout.dart';
+import '../core/services/export_service.dart';
 import '../providers/theme_provider.dart';
 import '../providers/vocabulary_provider.dart';
 import '../widgets/app_logo.dart';
@@ -373,6 +374,82 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
                       isSelected: false,
                       isDark: isDark,
                       onTap: _selectFavoritesTab,
+                    ),
+
+                    const SizedBox(height: 18),
+
+                    // Navigation Section Label: Cadangan Data
+                    Padding(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 10, vertical: 4),
+                      child: Text(
+                        'CADANGAN & DOKUMEN',
+                        style: TextStyle(
+                          fontSize: 10,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: 0.8,
+                          color: isDark
+                              ? AppColors.darkTextMuted
+                              : AppColors.lushTextMuted,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+
+                    // Menu: Ekspor ke PDF
+                    _buildSidebarNavItem(
+                      icon: Icons.picture_as_pdf_outlined,
+                      label: 'Ekspor ke PDF',
+                      badgeCount: null,
+                      isSelected: false,
+                      isDark: isDark,
+                      onTap: () {
+                        final vocabs =
+                            ref.read(vocabularyNotifierProvider).value ?? [];
+                        ExportService.exportPdfStudySheet(
+                          context: context,
+                          vocabularies: vocabs,
+                        );
+                      },
+                    ),
+
+                    const SizedBox(height: 4),
+
+                    // Menu: Backup JSON
+                    _buildSidebarNavItem(
+                      icon: Icons.download_rounded,
+                      label: 'Backup Data (JSON)',
+                      badgeCount: null,
+                      isSelected: false,
+                      isDark: isDark,
+                      onTap: () {
+                        final vocabs =
+                            ref.read(vocabularyNotifierProvider).value ?? [];
+                        final topics =
+                            ref.read(customTopicsProvider).value ?? [];
+                        ExportService.exportJsonBackup(
+                          context: context,
+                          vocabularies: vocabs,
+                          customTopics: topics,
+                        );
+                      },
+                    ),
+
+                    const SizedBox(height: 4),
+
+                    // Menu: Pulihkan Backup
+                    _buildSidebarNavItem(
+                      icon: Icons.upload_file_rounded,
+                      label: 'Pulihkan Data',
+                      badgeCount: null,
+                      isSelected: false,
+                      isDark: isDark,
+                      onTap: () {
+                        ExportService.importJsonBackup(
+                          context: context,
+                          ref: ref,
+                        );
+                      },
                     ),
 
                     const Spacer(),

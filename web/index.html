@@ -1,46 +1,180 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
   <base href="$FLUTTER_BASE_HREF">
-
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="IELTS Vocabulary Notebook - Catatan Kosakata Bahasa Inggris Interaktif">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="my_vocabulary">
+  <meta name="apple-mobile-web-app-title" content="IELTS Vocabulary">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>my_vocabulary</title>
+  <title>IELTS Vocabulary Notebook</title>
   <link rel="manifest" href="manifest.json">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0E1612;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      overflow: hidden;
+      color: #FFFFFF;
+    }
+
+    #loading-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at center, #13241C 0%, #09100C 100%);
+      transition: opacity 0.5s ease-out, visibility 0.5s;
+      z-index: 99999;
+    }
+
+    .loading-logo-wrapper {
+      position: relative;
+      width: 68px;
+      height: 68px;
+      margin-bottom: 20px;
+    }
+
+    .loading-logo-glow {
+      position: absolute;
+      top: -6px;
+      left: -6px;
+      width: 80px;
+      height: 80px;
+      border-radius: 24px;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.45) 0%, rgba(16, 185, 129, 0) 70%);
+      animation: pulse-glow 2s infinite ease-in-out;
+    }
+
+    .loading-logo-box {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      border-radius: 20px;
+      background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 10px 25px -4px rgba(16, 185, 129, 0.4);
+    }
+
+    .loading-logo-box svg {
+      width: 36px;
+      height: 36px;
+      fill: #FFFFFF;
+    }
+
+    .loading-pill {
+      background: rgba(16, 185, 129, 0.15);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      padding: 3px 12px;
+      border-radius: 20px;
+      font-size: 10.5px;
+      font-weight: 800;
+      letter-spacing: 1.2px;
+      color: #34D399;
+      margin-bottom: 8px;
+    }
+
+    .loading-title {
+      font-size: 21px;
+      font-weight: 800;
+      color: #FFFFFF;
+      margin: 0 0 20px 0;
+      letter-spacing: -0.4px;
+    }
+
+    .loading-progress-bar-bg {
+      width: 160px;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 3px;
+      overflow: hidden;
+      position: relative;
+      margin-bottom: 12px;
+    }
+
+    .loading-progress-bar-fill {
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, #10B981, transparent);
+      position: absolute;
+      left: -100%;
+      animation: progress-move 1.4s infinite ease-in-out;
+    }
+
+    .loading-status-text {
+      font-size: 12px;
+      font-weight: 500;
+      color: #A7F3D0;
+      opacity: 0.8;
+      letter-spacing: 0.2px;
+    }
+
+    @keyframes pulse-glow {
+      0%, 100% { transform: scale(0.92); opacity: 0.5; }
+      50% { transform: scale(1.15); opacity: 1; }
+    }
+
+    @keyframes progress-move {
+      0% { left: -100%; }
+      100% { left: 100%; }
+    }
+
+    .app-ready #loading-container {
+      opacity: 0;
+      visibility: hidden;
+    }
+  </style>
 </head>
 <body>
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
+  <div id="loading-container">
+    <div class="loading-logo-wrapper">
+      <div class="loading-logo-glow"></div>
+      <div class="loading-logo-box">
+        <svg viewBox="0 0 24 24">
+          <path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"/>
+        </svg>
+      </div>
+    </div>
+    <div class="loading-pill">IELTS NOTEBOOK</div>
+    <div class="loading-title">Kosakata Saya</div>
+    <div class="loading-progress-bar-bg">
+      <div class="loading-progress-bar-fill"></div>
+    </div>
+    <div class="loading-status-text">Memuat kosakata...</div>
+  </div>
 
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
+  <script>
+    // Remove loading screen smoothly once Flutter paints the first frame
+    window.addEventListener('flutter-first-frame', function() {
+      var loader = document.getElementById('loading-container');
+      if (loader) {
+        loader.style.opacity = '0';
+        setTimeout(function() {
+          loader.remove();
+        }, 500);
+      }
+    });
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

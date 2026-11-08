@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/constants/app_colors.dart';
 import '../../core/constants/app_constants.dart';
 import '../../core/responsive/responsive_layout.dart';
+import '../../core/services/export_service.dart';
 import '../../models/vocabulary_model.dart';
 import '../../providers/vocabulary_provider.dart';
 import '../../widgets/app_logo.dart';
@@ -164,6 +165,137 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
     );
   }
 
+  void _showExportBackupModal(BuildContext context) {
+    final allVocabs = ref.read(vocabularyNotifierProvider).value ?? [];
+    final customTopics = ref.read(customTopicsProvider).value ?? [];
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+
+    showModalBottomSheet(
+      context: context,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
+      ),
+      backgroundColor: isDark ? AppColors.darkSurface : Colors.white,
+      builder: (ctx) {
+        return SafeArea(
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 18),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Center(
+                  child: Container(
+                    width: 36,
+                    height: 4,
+                    decoration: BoxDecoration(
+                      color: isDark ? AppColors.darkDivider : AppColors.lushDivider,
+                      borderRadius: BorderRadius.circular(2),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  'Cadangan & Ekspor Kosakata',
+                  style: TextStyle(
+                    fontSize: 17,
+                    fontWeight: FontWeight.w800,
+                    color: isDark ? AppColors.darkTextPrimary : AppColors.lushTextPrimary,
+                  ),
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  'Amankan data Anda agar tidak hilang saat riwayat browser dihapus.',
+                  style: TextStyle(
+                    fontSize: 12.5,
+                    color: isDark ? AppColors.darkTextSecondary : AppColors.lushTextSecondary,
+                  ),
+                ),
+                const SizedBox(height: 18),
+
+                // Option 1: PDF Export
+                ListTile(
+                  contentPadding: EdgeInsets.zero,
+                  leading: Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: isDark ? const Color(0xFF1E3528) : AppColors.lushPrimaryLight,
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Icon(
+                      Icons.picture_as_pdf_rounded,
+                      color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                      size: 22,
+                    ),
+                  ),
+                  title: const Text('Ekspor ke Dokumen PDF', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 14)),
+                  subtitle: const Text('Lembar belajar kosakata siap cetak dengan arti & contoh', style: TextStyle(fontSize: 12)),
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    ExportService.exportPdfStudySheet(context: context, vocabularies: allVocabs);
+                  },
+                ),
+                const Divider(height: 16),
+
+                // Option 2: JSON Backup
+                ListTile(
+                  contentPadding: EdgeInsets.zero,
+                  leading: Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: isDark ? const Color(0xFF1E3528) : AppColors.lushPrimaryLight,
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Icon(
+                      Icons.download_rounded,
+                      color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                      size: 22,
+                    ),
+                  ),
+                  title: const Text('Unduh File Backup (JSON)', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 14)),
+                  subtitle: const Text('Simpan seluruh kata & topik ke file aman di komputer/HP', style: TextStyle(fontSize: 12)),
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    ExportService.exportJsonBackup(
+                      context: context,
+                      vocabularies: allVocabs,
+                      customTopics: customTopics,
+                    );
+                  },
+                ),
+                const Divider(height: 16),
+
+                // Option 3: JSON Restore
+                ListTile(
+                  contentPadding: EdgeInsets.zero,
+                  leading: Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: isDark ? const Color(0xFF1E3528) : AppColors.lushPrimaryLight,
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Icon(
+                      Icons.upload_file_rounded,
+                      color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                      size: 22,
+                    ),
+                  ),
+                  title: const Text('Pulihkan Data (Import Backup)', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 14)),
+                  subtitle: const Text('Unggah file JSON backup untuk memulihkan kata-kata Anda', style: TextStyle(fontSize: 12)),
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    ExportService.importJsonBackup(context: context, ref: ref);
+                  },
+                ),
+                const SizedBox(height: 10),
+              ],
+            ),
+          ),
+        );
+      },
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final filter = ref.watch(vocabularyFilterProvider);
@@ -301,7 +433,36 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
                             ),
                           ),
                           child: Icon(
-                            Icons.menu_rounded,
+                            Icons.tune_rounded,
+                            size: 19,
+                            color: isDark
+                                ? AppColors.darkPrimary
+                                : AppColors.lushPrimary,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+
+                      // Export / Backup Button (📥 / 📤)
+                      InkWell(
+                        onTap: () => _showExportBackupModal(context),
+                        borderRadius: BorderRadius.circular(20),
+                        child: Container(
+                          padding: const EdgeInsets.all(8),
+                          decoration: BoxDecoration(
+                            color: isDark
+                                ? const Color(0xFF1E3528)
+                                : AppColors.lushIconCircle,
+                            shape: BoxShape.circle,
+                            border: Border.all(
+                              color: isDark
+                                  ? AppColors.darkBorder
+                                  : AppColors.lushBorder,
+                              width: 1,
+                            ),
+                          ),
+                          child: Icon(
+                            Icons.import_export_rounded,
                             size: 19,
                             color: isDark
                                 ? AppColors.darkPrimary

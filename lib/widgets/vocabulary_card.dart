@@ -259,43 +259,50 @@ class VocabularyCard extends ConsumerWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Row(
-                        children: [
-                          Text(
-                            primaryUsage,
-                            style: TextStyle(
-                              fontSize: 12,
-                              fontWeight: FontWeight.w700,
-                              color: isDark
-                                  ? AppColors.darkPrimary
-                                  : AppColors.lushPrimary,
-                            ),
-                          ),
-                          if (primaryTopic.isNotEmpty) ...[
-                            const SizedBox(width: 6),
+                      Expanded(
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
                             Text(
-                              '•',
+                              primaryUsage,
                               style: TextStyle(
                                 fontSize: 12,
+                                fontWeight: FontWeight.w700,
                                 color: isDark
-                                    ? AppColors.darkTextMuted
-                                    : AppColors.lushTextMuted,
+                                    ? AppColors.darkPrimary
+                                    : AppColors.lushPrimary,
                               ),
                             ),
-                            const SizedBox(width: 6),
-                            Text(
-                              primaryTopic,
-                              style: TextStyle(
-                                fontSize: 12,
-                                fontWeight: FontWeight.w500,
-                                color: isDark
-                                    ? AppColors.darkTextSecondary
-                                    : AppColors.lushTextSecondary,
+                            if (primaryTopic.isNotEmpty) ...[
+                              const SizedBox(width: 6),
+                              Text(
+                                '•',
+                                style: TextStyle(
+                                  fontSize: 12,
+                                  color: isDark
+                                      ? AppColors.darkTextMuted
+                                      : AppColors.lushTextMuted,
+                                ),
                               ),
-                            ),
+                              const SizedBox(width: 6),
+                              Flexible(
+                                child: Text(
+                                  primaryTopic,
+                                  style: TextStyle(
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.w500,
+                                    color: isDark
+                                        ? AppColors.darkTextSecondary
+                                        : AppColors.lushTextSecondary,
+                                  ),
+                                  overflow: TextOverflow.ellipsis,
+                                ),
+                              ),
+                            ],
                           ],
-                        ],
+                        ),
                       ),
+                      const SizedBox(width: 4),
                       Icon(
                         Icons.chevron_right_rounded,
                         size: 18,

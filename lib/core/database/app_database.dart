@@ -1,3 +1,5 @@
+import 'dart:async';
+import 'package:flutter/foundation.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import '../../models/vocabulary_model.dart';
 import 'database_init.dart';
@@ -5,14 +7,28 @@ import 'database_init.dart';
 class AppDatabase {
   static final AppDatabase instance = AppDatabase._internal();
   static Database? _database;
+  static Completer<Database>? _initCompleter;
   static String dbName = 'my_vocabulary.db';
 
   AppDatabase._internal();
 
   Future<Database> get database async {
-    if (_database != null) return _database!;
-    _database = await _initDatabase();
-    return _database!;
+    if (_database != null && _database!.isOpen) return _database!;
+    if (_initCompleter != null && !_initCompleter!.isCompleted) {
+      return await _initCompleter!.future;
+    }
+
+    _initCompleter = Completer<Database>();
+    try {
+      final db = await _initDatabase();
+      _database = db;
+      _initCompleter!.complete(db);
+      return db;
+    } catch (e, st) {
+      _initCompleter!.completeError(e, st);
+      _initCompleter = null;
+      rethrow;
+    }
   }
 
   Future<Database> _initDatabase() async {
@@ -20,12 +36,17 @@ class AppDatabase {
 
     final String path = await getPlatformDatabasePath(dbName);
 
-    return await openDatabase(
-      path,
-      version: 3,
-      onCreate: _onCreate,
-      onUpgrade: _onUpgrade,
-    );
+    try {
+      return await openDatabase(
+        path,
+        version: 3,
+        onCreate: _onCreate,
+        onUpgrade: _onUpgrade,
+      );
+    } catch (e) {
+      debugPrint('Error opening database: $e');
+      rethrow;
+    }
   }
 
   Future<void> _onCreate(Database db, int version) async {
@@ -318,5 +339,6 @@ class AppDatabase {
       await db.close();
       _database = null;
     }
+    _initCompleter = null;
   }
 }

@@ -178,9 +178,19 @@ class _VocabularyFormScreenState extends ConsumerState<VocabularyFormScreen> {
 
       final notifier = ref.read(vocabularyNotifierProvider.notifier);
       if (edit != null) {
-        await notifier.updateVocabulary(newOrUpdatedVocab);
+        await notifier.updateVocabulary(newOrUpdatedVocab).timeout(
+          const Duration(seconds: 10),
+          onTimeout: () => throw Exception(
+            'Waktu simpan habis (timeout). Silakan coba lagi.',
+          ),
+        );
       } else {
-        await notifier.addVocabulary(newOrUpdatedVocab);
+        await notifier.addVocabulary(newOrUpdatedVocab).timeout(
+          const Duration(seconds: 10),
+          onTimeout: () => throw Exception(
+            'Waktu simpan habis (timeout). Silakan coba lagi.',
+          ),
+        );
       }
 
       if (mounted) {

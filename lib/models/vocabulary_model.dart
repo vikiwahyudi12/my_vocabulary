@@ -72,8 +72,7 @@ class Vocabulary {
   }
 
   Map<String, dynamic> toMap() {
-    return {
-      'id': id,
+    final map = <String, dynamic>{
       'word': word.trim(),
       'meaning': meaning.trim(),
       'level': level,
@@ -91,6 +90,10 @@ class Vocabulary {
       'created_at': createdAt.millisecondsSinceEpoch,
       'updated_at': updatedAt.millisecondsSinceEpoch,
     };
+    if (id != null) {
+      map['id'] = id;
+    }
+    return map;
   }
 
   factory Vocabulary.fromMap(Map<String, dynamic> map) {

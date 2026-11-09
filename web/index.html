@@ -174,7 +174,43 @@
         }, 500);
       }
     });
+
+    // Check and update service workers on launch to prevent stale cache on Safari/Mobile
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (var registration of registrations) {
+          registration.update();
+        }
+      });
+    }
+
+    // Global helper for hard refresh and clearing web cache directly from UI
+    window.forceAppUpdate = function() {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+          var promises = registrations.map(function(reg) {
+            return reg.unregister();
+          });
+          Promise.all(promises).then(function() {
+            if ('caches' in window) {
+              caches.keys().then(function(names) {
+                var cachePromises = names.map(function(name) {
+                  return caches.delete(name);
+                });
+                Promise.all(cachePromises).then(function() {
+                  window.location.reload(true);
+                });
+              });
+            } else {
+              window.location.reload(true);
+            }
+          });
+        });
+      } else {
+        window.location.reload(true);
+      }
+    };
   </script>
-  <script src="flutter_bootstrap.js" async></script>
+  <script src="flutter_bootstrap.js?v=2026110901" async></script>
 </body>
 </html>

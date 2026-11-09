@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/constants/app_colors.dart';
@@ -287,6 +288,30 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
                     ExportService.importJsonBackup(context: context, ref: ref);
                   },
                 ),
+                if (kIsWeb) ...[
+                  const Divider(height: 16),
+                  ListTile(
+                    contentPadding: EdgeInsets.zero,
+                    leading: Container(
+                      padding: const EdgeInsets.all(10),
+                      decoration: BoxDecoration(
+                        color: isDark ? const Color(0xFF1E3528) : AppColors.lushPrimaryLight,
+                        borderRadius: BorderRadius.circular(12),
+                      ),
+                      child: Icon(
+                        Icons.refresh_rounded,
+                        color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                        size: 22,
+                      ),
+                    ),
+                    title: const Text('Segarkan Aplikasi Web', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 14)),
+                    subtitle: const Text('Bersihkan cache & perbarui aplikasi ke rilis terbaru', style: TextStyle(fontSize: 12)),
+                    onTap: () {
+                      Navigator.pop(ctx);
+                      ExportService.forceWebReload();
+                    },
+                  ),
+                ],
                 const SizedBox(height: 10),
               ],
             ),

@@ -11,8 +11,13 @@ import 'package:printing/printing.dart';
 import '../../models/vocabulary_model.dart';
 import '../../providers/vocabulary_provider.dart';
 import '../constants/app_colors.dart';
+import 'web_reload.dart';
 
 class ExportService {
+  /// Forces web browser to clear active service worker, caches, and reload latest build
+  static void forceWebReload() {
+    reloadAppWeb();
+  }
   /// Export all vocabularies to a formatted JSON backup file
   static Future<void> exportJsonBackup({
     required BuildContext context,

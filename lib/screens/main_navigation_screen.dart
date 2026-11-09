@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/constants/app_colors.dart';
@@ -451,6 +452,21 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
                         );
                       },
                     ),
+
+                    if (kIsWeb) ...[
+                      const SizedBox(height: 4),
+                      // Menu: Segarkan Web
+                      _buildSidebarNavItem(
+                        icon: Icons.refresh_rounded,
+                        label: 'Segarkan Web',
+                        badgeCount: null,
+                        isSelected: false,
+                        isDark: isDark,
+                        onTap: () {
+                          ExportService.forceWebReload();
+                        },
+                      ),
+                    ],
 
                     const Spacer(),
                     const SizedBox(height: 16),

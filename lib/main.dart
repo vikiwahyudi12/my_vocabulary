@@ -1,8 +1,10 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'core/constants/app_constants.dart';
 import 'core/database/database_init.dart';
 import 'core/theme/app_theme.dart';
+import 'firebase_options.dart';
 import 'providers/theme_provider.dart';
 import 'screens/main_navigation_screen.dart';
 
@@ -11,6 +13,15 @@ void main() async {
 
   // Initialize SQLite for Desktop (FFI) or Web (Wasm/IndexedDB)
   await initializePlatformDatabase();
+
+  // Initialize Firebase (safely with try-catch so it won't block tests or offline boot)
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+  } catch (e) {
+    debugPrint('Firebase init notice: $e');
+  }
 
   runApp(
     const ProviderScope(

@@ -8,6 +8,8 @@ import '../core/services/export_service.dart';
 import '../providers/theme_provider.dart';
 import '../providers/vocabulary_provider.dart';
 import '../widgets/app_logo.dart';
+import '../widgets/cloud_sync_modal.dart';
+import '../providers/cloud_sync_provider.dart';
 import 'home/home_screen.dart';
 import 'vocabulary_form/vocabulary_form_screen.dart';
 import 'vocabulary_list/vocabulary_list_screen.dart';
@@ -395,6 +397,22 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
                         ),
                       ),
                     ),
+                    const SizedBox(height: 4),
+
+                    // Menu: Sinkronisasi Cloud
+                    _buildSidebarNavItem(
+                      icon: Icons.cloud_sync_rounded,
+                      label: ref.watch(isCloudConnectedProvider)
+                          ? 'Cloud Tersambung'
+                          : 'Sinkronisasi Cloud',
+                      badgeCount: null,
+                      isSelected: false,
+                      isDark: isDark,
+                      onTap: () {
+                        CloudSyncModal.show(context);
+                      },
+                    ),
+
                     const SizedBox(height: 4),
 
                     // Menu: Ekspor ke PDF

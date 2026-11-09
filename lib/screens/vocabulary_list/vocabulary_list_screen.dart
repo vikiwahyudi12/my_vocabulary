@@ -8,6 +8,7 @@ import '../../core/services/export_service.dart';
 import '../../models/vocabulary_model.dart';
 import '../../providers/vocabulary_provider.dart';
 import '../../widgets/app_logo.dart';
+import '../../widgets/cloud_sync_modal.dart';
 import '../../widgets/vocabulary_card.dart';
 import '../vocabulary_detail/vocabulary_detail_screen.dart';
 import '../vocabulary_form/vocabulary_form_screen.dart';
@@ -213,6 +214,31 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
                   ),
                 ),
                 const SizedBox(height: 18),
+
+                // Option 0: Cloud Sync
+                ListTile(
+                  contentPadding: EdgeInsets.zero,
+                  leading: Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: isDark ? const Color(0xFF1E3528) : AppColors.lushPrimaryLight,
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Icon(
+                      Icons.cloud_sync_rounded,
+                      color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                      size: 22,
+                    ),
+                  ),
+                  title: const Text('Sinkronisasi Cloud Firebase', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 14)),
+                  subtitle: const Text('Otomatis sinkron realtime antara Laptop & Safari HP', style: TextStyle(fontSize: 12)),
+                  trailing: const Icon(Icons.chevron_right_rounded, size: 20),
+                  onTap: () {
+                    Navigator.pop(ctx);
+                    CloudSyncModal.show(context);
+                  },
+                ),
+                const Divider(height: 16),
 
                 // Option 1: PDF Export
                 ListTile(

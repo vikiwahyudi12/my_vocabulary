@@ -1,7 +1,10 @@
+import 'dart:async';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/constants/app_constants.dart';
 import '../core/database/app_database.dart';
+import '../core/services/cloud_sync_service.dart';
 import '../models/vocabulary_model.dart';
+import 'cloud_sync_provider.dart';
 
 // Database Instance Provider
 final databaseProvider = Provider<AppDatabase>((ref) {
@@ -13,6 +16,38 @@ class VocabularyNotifier extends AsyncNotifier<List<Vocabulary>> {
   @override
   Future<List<Vocabulary>> build() async {
     final db = ref.watch(databaseProvider);
+
+    // Watch auth changes and start/stop cloud listener
+    ref.listen(authUserProvider, (prev, next) {
+      final user = next.value;
+      if (user != null) {
+        CloudSyncService.instance.startListening(
+          onRemoteUpdate: (cloudVocabs) async {
+            final local = await db.getAllVocabularies();
+            final localWords = {for (final v in local) v.word.toLowerCase(): v};
+            bool changed = false;
+
+            for (final remote in cloudVocabs) {
+              final match = localWords[remote.word.toLowerCase()];
+              if (match == null) {
+                await db.insertVocabulary(remote);
+                changed = true;
+              } else if (remote.updatedAt.isAfter(match.updatedAt)) {
+                await db.updateVocabulary(remote.copyWith(id: match.id));
+                changed = true;
+              }
+            }
+
+            if (changed) {
+              await loadVocabularies();
+            }
+          },
+        );
+      } else {
+        CloudSyncService.instance.stopListening();
+      }
+    });
+
     return await db.getAllVocabularies();
   }
 
@@ -28,6 +63,8 @@ class VocabularyNotifier extends AsyncNotifier<List<Vocabulary>> {
     final db = ref.read(databaseProvider);
     final id = await db.insertVocabulary(vocab);
     await loadVocabularies();
+    // Sync to Cloud asynchronously if logged in
+    unawaited(CloudSyncService.instance.syncVocabulary(vocab.copyWith(id: id)));
     return id;
   }
 
@@ -35,16 +72,26 @@ class VocabularyNotifier extends AsyncNotifier<List<Vocabulary>> {
     final db = ref.read(databaseProvider);
     await db.updateVocabulary(vocab);
     await loadVocabularies();
+    // Sync to Cloud asynchronously if logged in
+    unawaited(CloudSyncService.instance.syncVocabulary(vocab));
   }
 
   Future<void> toggleFavorite(int id, bool currentStatus) async {
     final db = ref.read(databaseProvider);
     await db.toggleFavorite(id, currentStatus);
     await loadVocabularies();
+    final updated = await db.getVocabularyById(id);
+    if (updated != null) {
+      unawaited(CloudSyncService.instance.syncVocabulary(updated));
+    }
   }
 
   Future<void> deleteVocabulary(int id) async {
     final db = ref.read(databaseProvider);
+    final vocab = await db.getVocabularyById(id);
+    if (vocab != null) {
+      unawaited(CloudSyncService.instance.deleteVocabulary(vocab.word));
+    }
     await db.deleteVocabulary(id);
     await loadVocabularies();
   }

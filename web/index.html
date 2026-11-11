@@ -175,12 +175,27 @@
       }
     });
 
-    // Check and update service workers on launch to prevent stale cache on Safari/Mobile
+    // Unregister deprecated Flutter Service Worker so updates always propagate cleanly
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for (var registration of registrations) {
-          registration.update();
-        }
+        var didUnregister = false;
+        var promises = registrations.map(function(reg) {
+          var url = (reg.active && reg.active.scriptURL) || '';
+          if (url.indexOf('flutter_service_worker') !== -1) {
+            didUnregister = true;
+            return reg.unregister();
+          }
+          return reg.update();
+        });
+        Promise.all(promises).then(function() {
+          if (didUnregister && 'caches' in window) {
+            caches.keys().then(function(names) {
+              names.forEach(function(name) {
+                caches.delete(name);
+              });
+            });
+          }
+        });
       });
     }
 
@@ -211,6 +226,6 @@
       }
     };
   </script>
-  <script src="flutter_bootstrap.js?v=2026110901" async></script>
+  <script src="flutter_bootstrap.js?v=2026111101" async></script>
 </body>
 </html>

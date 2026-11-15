@@ -226,6 +226,67 @@
       }
     };
 
+    // Native Web Speech API Text-to-Speech (TTS)
+    window.appSpeakText = function(text, rate, lang) {
+      if (!text) return false;
+      try {
+        if (!('speechSynthesis' in window)) {
+          console.warn('Speech synthesis is not supported on this browser.');
+          return false;
+        }
+        window.speechSynthesis.cancel();
+        
+        var utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = lang || 'en-US';
+        utterance.rate = (typeof rate === 'number') ? rate : 0.82;
+        utterance.pitch = 1.0;
+
+        // Try to pick natural English voice
+        var voices = window.speechSynthesis.getVoices();
+        if (voices && voices.length > 0) {
+          var englishVoice = voices.find(function(v) {
+            return (v.lang === 'en-US' || v.lang === 'en-GB' || (v.lang && v.lang.indexOf('en') === 0)) &&
+                   (v.name.indexOf('Natural') !== -1 || v.name.indexOf('Siri') !== -1 || v.name.indexOf('Google') !== -1 || v.name.indexOf('Samantha') !== -1 || v.name.indexOf('Daniel') !== -1);
+          }) || voices.find(function(v) {
+            return v.lang === 'en-US' || v.lang === 'en-GB' || (v.lang && v.lang.indexOf('en') === 0);
+          });
+          if (englishVoice) {
+            utterance.voice = englishVoice;
+          }
+        }
+
+        window.speechSynthesis.speak(utterance);
+        return true;
+      } catch (e) {
+        console.error('Failed to speak text:', e);
+        return false;
+      }
+    };
+
+    window.appStopSpeech = function() {
+      try {
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+        }
+      } catch (e) {}
+    };
+
+    // Pre-warm voices on first user gesture for Mobile Safari & Chrome
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.onvoiceschanged = function() {
+        try { window.speechSynthesis.getVoices(); } catch (e) {}
+      };
+      var warmSpeech = function() {
+        try {
+          window.speechSynthesis.getVoices();
+          document.removeEventListener('touchstart', warmSpeech);
+          document.removeEventListener('click', warmSpeech);
+        } catch (e) {}
+      };
+      document.addEventListener('touchstart', warmSpeech, { once: true, passive: true });
+      document.addEventListener('click', warmSpeech, { once: true, passive: true });
+    }
+
     // Dynamically load flutter_bootstrap.js with cache-busting timestamp so updates apply immediately
     (function() {
       var script = document.createElement('script');

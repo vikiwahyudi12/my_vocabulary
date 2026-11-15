@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/constants/app_colors.dart';
+import '../core/services/tts_service.dart';
 import '../models/vocabulary_model.dart';
 import '../providers/vocabulary_provider.dart';
 import 'badges.dart';
@@ -100,12 +101,9 @@ class VocabularyCard extends ConsumerWidget {
                       // Speaker button for Home card style
                       InkWell(
                         onTap: () {
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(
-                              content: Text('Pelafalan: "${vocabulary.word}"'),
-                              duration: const Duration(seconds: 1),
-                              behavior: SnackBarBehavior.floating,
-                            ),
+                          TtsService.instance.speak(
+                            vocabulary.word,
+                            context: context,
                           );
                         },
                         borderRadius: BorderRadius.circular(20),
@@ -127,35 +125,67 @@ class VocabularyCard extends ConsumerWidget {
                         ),
                       )
                     else
-                      // Bookmark button for Kosakata list style
-                      if (vocabulary.id != null)
-                        InkWell(
-                          onTap: () {
-                            ref
-                                .read(vocabularyNotifierProvider.notifier)
-                                .toggleFavorite(
-                                  vocabulary.id!,
-                                  vocabulary.isFavorite,
-                                );
-                          },
-                          borderRadius: BorderRadius.circular(16),
-                          child: Padding(
-                            padding: const EdgeInsets.all(4),
-                            child: Icon(
-                              vocabulary.isFavorite
-                                  ? Icons.bookmark_rounded
-                                  : Icons.bookmark_border_rounded,
-                              size: 22,
-                              color: vocabulary.isFavorite
-                                  ? (isDark
-                                      ? AppColors.darkPrimary
-                                      : AppColors.bookmarkActive)
-                                  : (isDark
-                                      ? AppColors.darkTextMuted
-                                      : AppColors.bookmarkInactive),
+                      // Speaker & Bookmark buttons for List & Topic card style
+                      Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          InkWell(
+                            onTap: () {
+                              TtsService.instance.speak(
+                                vocabulary.word,
+                                context: context,
+                              );
+                            },
+                            borderRadius: BorderRadius.circular(16),
+                            child: Container(
+                              padding: const EdgeInsets.all(6),
+                              decoration: BoxDecoration(
+                                color: isDark
+                                    ? const Color(0xFF1E3327)
+                                    : AppColors.lushIconCircle,
+                                shape: BoxShape.circle,
+                              ),
+                              child: Icon(
+                                Icons.volume_up_rounded,
+                                size: 15,
+                                color: isDark
+                                    ? AppColors.darkPrimary
+                                    : AppColors.lushPrimary,
+                              ),
                             ),
                           ),
-                        ),
+                          if (vocabulary.id != null) ...[
+                            const SizedBox(width: 4),
+                            InkWell(
+                              onTap: () {
+                                ref
+                                    .read(vocabularyNotifierProvider.notifier)
+                                    .toggleFavorite(
+                                      vocabulary.id!,
+                                      vocabulary.isFavorite,
+                                    );
+                              },
+                              borderRadius: BorderRadius.circular(16),
+                              child: Padding(
+                                padding: const EdgeInsets.all(4),
+                                child: Icon(
+                                  vocabulary.isFavorite
+                                      ? Icons.bookmark_rounded
+                                      : Icons.bookmark_border_rounded,
+                                  size: 22,
+                                  color: vocabulary.isFavorite
+                                      ? (isDark
+                                          ? AppColors.darkPrimary
+                                          : AppColors.bookmarkActive)
+                                      : (isDark
+                                          ? AppColors.darkTextMuted
+                                          : AppColors.bookmarkInactive),
+                                ),
+                              ),
+                            ),
+                          ],
+                        ],
+                      ),
                   ],
                 ),
 
@@ -184,12 +214,9 @@ class VocabularyCard extends ConsumerWidget {
                         const SizedBox(width: 6),
                         InkWell(
                           onTap: () {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              SnackBar(
-                                content: Text('Pelafalan: "${vocabulary.word}"'),
-                                duration: const Duration(seconds: 1),
-                                behavior: SnackBarBehavior.floating,
-                              ),
+                            TtsService.instance.speak(
+                              vocabulary.word,
+                              context: context,
                             );
                           },
                           child: Icon(

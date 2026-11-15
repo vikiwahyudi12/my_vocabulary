@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 import '../../core/constants/app_colors.dart';
 import '../../core/responsive/responsive_layout.dart';
+import '../../core/services/tts_service.dart';
 import '../../models/vocabulary_model.dart';
 import '../../providers/vocabulary_provider.dart';
 import '../../widgets/badges.dart';
@@ -315,12 +316,9 @@ class VocabularyDetailScreen extends ConsumerWidget {
                         const SizedBox(width: 8),
                         InkWell(
                           onTap: () {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              SnackBar(
-                                content: Text('Pelafalan: "${current.word}"'),
-                                duration: const Duration(seconds: 1),
-                                behavior: SnackBarBehavior.floating,
-                              ),
+                            TtsService.instance.speak(
+                              current.word,
+                              context: context,
                             );
                           },
                           borderRadius: BorderRadius.circular(16),
@@ -342,6 +340,50 @@ class VocabularyDetailScreen extends ConsumerWidget {
                           ),
                         ),
                       ],
+                    ),
+                  ] else ...[
+                    const SizedBox(height: 8),
+                    InkWell(
+                      onTap: () {
+                        TtsService.instance.speak(
+                          current.word,
+                          context: context,
+                        );
+                      },
+                      borderRadius: BorderRadius.circular(14),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 10, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: isDark
+                              ? const Color(0xFF1E3528)
+                              : AppColors.lushIconCircle,
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.volume_up_rounded,
+                              size: 14,
+                              color: isDark
+                                  ? AppColors.darkPrimary
+                                  : AppColors.lushPrimary,
+                            ),
+                            const SizedBox(width: 5),
+                            Text(
+                              'Dengarkan pengucapan',
+                              style: TextStyle(
+                                fontSize: 11.5,
+                                fontWeight: FontWeight.w600,
+                                color: isDark
+                                    ? AppColors.darkPrimary
+                                    : AppColors.lushPrimary,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
                     ),
                   ],
 
@@ -451,6 +493,49 @@ class VocabularyDetailScreen extends ConsumerWidget {
                 isDark: isDark,
                 title: 'CONTOH KALIMAT',
                 icon: Icons.format_quote_rounded,
+                trailing: InkWell(
+                  onTap: () {
+                    TtsService.instance.speak(
+                      current.example!,
+                      context: context,
+                      rate: 0.88,
+                    );
+                  },
+                  borderRadius: BorderRadius.circular(12),
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: isDark
+                          ? const Color(0xFF1E3528)
+                          : AppColors.lushIconCircle,
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(
+                          Icons.volume_up_rounded,
+                          size: 13,
+                          color: isDark
+                              ? AppColors.darkPrimary
+                              : AppColors.lushPrimary,
+                        ),
+                        const SizedBox(width: 4),
+                        Text(
+                          'Dengarkan Kalimat',
+                          style: TextStyle(
+                            fontSize: 11,
+                            fontWeight: FontWeight.w600,
+                            color: isDark
+                                ? AppColors.darkPrimary
+                                : AppColors.lushPrimary,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -590,6 +675,7 @@ class VocabularyDetailScreen extends ConsumerWidget {
     required String title,
     required IconData icon,
     Color? iconColor,
+    Widget? trailing,
     required Widget child,
   }) {
     return Container(
@@ -634,6 +720,10 @@ class VocabularyDetailScreen extends ConsumerWidget {
                       isDark ? AppColors.darkTextMuted : AppColors.lushTextMuted,
                 ),
               ),
+              if (trailing != null) ...[
+                const Spacer(),
+                trailing,
+              ],
             ],
           ),
           const SizedBox(height: 12),

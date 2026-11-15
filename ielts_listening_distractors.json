@@ -4014,5 +4014,1645 @@
     "indonesian_meaning": "Badai salju dahsyat disertai angin kencang",
     "context_location": "Weather & Climate",
     "level": "B2"
+  },
+  {
+    "id": 503,
+    "question_text": "Bat",
+    "audio_transcript": "Fruit bats roost in large limestone caves and pollinate nocturnal tropical flowers.",
+    "indonesian_meaning": "Kelelawar",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "question_text": "Mouse",
+    "audio_transcript": "Field mice harvest fallen grass seeds and store them in dry underground nests.",
+    "indonesian_meaning": "Tikus kecil rumah/lapangan",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "question_text": "Rat",
+    "audio_transcript": "Urban health inspectors monitored subway tunnels to control brown rat infestations.",
+    "indonesian_meaning": "Tikus besar / tikus got",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "question_text": "Owl",
+    "audio_transcript": "The barn owl hunts small rodents at dusk by relying on extremely sensitive directional hearing.",
+    "indonesian_meaning": "Burung hantu",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "question_text": "Eagle",
+    "audio_transcript": "Golden eagles nest high on inaccessible mountain cliff ledges.",
+    "indonesian_meaning": "Burung elang pemangsa besar",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "question_text": "Hawk",
+    "audio_transcript": "The red-tailed hawk soared in lazy circles above the open meadow.",
+    "indonesian_meaning": "Burung rajawali / alap-alap",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "question_text": "Falcon",
+    "audio_transcript": "Peregrine falcons can reach diving speeds exceeding three hundred kilometers per hour.",
+    "indonesian_meaning": "Burung falkon / alap-alap kawah",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "question_text": "Pigeon",
+    "audio_transcript": "Homing pigeons demonstrate remarkable navigational ability across unfamiliar terrain.",
+    "indonesian_meaning": "Burung merpati / dara",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "question_text": "Sparrow",
+    "audio_transcript": "House sparrow populations in central London have declined due to loss of insect prey.",
+    "indonesian_meaning": "Burung gereja kecil",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 512,
+    "question_text": "Swan",
+    "audio_transcript": "Mute swans glide gracefully along the lake and mate for life.",
+    "indonesian_meaning": "Burung angsa putih leher panjang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 513,
+    "question_text": "Duck",
+    "audio_transcript": "Children fed stale breadcrumbs to the wild ducks swimming in the park pond.",
+    "indonesian_meaning": "Bebek / itik air",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 514,
+    "question_text": "Goose",
+    "audio_transcript": "Migrating geese fly in a cooperative V-formation to reduce aerodynamic drag.",
+    "indonesian_meaning": "Angsa abu-abu",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 515,
+    "question_text": "Squirrel",
+    "audio_transcript": "Grey squirrels cache hundreds of acorns and hazelnuts in the ground before winter.",
+    "indonesian_meaning": "Tupai pohon berekor lebat",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 516,
+    "question_text": "Hedgehog",
+    "audio_transcript": "Gardening charities encourage creating small gaps in fences to assist hedgehog foraging.",
+    "indonesian_meaning": "Landak mini berduri",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 517,
+    "question_text": "Beaver",
+    "audio_transcript": "Reintroducing beavers to Scottish rivers restored natural wetland hydrology and filtered silt.",
+    "indonesian_meaning": "Berang-berang pembuat bendungan",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 518,
+    "question_text": "Otter",
+    "audio_transcript": "River otters use flat stones as tools to crack open hard mollusc shells.",
+    "indonesian_meaning": "Berang-berang air / linsang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 519,
+    "question_text": "Badger",
+    "audio_transcript": "European badgers live in intricate communal underground tunnel networks called setts.",
+    "indonesian_meaning": "Luwak / musang belang eropa",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 520,
+    "question_text": "Fox",
+    "audio_transcript": "Urban red foxes have successfully adapted to scavenge food waste in residential gardens.",
+    "indonesian_meaning": "Rubah / serigala kecil berekor lebat",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 521,
+    "question_text": "Wolf",
+    "audio_transcript": "The pack hierarchy among grey wolves is maintained through vocalizations and postures.",
+    "indonesian_meaning": "Serigala liar",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 522,
+    "question_text": "Deer",
+    "audio_transcript": "A herd of red deer grazed quietly in the misty valley at sunrise.",
+    "indonesian_meaning": "Rusa / kijang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 523,
+    "question_text": "Bear",
+    "audio_transcript": "Grizzly bears consume massive quantities of wild salmon before commencing hibernation.",
+    "indonesian_meaning": "Beruang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 524,
+    "question_text": "Kangaroo",
+    "audio_transcript": "Female kangaroos carry and nurse their developing joey inside an abdominal pouch.",
+    "indonesian_meaning": "Kanguru",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 525,
+    "question_text": "Koala",
+    "audio_transcript": "Koalas obtain virtually all their dietary hydration from consuming fresh eucalyptus foliage.",
+    "indonesian_meaning": "Koala",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 526,
+    "question_text": "Camel",
+    "audio_transcript": "Camels store dense fatty tissue within their humps to survive long desert treks without food.",
+    "indonesian_meaning": "Unta gurun",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 527,
+    "question_text": "Seal",
+    "audio_transcript": "Colonies of harbor seals hauled out onto rocky coastal islets to bask in the sun.",
+    "indonesian_meaning": "Anjing laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 528,
+    "question_text": "Whale",
+    "audio_transcript": "Humpback whales communicate across oceanic distances using complex underwater acoustic songs.",
+    "indonesian_meaning": "Paus (mamalia laut)",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 529,
+    "question_text": "Dolphin",
+    "audio_transcript": "Bottlenose dolphins use coordinated pod tactics to encircle schools of mullet fish.",
+    "indonesian_meaning": "Lumba-lumba",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 530,
+    "question_text": "Shark",
+    "audio_transcript": "Great white sharks detect microscopic electrical impulses generated by moving prey.",
+    "indonesian_meaning": "Ikan hiu pemangsa",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 531,
+    "question_text": "Octopus",
+    "audio_transcript": "The common octopus can instantly alter its skin color and texture to mimic surrounding sea floor coral.",
+    "indonesian_meaning": "Gurita bertentakel delapan",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 532,
+    "question_text": "Jellyfish",
+    "audio_transcript": "Swimmers were warned that microscopic box jellyfish stings can cause dangerous anaphylactic reactions.",
+    "indonesian_meaning": "Ubur-ubur laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 533,
+    "question_text": "Crab",
+    "audio_transcript": "Hermit crabs inhabit discarded sea snail shells to protect their soft unarmored abdomens.",
+    "indonesian_meaning": "Kepiting bercangkang dan bercapit",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 534,
+    "question_text": "Lobster",
+    "audio_transcript": "Sustainable coastal fisheries enforce catch limits on breeding female lobsters.",
+    "indonesian_meaning": "Lobster / udang karang besar",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 535,
+    "question_text": "Crocodile",
+    "audio_transcript": "Saltwater crocodiles possess the strongest bite force measured in the animal kingdom.",
+    "indonesian_meaning": "Buaya air tawar/muara",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 536,
+    "question_text": "Lizard",
+    "audio_transcript": "Desert lizards bask on warm rocks in the early morning to elevate their body temperature.",
+    "indonesian_meaning": "Kadal / reptil berkaki empat",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 537,
+    "question_text": "Chameleon",
+    "audio_transcript": "The chameleon shot out its long sticky tongue with pinpoint accuracy to snatch a passing grasshopper.",
+    "indonesian_meaning": "Bunglon pengubah warna",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 538,
+    "question_text": "Snake",
+    "audio_transcript": "Venomous snakes employ specialized hollow fangs to deliver paralyzing toxins into prey.",
+    "indonesian_meaning": "Ular",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 539,
+    "question_text": "Turtle",
+    "audio_transcript": "Green sea turtles migrate thousands of miles across oceans to lay eggs on their natal beach.",
+    "indonesian_meaning": "Kura-kura air / penyu laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 540,
+    "question_text": "Tortoise",
+    "audio_transcript": "Giant tortoises on the Galápagos Islands can attain lifespans exceeding a century.",
+    "indonesian_meaning": "Kura-kura darat berkaki gajah",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 541,
+    "question_text": "Frog",
+    "audio_transcript": "The red-eyed tree frog uses suction cup toe pads to cling to slippery rainforest leaves.",
+    "indonesian_meaning": "Katak pohon / katak air berkulit halus",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 542,
+    "question_text": "Toad",
+    "audio_transcript": "Common toads hibernate underground in leaf litter throughout freezing winter months.",
+    "indonesian_meaning": "Kodok darat berkulit kasar/bintil",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 543,
+    "question_text": "Bee",
+    "audio_transcript": "Honey bee colonies perform an elaborate waggle dance to communicate nectar locations.",
+    "indonesian_meaning": "Lebah madu penyerbuk",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 544,
+    "question_text": "Ant",
+    "audio_transcript": "Leafcutter ants harvest foliage to cultivate subterranean fungus farms inside their nest.",
+    "indonesian_meaning": "Semut pekerja",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 545,
+    "question_text": "Butterfly",
+    "audio_transcript": "Monarch butterflies migrate over three thousand miles from Canada to Mexican overwintering sanctuaries.",
+    "indonesian_meaning": "Kupu-kupu bersayap indah",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 546,
+    "question_text": "Mosquito",
+    "audio_transcript": "Sleeping under insecticide-treated bed nets effectively shields families from malaria-carrying mosquitoes.",
+    "indonesian_meaning": "Nyamuk penghisap darah",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 547,
+    "question_text": "Spider",
+    "audio_transcript": "Orb-weaver spiders spin intricate silk webs each morning to entrap flying insect prey.",
+    "indonesian_meaning": "Laba-laba pemintal jaring",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 548,
+    "question_text": "Mango",
+    "audio_transcript": "Freshly diced sweet mango is widely used in tropical smoothies and breakfast parfaits.",
+    "indonesian_meaning": "Mangga",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 549,
+    "question_text": "Lemon",
+    "audio_transcript": "A squeeze of fresh lemon juice adds bright acidity to pan-seared salmon fillet.",
+    "indonesian_meaning": "Lemon kuning asam",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 550,
+    "question_text": "Lime",
+    "audio_transcript": "Thai green curries and Mexican guacamole rely on fresh lime juice for balanced zest.",
+    "indonesian_meaning": "Jeruk nipis hijau",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 551,
+    "question_text": "Orange",
+    "audio_transcript": "Freshly squeezed orange juice is a rich dietary source of ascorbic acid and potassium.",
+    "indonesian_meaning": "Jeruk manis",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 552,
+    "question_text": "Banana",
+    "audio_transcript": "Athletes consume bananas prior to endurance running to replenish muscle glycogen and potassium.",
+    "indonesian_meaning": "Pisang",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 553,
+    "question_text": "Apple",
+    "audio_transcript": "Orchard visitors enjoyed picking crisp red apples straight from mature orchard branches.",
+    "indonesian_meaning": "Apel",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 554,
+    "question_text": "Pineapple",
+    "audio_transcript": "Fresh pineapple contains bromelain, a natural digestive enzyme that tenderizes meat.",
+    "indonesian_meaning": "Nanas",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 555,
+    "question_text": "Watermelon",
+    "audio_transcript": "Chilled slices of juicy watermelon provide immediate hydration on sweltering beach afternoons.",
+    "indonesian_meaning": "Semangka",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 556,
+    "question_text": "Grape",
+    "audio_transcript": "Viticulturists harvest sweet wine grapes in autumn when sugar concentration peaks.",
+    "indonesian_meaning": "Anggur",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 557,
+    "question_text": "Strawberry",
+    "audio_transcript": "Wimbledon spectators traditionally consume fresh strawberries topped with whipped clotted cream.",
+    "indonesian_meaning": "Stroberi",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 558,
+    "question_text": "Papaya",
+    "audio_transcript": "Eating ripe papaya with a squeeze of fresh lime juice aids stomach digestion.",
+    "indonesian_meaning": "Pepaya",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 559,
+    "question_text": "Coconut",
+    "audio_transcript": "Coastal islanders use coconut milk in curries and weave roof thatch from the palm fronds.",
+    "indonesian_meaning": "Kelapa",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 560,
+    "question_text": "Avocado",
+    "audio_transcript": "Nutritionists recommend avocados because they are abundant in heart-healthy monounsaturated fats.",
+    "indonesian_meaning": "Alpukat",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 561,
+    "question_text": "Cucumber",
+    "audio_transcript": "Thinly sliced crunchy cucumber gives iced summer sandwiches a cooling, refreshing taste.",
+    "indonesian_meaning": "Mentimun",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 562,
+    "question_text": "Tomato",
+    "audio_transcript": "He simmered ripe vine tomatoes with sweet basil and garlic to create a classic marinara sauce.",
+    "indonesian_meaning": "Tomat",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 563,
+    "question_text": "Potato",
+    "audio_transcript": "Boiled baby potatoes served with butter and fresh dill are a Scandinavian staple.",
+    "indonesian_meaning": "Kentang",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 564,
+    "question_text": "Onion",
+    "audio_transcript": "Slowly sauteing sliced onions releases natural sugars, turning them sweet and golden brown.",
+    "indonesian_meaning": "Bawang bombay",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 565,
+    "question_text": "Garlic",
+    "audio_transcript": "A single clove of minced garlic infuses homemade olive oil dressings with bold savory aroma.",
+    "indonesian_meaning": "Bawang putih",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 566,
+    "question_text": "Ginger",
+    "audio_transcript": "Drinking warm hot water steeped with sliced raw ginger soothes an upset stomach.",
+    "indonesian_meaning": "Jahe",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 567,
+    "question_text": "Carrot",
+    "audio_transcript": "Crunchy raw carrots provide high beta-carotene, which the human body converts into vitamin A.",
+    "indonesian_meaning": "Wortel",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 568,
+    "question_text": "Spinach",
+    "audio_transcript": "Fresh baby spinach leaves can be blended into morning smoothies or gently sauteed with olive oil.",
+    "indonesian_meaning": "Bayam hijau",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 569,
+    "question_text": "Cabbage",
+    "audio_transcript": "Finely shredded red cabbage adds vibrant color and crisp texture to autumn salads.",
+    "indonesian_meaning": "Kubis / kol",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 570,
+    "question_text": "Broccoli",
+    "audio_transcript": "Lightly steaming fresh broccoli florets preserves beneficial antioxidants and dietary sulforaphane.",
+    "indonesian_meaning": "Brokoli hijau",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 571,
+    "question_text": "Corn",
+    "audio_transcript": "Sweet corn cobs are grilled over charcoal and brushed with salted butter.",
+    "indonesian_meaning": "Jagung manis",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 572,
+    "question_text": "Mushroom",
+    "audio_transcript": "Sauteed button mushrooms add a deep savory umami taste to vegetable risottos.",
+    "indonesian_meaning": "Jamur pangan",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 573,
+    "question_text": "Pea",
+    "audio_transcript": "Sweet garden peas are tender when freshly picked from the vine in early summer.",
+    "indonesian_meaning": "Kacang polong bulat",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 574,
+    "question_text": "Desk",
+    "audio_transcript": "Each student hall room is furnished with a sturdy study desk and reading lamp.",
+    "indonesian_meaning": "Meja tulis / meja belajar",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 575,
+    "question_text": "Table",
+    "audio_transcript": "The family gathered around the wooden dining table for evening dinner.",
+    "indonesian_meaning": "Meja makan / meja serbaguna",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 576,
+    "question_text": "Bottle",
+    "audio_transcript": "Visitors are encouraged to bring a reusable stainless steel water bottle on walking tours.",
+    "indonesian_meaning": "Botol wadah minuman",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 577,
+    "question_text": "Fork",
+    "audio_transcript": "Lay the fork to the left of the dinner plate according to formal dining etiquette.",
+    "indonesian_meaning": "Garpu makan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 578,
+    "question_text": "Spoon",
+    "audio_transcript": "Stir a level teaspoon of honey into the herbal tea until dissolved.",
+    "indonesian_meaning": "Sendok makan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 579,
+    "question_text": "Knife",
+    "audio_transcript": "A serrated bread knife cuts cleanly through crusty loaves without crushing the soft interior.",
+    "indonesian_meaning": "Pisau dapur / pisau makan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 580,
+    "question_text": "Trash bin",
+    "audio_transcript": "Recycling trash bins are clearly segregated for paper, plastic, and compostable organic waste.",
+    "indonesian_meaning": "Tempat sampah",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 581,
+    "question_text": "Broom",
+    "audio_transcript": "The janitor used a wide broom to sweep dry fallen leaves off the paved courtyard.",
+    "indonesian_meaning": "Sapu ijuk / sapu lantai",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 582,
+    "question_text": "Bucket",
+    "audio_transcript": "Fill the plastic bucket with warm soapy water to wash down the patio windows.",
+    "indonesian_meaning": "Ember air",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 583,
+    "question_text": "Ladder",
+    "audio_transcript": "The painter mounted an aluminum stepladder to reach the upper ceiling cornices.",
+    "indonesian_meaning": "Tangga lipat bertingkat",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 584,
+    "question_text": "Hammer",
+    "audio_transcript": "He used a claw hammer to drive iron nails firmly into the wooden bookshelf frame.",
+    "indonesian_meaning": "Palu / martil tukang",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 585,
+    "question_text": "Scissors",
+    "audio_transcript": "Please pass the kitchen scissors so I can snip the fresh herb stems.",
+    "indonesian_meaning": "Gunting pemotong",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 586,
+    "question_text": "Torch",
+    "audio_transcript": "Campers are advised to pack a spare torch and extra batteries for night trail navigation.",
+    "indonesian_meaning": "Lampu senter genggam",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 587,
+    "question_text": "Charger",
+    "audio_transcript": "Don't forget to pack your laptop charger and universal travel plug adapter.",
+    "indonesian_meaning": "Alat pengisi daya listrik / casan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 588,
+    "question_text": "Umbrella",
+    "audio_transcript": "Keep a compact folding umbrella in your backpack as coastal showers are unpredictable.",
+    "indonesian_meaning": "Payung penahan hujan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 589,
+    "question_text": "Neck",
+    "audio_transcript": "Poor office chair ergonomics often leads to chronic neck and shoulder stiffness.",
+    "indonesian_meaning": "Leher",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 590,
+    "question_text": "Shoulder",
+    "audio_transcript": "Carrying an overloaded backpack on one shoulder can warp spine alignment.",
+    "indonesian_meaning": "Bahu / pundak",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 591,
+    "question_text": "Chest",
+    "audio_transcript": "Patients experiencing acute chest tightness must seek immediate emergency medical evaluation.",
+    "indonesian_meaning": "Dada",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 592,
+    "question_text": "Spine",
+    "audio_transcript": "Swimming freestyle strengthens core back muscles while taking compression weight off the spine.",
+    "indonesian_meaning": "Tulang belakang / kolumna vertebralis",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "question_text": "Wrist",
+    "audio_transcript": "Typists should position their wrists horizontally to prevent repetitive strain injuries.",
+    "indonesian_meaning": "Pergelangan tangan",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 594,
+    "question_text": "Ankle",
+    "audio_transcript": "High supportive hiking boots protect your ankle from twisting on loose scree slopes.",
+    "indonesian_meaning": "Pergelangan kaki",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 595,
+    "question_text": "Knee",
+    "audio_transcript": "Low-impact elliptical cycling strengthens quadriceps without placing jarring force on knee cartilage.",
+    "indonesian_meaning": "Lutut kaki",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 596,
+    "question_text": "Throat",
+    "audio_transcript": "Sipping warm chamomile infusion relieves a sore, scratchy throat caused by seasonal colds.",
+    "indonesian_meaning": "Tenggorokan",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 597,
+    "question_text": "Lung",
+    "audio_transcript": "Airborne particulate pollution penetrates deep into lung tissue, triggering chronic respiratory distress.",
+    "indonesian_meaning": "Paru-paru",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 598,
+    "question_text": "Heart",
+    "audio_transcript": "Cardiovascular exercise enhances heart efficiency and lowers resting blood pressure.",
+    "indonesian_meaning": "Jantung",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 599,
+    "question_text": "Pharmacy",
+    "audio_transcript": "The 24-hour on-duty pharmacy is located directly opposite the central bus terminal.",
+    "indonesian_meaning": "Apotek toko obat",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 600,
+    "question_text": "Bakery",
+    "audio_transcript": "The neighbourhood artisanal bakery opens at dawn with warm sourdough loaves.",
+    "indonesian_meaning": "Toko roti dan kue",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 601,
+    "question_text": "Library",
+    "audio_transcript": "University students can book quiet study carrels on the third floor of the main library.",
+    "indonesian_meaning": "Perpustakaan",
+    "context_location": "Education",
+    "level": "A1"
+  },
+  {
+    "id": 602,
+    "question_text": "Pedestrian crossing",
+    "audio_transcript": "Traffic regulations strictly require vehicles to yield to pedestrians waiting at the zebra crossing.",
+    "indonesian_meaning": "Zebra cross penyeberangan jalan",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 603,
+    "question_text": "Pavement",
+    "audio_transcript": "Urban planners widened the pedestrian pavement to accommodate outdoor cafe seating.",
+    "indonesian_meaning": "Trotoar jalan pejalan kaki",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 604,
+    "question_text": "Bridge",
+    "audio_transcript": "A suspension pedestrian footbridge spans the scenic river gorge, connecting the two hiking trails.",
+    "indonesian_meaning": "Jembatan penyeberangan",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 605,
+    "question_text": "Circular",
+    "audio_transcript": "The conference table is circular to encourage equitable, inclusive group discussions.",
+    "indonesian_meaning": "Berbentuk lingkaran bundar",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 606,
+    "question_text": "Rectangular",
+    "audio_transcript": "The exhibition hall layout features a large central rectangular pavilion.",
+    "indonesian_meaning": "Berbentuk persegi panjang",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 607,
+    "question_text": "Triangular",
+    "audio_transcript": "Warning hazard road signs are typically triangular with bold red borders.",
+    "indonesian_meaning": "Berbentuk segitiga tiga sisi",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 608,
+    "question_text": "Shallow",
+    "audio_transcript": "Young children played safely in the shallow end of the outdoor resort pool.",
+    "indonesian_meaning": "Dangkal (tidak dalam)",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 609,
+    "question_text": "Deep",
+    "audio_transcript": "Marine researchers explored deep oceanic trenches using robotic underwater submersibles.",
+    "indonesian_meaning": "Dalam (menjorok jauh ke bawah)",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 610,
+    "question_text": "Steep",
+    "audio_transcript": "Hikers had to climb a steep rocky ridge to reach the mountain summit observatory.",
+    "indonesian_meaning": "Curam / terjal menanjak",
+    "context_location": "Shapes & Measurement",
+    "level": "A1"
+  },
+  {
+    "id": 611,
+    "question_text": "Plumber",
+    "audio_transcript": "We called a certified plumber to repair the corroded pipe beneath the kitchen sink.",
+    "indonesian_meaning": "Tukang ledeng perbaikan pipa air",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 612,
+    "question_text": "Electrician",
+    "audio_transcript": "A licensed electrician inspected the household circuit breaker panel after the power surge.",
+    "indonesian_meaning": "Tukang listrik instalasi kabel",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 613,
+    "question_text": "Carpenter",
+    "audio_transcript": "The carpenter built custom fitted bookshelves that match the room's vintage oak molding.",
+    "indonesian_meaning": "Tukang kayu perabot dan bangunan",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 614,
+    "question_text": "Mechanic",
+    "audio_transcript": "The garage mechanic checked the brake pads and changed the engine motor oil.",
+    "indonesian_meaning": "Montir mekanik mesin kendaraan",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 615,
+    "question_text": "Librarian",
+    "audio_transcript": "The research librarian assisted students in accessing archived historical newspapers.",
+    "indonesian_meaning": "Pustakawan pengelola buku",
+    "context_location": "Education",
+    "level": "A1"
+  },
+  {
+    "id": 616,
+    "question_text": "Accountant",
+    "audio_transcript": "Small business owners hire certified public accountants to manage annual corporate tax filings.",
+    "indonesian_meaning": "Akuntan pembukuan keuangan",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 617,
+    "question_text": "Pharmacist",
+    "audio_transcript": "The community pharmacist advised the patient on the correct dosage for the antibiotic tablets.",
+    "indonesian_meaning": "Apoteker peracik obat",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 618,
+    "question_text": "Dentist",
+    "audio_transcript": "Dental associations recommend scheduling a checkup with a dentist twice a year.",
+    "indonesian_meaning": "Dokter gigi",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 619,
+    "question_text": "Penguin",
+    "audio_transcript": "Emperor penguins huddle in tight rotating clusters to endure brutal Antarctic blizzards.",
+    "indonesian_meaning": "Pinguin (burung kutub tak terbang)",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 620,
+    "question_text": "Elephant",
+    "audio_transcript": "Elephants maintain deep matriarchal social bonds and remember migration watering holes for decades.",
+    "indonesian_meaning": "Gajah berbelalai",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 621,
+    "question_text": "Giraffe",
+    "audio_transcript": "Giraffes use their long prehensile purple tongues to pluck tender acacia leaves among sharp thorns.",
+    "indonesian_meaning": "Jerapah berleher panjang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 622,
+    "question_text": "Zebra",
+    "audio_transcript": "The distinctive vertical stripes of zebras confuse biting tsetse flies and predatory lions.",
+    "indonesian_meaning": "Zebra bergaris belang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 623,
+    "question_text": "Lion",
+    "audio_transcript": "Lionesses do the majority of collective hunting for the pride during nocturnal stalks.",
+    "indonesian_meaning": "Singa raja hutan",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 624,
+    "question_text": "Tiger",
+    "audio_transcript": "Bengal tigers rely on dense jungle cover to ambush wild boar and spotted deer.",
+    "indonesian_meaning": "Harimau loreng",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 625,
+    "question_text": "Monkey",
+    "audio_transcript": "Capuchin monkeys display impressive dexterity when cracking nuts open with anvil stones.",
+    "indonesian_meaning": "Monyet berekor",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 626,
+    "question_text": "Parrot",
+    "audio_transcript": "African grey parrots possess cognitive problem-solving abilities on par with a young child.",
+    "indonesian_meaning": "Burung beo / kakaktua",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 627,
+    "question_text": "Crow",
+    "audio_transcript": "New Caledonian crows bend stiff twigs into hooked implements to extract grubs from tree hollows.",
+    "indonesian_meaning": "Burung gagak hitam",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 628,
+    "question_text": "Seagull",
+    "audio_transcript": "Noisy flocks of seagulls follow offshore trawlers to scavenge discarded fish scraps.",
+    "indonesian_meaning": "Burung camar laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 629,
+    "question_text": "Sheep",
+    "audio_transcript": "Highland farmers herd flocks of hardy sheep across windswept grassy moors.",
+    "indonesian_meaning": "Domba penghasil wol",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 630,
+    "question_text": "Goat",
+    "audio_transcript": "Mountain goats have flexible rubbery hooves that grip sheer vertical rock faces securely.",
+    "indonesian_meaning": "Kambing ternak",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 631,
+    "question_text": "Cow",
+    "audio_transcript": "Dairy cows graze on lush spring clover to produce high-protein butterfat milk.",
+    "indonesian_meaning": "Sapi perah / ternak",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 632,
+    "question_text": "Horse",
+    "audio_transcript": "Therapeutic horse riding helps improve balance and confidence in children with motor challenges.",
+    "indonesian_meaning": "Kuda",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 633,
+    "question_text": "Chicken",
+    "audio_transcript": "Free-range chickens forage outdoors for wild seeds, worms, and fresh grass.",
+    "indonesian_meaning": "Ayam ternak",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 634,
+    "question_text": "Peach",
+    "audio_transcript": "Freshly harvested summer peaches are sweet, fragrant, and bursting with warm juice.",
+    "indonesian_meaning": "Buah persik berbiji keras",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 635,
+    "question_text": "Pear",
+    "audio_transcript": "Poached pears infused with cinnamon and star anise make a light winter dessert.",
+    "indonesian_meaning": "Buah pir",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 636,
+    "question_text": "Cherry",
+    "audio_transcript": "Tourists flock to Japan every spring to witness the breathtaking cherry blossoms.",
+    "indonesian_meaning": "Buah ceri merah",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 637,
+    "question_text": "Blueberry",
+    "audio_transcript": "Blueberries are classified as a superfood owing to their high concentration of anthocyanins.",
+    "indonesian_meaning": "Buah bluberi biru kaya antioksidan",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 638,
+    "question_text": "Melon",
+    "audio_transcript": "Honeydew melon slices wrapped in cured ham provide an elegant Italian appetizer.",
+    "indonesian_meaning": "Buah melon manis",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 639,
+    "question_text": "Eggplant",
+    "audio_transcript": "Grilled slices of eggplant absorb aromatic garlic and olive oil in Mediterranean moussaka.",
+    "indonesian_meaning": "Terong ungu",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 640,
+    "question_text": "Pumpkin",
+    "audio_transcript": "Warm roasted pumpkin soup seasoned with ground nutmeg is a comforting autumn supper.",
+    "indonesian_meaning": "Labu kuning besar",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 641,
+    "question_text": "Bell pepper",
+    "audio_transcript": "Stir-fried colorful bell peppers retain their crunchy snap when cooked over high heat.",
+    "indonesian_meaning": "Paprika manis (merah/kuning/hijau)",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 642,
+    "question_text": "Chilli",
+    "audio_transcript": "Bird's eye chillies contain high capsaicin that produces an intense spicy burning sensation.",
+    "indonesian_meaning": "Cabai pedas",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 643,
+    "question_text": "Lettuce",
+    "audio_transcript": "Crisp romaine lettuce leaves form the crunchy structural foundation of a classic Caesar salad.",
+    "indonesian_meaning": "Selada daun lalapan",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 644,
+    "question_text": "Celery",
+    "audio_transcript": "Diced celery, carrots, and onions form the classic aromatic mirepoix base for French broths.",
+    "indonesian_meaning": "Seledri batang renyah",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 645,
+    "question_text": "Sweet potato",
+    "audio_transcript": "Baked sweet potato wedges offer a nutrient-dense alternative to traditional french fries.",
+    "indonesian_meaning": "Ubi jalar manis",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 646,
+    "question_text": "Jacket",
+    "audio_transcript": "Hikers are advised to pack a lightweight waterproof jacket in case of sudden mountain squalls.",
+    "indonesian_meaning": "Jaket luar penahan angin/dingin",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 647,
+    "question_text": "Coat",
+    "audio_transcript": "She buttoned her heavy woollen trench coat tightly against the biting winter wind.",
+    "indonesian_meaning": "Mantel luar tebal / jas panjang",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 648,
+    "question_text": "Scarf",
+    "audio_transcript": "Wrapping a warm cashmere scarf around your throat helps insulate against sub-zero drafts.",
+    "indonesian_meaning": "Syal leher rajut / kerudung",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 649,
+    "question_text": "Gloves",
+    "audio_transcript": "Gardeners wear durable leather gloves to shield their hands from thorny briars.",
+    "indonesian_meaning": "Sarung tangan pelindung",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 650,
+    "question_text": "Boots",
+    "audio_transcript": "Waterproof leather hiking boots provide essential ankle support over uneven rocky trails.",
+    "indonesian_meaning": "Sepatu bot tinggi pelindung kaki",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 651,
+    "question_text": "Backpack",
+    "audio_transcript": "Adjust the ergonomic chest strap so the backpack weight distributes evenly across your hips.",
+    "indonesian_meaning": "Ransel punggung",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 652,
+    "question_text": "Suitcase",
+    "audio_transcript": "Airlines impose an excess baggage fee if your checked suitcase exceeds twenty-three kilograms.",
+    "indonesian_meaning": "Koper pakaian perjalanan",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 653,
+    "question_text": "Glasses",
+    "audio_transcript": "The optometrist prescribed anti-reflective reading glasses to reduce digital screen eye strain.",
+    "indonesian_meaning": "Kacamata penglihatan",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 654,
+    "question_text": "Canteen",
+    "audio_transcript": "The university canteen serves subsidized hot vegetarian meals from noon until two.",
+    "indonesian_meaning": "Kantin makan kampus / kantor",
+    "context_location": "Places & Town",
+    "level": "A1"
+  },
+  {
+    "id": 655,
+    "question_text": "Gymnasium",
+    "audio_transcript": "Campus gym membership includes unrestricted access to the cardiovascular equipment and Olympic pool.",
+    "indonesian_meaning": "Pusat kebugaran / gedung olahraga",
+    "context_location": "Places & Town",
+    "level": "A1"
+  },
+  {
+    "id": 656,
+    "question_text": "Town hall",
+    "audio_transcript": "The municipal community consultation meeting will be held in the historic town hall auditorium.",
+    "indonesian_meaning": "Balai kota pertemuan warga",
+    "context_location": "Places & Town",
+    "level": "A1"
+  },
+  {
+    "id": 657,
+    "question_text": "Castle",
+    "audio_transcript": "Guided tours of the medieval stone castle depart from the drawbridge courtyard every hour.",
+    "indonesian_meaning": "Kastel / benteng istana kuno",
+    "context_location": "Places & Town",
+    "level": "A1"
+  },
+  {
+    "id": 658,
+    "question_text": "Museum",
+    "audio_transcript": "Admission to national permanent museum galleries is free of charge to the public throughout the year.",
+    "indonesian_meaning": "Museum pameran sejarah dan seni",
+    "context_location": "Places & Town",
+    "level": "A1"
+  },
+  {
+    "id": 659,
+    "question_text": "Snail",
+    "audio_transcript": "Garden snails secrete a glistening layer of protective mucus to glide across rough concrete.",
+    "indonesian_meaning": "Siput / bekicot bercangkang spiral",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 660,
+    "question_text": "Worm",
+    "audio_transcript": "Earthworms aerate agricultural topsoil by churning decomposing leaf matter into rich humus.",
+    "indonesian_meaning": "Cacing tanah penyubur",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 661,
+    "question_text": "Fly",
+    "audio_transcript": "House flies carry bacterial contaminants on their feet, posing sanitation risks in food preparation areas.",
+    "indonesian_meaning": "Lalat",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 662,
+    "question_text": "Dragonfly",
+    "audio_transcript": "Dragonflies are formidable aerial predators capable of flying backward and hovering in place.",
+    "indonesian_meaning": "Capung pemangsa serangga",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 663,
+    "question_text": "Grasshopper",
+    "audio_transcript": "Grasshoppers produce their characteristic summer chirping sound by rubbing their hind legs against their wings.",
+    "indonesian_meaning": "Belalang pelompat",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 664,
+    "question_text": "Caterpillar",
+    "audio_transcript": "The hungry green caterpillar devoured milkweed leaves before pupating into a decorative chrysalis.",
+    "indonesian_meaning": "Ulat bulu (larva kupu-kupu)",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 665,
+    "question_text": "Beetle",
+    "audio_transcript": "Dung beetles roll and bury livestock manure, accelerating subterranean soil nutrient recycling.",
+    "indonesian_meaning": "Kumbang bersayap perisai keras",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 666,
+    "question_text": "Fig",
+    "audio_transcript": "Fresh purple figs paired with mild goat cheese make a classic Mediterranean appetizer.",
+    "indonesian_meaning": "Buah tin / ara manis",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 667,
+    "question_text": "Pomegranate",
+    "audio_transcript": "Tart ruby-red pomegranate seeds add burst of color and acidity to Persian rice pilaf.",
+    "indonesian_meaning": "Buah delima berbiji merah",
+    "context_location": "Fruits & Vegetables",
+    "level": "B2"
+  },
+  {
+    "id": 668,
+    "question_text": "Kiwi",
+    "audio_transcript": "One medium ripe kiwi fruit supplies more than the daily recommended intake of vitamin C.",
+    "indonesian_meaning": "Buah kiwi hijau berbulu",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 669,
+    "question_text": "Cinnamon",
+    "audio_transcript": "Sprinkling freshly grated cinnamon over morning oatmeal adds natural warmth and fragrance.",
+    "indonesian_meaning": "Kayu manis rempah",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 670,
+    "question_text": "Pepper",
+    "audio_transcript": "Freshly cracked black pepper complements coarse sea salt as universal table seasoning.",
+    "indonesian_meaning": "Lada hitam / merica",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 671,
+    "question_text": "Salt",
+    "audio_transcript": "Excessive dietary salt intake contributes directly to elevated arterial hypertension.",
+    "indonesian_meaning": "Garam dapur",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 672,
+    "question_text": "Fridge",
+    "audio_transcript": "Leftover cooked chicken should be refrigerated in the fridge within two hours.",
+    "indonesian_meaning": "Kulkas lemari pendingin makanan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 673,
+    "question_text": "Stove",
+    "audio_transcript": "Always ensure the gas stove knobs are turned off completely before leaving the accommodation.",
+    "indonesian_meaning": "Kompor masak dapur",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 674,
+    "question_text": "Oven",
+    "audio_transcript": "Preheat the convection oven to two hundred degrees Celsius before baking the sourdough bread.",
+    "indonesian_meaning": "Oven pemanggang kue/makanan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 675,
+    "question_text": "Soap",
+    "audio_transcript": "Washing hands with warm running water and liquid antibacterial soap prevents microbial infection.",
+    "indonesian_meaning": "Sabun mandi / sabun cuci tangan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 676,
+    "question_text": "Toothbrush",
+    "audio_transcript": "Dentists recommend replacing your soft-bristle toothbrush every three months.",
+    "indonesian_meaning": "Sikat gigi pembersih",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 677,
+    "question_text": "Toothpaste",
+    "audio_transcript": "Fluoride toothpaste strengthens tooth enamel against acidic demineralization.",
+    "indonesian_meaning": "Pasta gigi / odol",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 678,
+    "question_text": "Shampoo",
+    "audio_transcript": "The eco-friendly hotel supplies biodegradable organic herbal shampoo dispensers in all showers.",
+    "indonesian_meaning": "Sampo pencuci rambut",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 679,
+    "question_text": "Comb",
+    "audio_transcript": "Use a wide-tooth wooden comb to gently untangle damp hair without causing breakage.",
+    "indonesian_meaning": "Sisir rambut bergigi",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 680,
+    "question_text": "Wallet",
+    "audio_transcript": "The commuter misplaced his leather wallet containing his metro travel card and driving license.",
+    "indonesian_meaning": "Dompet uang dan kartu saku",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 681,
+    "question_text": "Belt",
+    "audio_transcript": "Passengers must remove metal-buckled leather belts before passing through the airport security scanner.",
+    "indonesian_meaning": "Ikat pinggang sabuk",
+    "context_location": "Clothing & Accessories",
+    "level": "A1"
+  },
+  {
+    "id": 682,
+    "question_text": "Watch",
+    "audio_transcript": "Analog wrist watches are permitted in exam halls, but internet-connected smartwatches are banned.",
+    "indonesian_meaning": "Jam tangan penunjuk waktu",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 683,
+    "question_text": "Hamster",
+    "audio_transcript": "Children learn responsibility by feeding pet hamsters sunflower seeds and cleaning their cages.",
+    "indonesian_meaning": "Hamster (hewan pengerat kecil berpipa pipi)",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 684,
+    "question_text": "Puppy",
+    "audio_transcript": "Puppies require consistent socialization and basic obedience training during early development.",
+    "indonesian_meaning": "Anak anjing lucu",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 685,
+    "question_text": "Kitten",
+    "audio_transcript": "A fluffy ginger kitten purred contentedly while curled up asleep on the armchair cushion.",
+    "indonesian_meaning": "Anak kucing",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 686,
+    "question_text": "Donkey",
+    "audio_transcript": "Sure-footed mountain donkeys carried medical supplies up the narrow rocky trail.",
+    "indonesian_meaning": "Keledai pengangkut beban",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 687,
+    "question_text": "Shrimp",
+    "audio_transcript": "Mangrove estuaries provide sheltered nursery habitats for juvenile wild shrimp populations.",
+    "indonesian_meaning": "Udang kecil laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 688,
+    "question_text": "Seahorse",
+    "audio_transcript": "Unique among vertebrates, male seahorses carry fertilised eggs in an abdominal brooding pouch.",
+    "indonesian_meaning": "Kuda laut berekor melingkar",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 689,
+    "question_text": "Starfish",
+    "audio_transcript": "Starfish can regenerate severed arms over several months through biological tissue renewal.",
+    "indonesian_meaning": "Bintang laut bertubuh simetris",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 690,
+    "question_text": "Peacock",
+    "audio_transcript": "The peacock spread its magnificent eyed tail feathers into a giant shimmering fan.",
+    "indonesian_meaning": "Burung merak jantan berekor kipas",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 691,
+    "question_text": "Flamingo",
+    "audio_transcript": "Flocks of pink flamingos feed on brine shrimp in alkaline volcanic crater lakes.",
+    "indonesian_meaning": "Burung flamingo merah muda berkaki jenjang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 692,
+    "question_text": "Plum",
+    "audio_transcript": "Ripe dark plums are simmered with brown sugar to make artisanal breakfast preserves.",
+    "indonesian_meaning": "Buah prem manis ungu/merah",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 693,
+    "question_text": "Apricot",
+    "audio_transcript": "Sun-dried Turkish apricots provide a high-fiber portable snack for mountain treks.",
+    "indonesian_meaning": "Buah aprikot oranye manis asam",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 694,
+    "question_text": "Raspberry",
+    "audio_transcript": "Wild raspberries grow abundantly along sunny forest borders and hedgerows.",
+    "indonesian_meaning": "Buah rasberi merah lembut berpori",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 695,
+    "question_text": "Parsley",
+    "audio_transcript": "Finely chopped fresh parsley was sprinkled over the roasted garlic potatoes.",
+    "indonesian_meaning": "Peterseli herba penyegar",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 696,
+    "question_text": "Basil",
+    "audio_transcript": "Pound fresh basil leaves, pine nuts, garlic, and parmesan into fragrant green pesto.",
+    "indonesian_meaning": "Daun kemangi / selasih aromatik",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 697,
+    "question_text": "Mint",
+    "audio_transcript": "Fresh Moroccan mint tea brewed with green tea leaves is offered to visiting guests as hospitality.",
+    "indonesian_meaning": "Daun min penyegar beraroma mentol",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 698,
+    "question_text": "Rosemary",
+    "audio_transcript": "Roasting lamb seasoned with fresh rosemary sprigs and crushed garlic releases a deep fragrant aroma.",
+    "indonesian_meaning": "Rempah daun rosemari wangi pinus",
+    "context_location": "Fruits & Vegetables",
+    "level": "A1"
+  },
+  {
+    "id": 699,
+    "question_text": "Stairs",
+    "audio_transcript": "Taking the stairs instead of the elevator is an easy way to incorporate daily physical activity.",
+    "indonesian_meaning": "Anak tangga naik lantai gedung",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 700,
+    "question_text": "Floor",
+    "audio_transcript": "The science reference collection is situated on the second floor of the campus library.",
+    "indonesian_meaning": "Lantai ruangan / tingkat lantai gedung",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 701,
+    "question_text": "Roof",
+    "audio_transcript": "Solar photovoltaic panels installed across the community hall roof supply green electricity.",
+    "indonesian_meaning": "Atap penutup pelindung bangunan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 702,
+    "question_text": "Window",
+    "audio_transcript": "Double-glazed acoustic windows insulate city apartments from external traffic rumble.",
+    "indonesian_meaning": "Jendela kaca sirkulasi udara dan cahaya",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 703,
+    "question_text": "Door",
+    "audio_transcript": "Please ensure the fire exit door remains unobstructed by boxes at all times.",
+    "indonesian_meaning": "Pintu masuk ruangan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 704,
+    "question_text": "Plate",
+    "audio_transcript": "Hot dinner plates were carried out from the kitchen by the banquet waitstaff.",
+    "indonesian_meaning": "Piring makan ceper",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 705,
+    "question_text": "Bowl",
+    "audio_transcript": "She poured hot chicken broth into a ceramic soup bowl garnished with sliced scallions.",
+    "indonesian_meaning": "Mangkuk cekung untuk sup / sereal",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 706,
+    "question_text": "Cup",
+    "audio_transcript": "In Britain, offering a hot cup of black tea with milk is a classic gesture of welcome.",
+    "indonesian_meaning": "Cangkir minum bertangkai",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 707,
+    "question_text": "Glass",
+    "audio_transcript": "Fill a tall glass with crushed ice and sparkling spring water with lemon.",
+    "indonesian_meaning": "Gelas kaca minum",
+    "context_location": "Daily Objects",
+    "level": "A1"
   }
 ]

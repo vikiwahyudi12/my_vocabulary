@@ -61,7 +61,8 @@ void main() {
 
     // Verify key foundational topics requested by the user are visible
     expect(find.text('Objek & Rumah'), findsOneWidget);
-    expect(find.text('Hewan & Ciri Fisik'), findsOneWidget);
+    expect(find.text('Daftar Hewan & Satwa'), findsOneWidget);
+    expect(find.text('Buah & Sayuran'), findsOneWidget);
     expect(find.text('Makanan, Rasa & Tekstur'), findsOneWidget);
     expect(find.text('Hutan & Alam'), findsOneWidget);
 

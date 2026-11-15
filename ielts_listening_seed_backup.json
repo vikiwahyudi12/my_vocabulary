@@ -1,8 +1,8 @@
 {
   "app": "IELTS Vocabulary Notebook",
   "version": 1,
-  "exported_at": "2026-11-15T09:58:40.677795Z",
-  "total_words": 502,
+  "exported_at": "2026-11-15T10:41:19.647199Z",
+  "total_words": 707,
   "custom_topics": [
     "Economy",
     "Education",
@@ -10672,6 +10672,4425 @@
       "isFavorite": 0,
       "created_at": "2026-11-15T17:20:00.000Z",
       "updated_at": "2026-11-15T17:20:00.000Z"
+    },
+    {
+      "word": "Bat",
+      "meaning": "Kelelawar",
+      "level": "Basic",
+      "phonetic": "/bæt/",
+      "definition": "A nocturnal flying mammal that navigates and hunts insects using echolocation.",
+      "example": "Fruit bats roost in large limestone caves and pollinate nocturnal tropical flowers.",
+      "exampleTranslation": "Kelelawar buah bertengger di gua kapur besar dan menyerbuki bunga tropis malam hari.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Classic IELTS animal: echolocation and nocturnal biology passages.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Mouse",
+      "meaning": "Tikus kecil rumah/lapangan",
+      "level": "Basic",
+      "phonetic": "/maʊs/",
+      "definition": "A small rodent with a pointed snout, small rounded ears, and a long naked tail.",
+      "example": "Field mice harvest fallen grass seeds and store them in dry underground nests.",
+      "exampleTranslation": "Tikus ladang memanen biji rumput yang jatuh dan menyimpannya di sarang bawah tanah yang kering.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural is 'mice' (not 'mouses') - frequent grammar trap.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Rat",
+      "meaning": "Tikus besar / tikus got",
+      "level": "Basic",
+      "phonetic": "/ræt/",
+      "definition": "A rodent resembling a mouse but larger with a blunt snout and scaly ringed tail.",
+      "example": "Urban health inspectors monitored subway tunnels to control brown rat infestations.",
+      "exampleTranslation": "Pengawas kesehatan kota memantau terowongan bawah tanah untuk mengendalikan wabah tikus got cokelat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Health"
+      ],
+      "notes": "Distinction: mice are smaller (tikus kecil), rats are larger (tikus besar).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Owl",
+      "meaning": "Burung hantu",
+      "level": "Basic",
+      "phonetic": "/aʊl/",
+      "definition": "A nocturnal bird of prey with large eyes facing forward and a soft silent flight.",
+      "example": "The barn owl hunts small rodents at dusk by relying on extremely sensitive directional hearing.",
+      "exampleTranslation": "Burung hantu serak berburu hewan pengerat kecil saat senja dengan mengandalkan pendengaran arah yang sangat peka.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Common in IELTS Listening Section 4 ornithology lectures.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Eagle",
+      "meaning": "Burung elang pemangsa besar",
+      "level": "Basic",
+      "phonetic": "/ˈiː.ɡəl/",
+      "definition": "A large bird of prey with a massive hooked bill and broad soaring wings.",
+      "example": "Golden eagles nest high on inaccessible mountain cliff ledges.",
+      "exampleTranslation": "Burung elang emas bersarang tinggi di tebing gunung terjal yang sulit dijangkau.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Raptor / apex avian predator.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Hawk",
+      "meaning": "Burung rajawali / alap-alap",
+      "level": "Basic",
+      "phonetic": "/hɔːk/",
+      "definition": "A medium-sized bird of prey with short rounded wings and a long tail.",
+      "example": "The red-tailed hawk soared in lazy circles above the open meadow.",
+      "exampleTranslation": "Burung rajawali berekor merah melayang melingkar santai di atas padang rumput terbuka.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Often used for airfield bird control in IELTS Listening Section 2.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Falcon",
+      "meaning": "Burung falkon / alap-alap kawah",
+      "level": "Basic",
+      "phonetic": "/ˈfɒl.kən/",
+      "definition": "A fast-flying bird of prey with long pointed wings and exceptional diving speed.",
+      "example": "Peregrine falcons can reach diving speeds exceeding three hundred kilometers per hour.",
+      "exampleTranslation": "Burung falkon peregrin dapat mencapai kecepatan menukik lebih dari tiga ratus kilometer per jam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Known as the fastest animal on Earth during hunting dives.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pigeon",
+      "meaning": "Burung merpati / dara",
+      "level": "Basic",
+      "phonetic": "/ˈpɪdʒ.ən/",
+      "definition": "A plump bird with a small head, short legs, and cooing voice, common in towns.",
+      "example": "Homing pigeons demonstrate remarkable navigational ability across unfamiliar terrain.",
+      "exampleTranslation": "Burung merpati pos menunjukkan kemampuan navigasi yang luar biasa melintasi medan yang asing.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Often studied in animal migration and magnetoreception research.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Sparrow",
+      "meaning": "Burung gereja kecil",
+      "level": "Basic",
+      "phonetic": "/ˈspær.əʊ/",
+      "definition": "A small brownish-grey bird common in both urban gardens and countryside hedgerows.",
+      "example": "House sparrow populations in central London have declined due to loss of insect prey.",
+      "exampleTranslation": "Populasi burung gereja rumah di pusat London menurun akibat hilangnya mangsa serangga.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Environment"
+      ],
+      "notes": "Urban biodiversity indicator species in IELTS Reading.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Swan",
+      "meaning": "Burung angsa putih leher panjang",
+      "level": "Basic",
+      "phonetic": "/swɒn/",
+      "definition": "A large waterbird with a long flexible neck, short legs, and webbed feet.",
+      "example": "Mute swans glide gracefully along the lake and mate for life.",
+      "exampleTranslation": "Angsa putih meluncur anggun di sepanjang danau dan berpasangan seumur hidup.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Collocation: 'swan song' (karya terakhir seorang seniman).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Duck",
+      "meaning": "Bebek / itik air",
+      "level": "Basic",
+      "phonetic": "/dʌk/",
+      "definition": "A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
+      "example": "Children fed stale breadcrumbs to the wild ducks swimming in the park pond.",
+      "exampleTranslation": "Anak-anak memberi makan remah roti basi ke bebek liar yang berenang di kolam taman.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Can also be a verb ('to duck down' / membungkuk cepat).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Goose",
+      "meaning": "Angsa abu-abu",
+      "level": "Basic",
+      "phonetic": "/ɡuːs/",
+      "definition": "A large waterbird with a long neck, webbed feet, and a honking call.",
+      "example": "Migrating geese fly in a cooperative V-formation to reduce aerodynamic drag.",
+      "exampleTranslation": "Angsa yang bermigrasi terbang dalam formasi huruf V bersama untuk mengurangi hambatan udara.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural is 'geese' (not 'gooses') - irregular plural.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Squirrel",
+      "meaning": "Tupai pohon berekor lebat",
+      "level": "Basic",
+      "phonetic": "/ˈskwɪr.əl/",
+      "definition": "An agile tree-dwelling rodent with a bushy tail and furry coat.",
+      "example": "Grey squirrels cache hundreds of acorns and hazelnuts in the ground before winter.",
+      "exampleTranslation": "Tupai abu-abu menyembunyikan ratusan kacang ek dan kemiri di tanah sebelum musim dingin.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Pronunciation: /ˈskwɪr.əl/ in UK, /ˈskwɜːr.əl/ in US.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Hedgehog",
+      "meaning": "Landak mini berduri",
+      "level": "Basic",
+      "phonetic": "/ˈhedʒ.hɒɡ/",
+      "definition": "A small nocturnal spiny mammal capable of rolling itself into a protective ball.",
+      "example": "Gardening charities encourage creating small gaps in fences to assist hedgehog foraging.",
+      "exampleTranslation": "Lembaga amal perkebunan mendorong pembuatan celah kecil di pagar untuk membantu landak mini mencari makan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Different from porcupine (hedgehog is small & rolls into a ball).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Beaver",
+      "meaning": "Berang-berang pembuat bendungan",
+      "level": "Basic",
+      "phonetic": "/ˈbiː.vər/",
+      "definition": "A large semiaquatic broad-tailed rodent known for building wooden dams across streams.",
+      "example": "Reintroducing beavers to Scottish rivers restored natural wetland hydrology and filtered silt.",
+      "exampleTranslation": "Memasukkan kembali berang-berang ke sungai Skotlandia memulihkan tata air lahan basah alami dan menyaring lumpur.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Nature & Forestry"
+      ],
+      "notes": "Famous 'ecosystem engineer' featured frequently in IELTS reading passages.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Otter",
+      "meaning": "Berang-berang air / linsang",
+      "level": "Basic",
+      "phonetic": "/ˈɒt.ər/",
+      "definition": "A semiaquatic fish-eating mammal with dense waterproof fur, webbed feet, and a long tail.",
+      "example": "River otters use flat stones as tools to crack open hard mollusc shells.",
+      "exampleTranslation": "Berang-berang air tawar menggunakan batu pipih sebagai alat untuk memecahkan cangkang kerang yang keras.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Often appears in tool-using animal studies in IELTS Reading.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Badger",
+      "meaning": "Luwak / musang belang eropa",
+      "level": "Basic",
+      "phonetic": "/ˈbædʒ.ər/",
+      "definition": "A heavily built nocturnal burrowing mammal with black-and-white striped facial markings.",
+      "example": "European badgers live in intricate communal underground tunnel networks called setts.",
+      "exampleTranslation": "Luwak Eropa hidup di jaringan terowongan bawah tanah komunal yang rumit yang disebut sett.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Sett: sarang bawah tanah luwak.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Fox",
+      "meaning": "Rubah / serigala kecil berekor lebat",
+      "level": "Basic",
+      "phonetic": "/fɒks/",
+      "definition": "A carnivorous mammal with a pointed snout, bushy tail, and reddish-brown coat.",
+      "example": "Urban red foxes have successfully adapted to scavenge food waste in residential gardens.",
+      "exampleTranslation": "Rubah merah perkotaan telah berhasil beradaptasi untuk mengais sisa makanan di pekarangan warga.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'foxes'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Wolf",
+      "meaning": "Serigala liar",
+      "level": "Basic",
+      "phonetic": "/wʊlf/",
+      "definition": "A wild carnivorous mammal of the dog family, living and hunting in coordinated packs.",
+      "example": "The pack hierarchy among grey wolves is maintained through vocalizations and postures.",
+      "exampleTranslation": "Hierarki kawanan di antara serigala abu-abu dijaga melalui suara lolongan dan postur tubuh.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'wolves'. Collective noun: 'pack of wolves'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Deer",
+      "meaning": "Rusa / kijang",
+      "level": "Basic",
+      "phonetic": "/dɪər/",
+      "definition": "A hoofed grazing or browsing animal, with branched bony antlers shed annually by males.",
+      "example": "A herd of red deer grazed quietly in the misty valley at sunrise.",
+      "exampleTranslation": "Sekawanan rusa merah merumput dengan tenang di lembah berkabut saat matahari terbit.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural is still 'deer' (not 'deers') - irregular invariant noun.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bear",
+      "meaning": "Beruang",
+      "level": "Basic",
+      "phonetic": "/beər/",
+      "definition": "A large, heavy mammal with thick fur and a very short tail, walking on the soles of its feet.",
+      "example": "Grizzly bears consume massive quantities of wild salmon before commencing hibernation.",
+      "exampleTranslation": "Beruang grizzly menyantap salmon liar dalam jumlah besar sebelum memulai hibernasi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Collocation: 'grizzly bear', 'polar bear'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Kangaroo",
+      "meaning": "Kanguru",
+      "level": "Basic",
+      "phonetic": "/ˌkæŋ.ɡərˈuː/",
+      "definition": "A large herbivorous Australian marsupial with powerful hind legs and a pouch for offspring.",
+      "example": "Female kangaroos carry and nurse their developing joey inside an abdominal pouch.",
+      "exampleTranslation": "Kanguru betina menggendong dan menyusui bayinya (joey) di dalam kantung perut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Marsupial: hewan berkantung. Baby kangaroo: 'joey'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Koala",
+      "meaning": "Koala",
+      "level": "Basic",
+      "phonetic": "/kəʊˈɑː.lə/",
+      "definition": "An Australian tree-dwelling marsupial with thick grey fur and large ears, feeding on eucalyptus.",
+      "example": "Koalas obtain virtually all their dietary hydration from consuming fresh eucalyptus foliage.",
+      "exampleTranslation": "Koala memperoleh hampir seluruh cairan tubuh mereka dari mengonsumsi dedaunan eukaliptus segar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Common subject in Australian wildlife conservation passages.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Camel",
+      "meaning": "Unta gurun",
+      "level": "Basic",
+      "phonetic": "/ˈkæm.əl/",
+      "definition": "A large, long-necked ungulate mammal with one or two humps on its back, native to arid regions.",
+      "example": "Camels store dense fatty tissue within their humps to survive long desert treks without food.",
+      "exampleTranslation": "Unta menyimpan jaringan lemak padat di dalam punuknya untuk bertahan hidup dalam perjalanan gurun panjang tanpa makanan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Dromedary (1 hump), Bactrian (2 humps).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Seal",
+      "meaning": "Anjing laut",
+      "level": "Basic",
+      "phonetic": "/siːl/",
+      "definition": "A fish-eating aquatic mammal with a streamlined body and flippers for swimming.",
+      "example": "Colonies of harbor seals hauled out onto rocky coastal islets to bask in the sun.",
+      "exampleTranslation": "Koloni anjing laut pelabuhan naik ke pulau karang pesisir untuk berjemur di bawah sinar matahari.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Pinniped: berkaki sirip (seals, sea lions, walruses).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Whale",
+      "meaning": "Paus (mamalia laut)",
+      "level": "Basic",
+      "phonetic": "/weɪl/",
+      "definition": "A very large marine mammal with a streamlined hairless body, blowhole, and horizontal tail fin.",
+      "example": "Humpback whales communicate across oceanic distances using complex underwater acoustic songs.",
+      "exampleTranslation": "Paus bungkuk berkomunikasi melintasi jarak samudera menggunakan nyanyian akustik bawah air yang rumit.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Reminder: whales are mammals, not fish; they breathe air through blowholes.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Dolphin",
+      "meaning": "Lumba-lumba",
+      "level": "Basic",
+      "phonetic": "/ˈdɒl.fɪn/",
+      "definition": "A highly intelligent aquatic mammal with a curved dorsal fin and beaklike snout.",
+      "example": "Bottlenose dolphins use coordinated pod tactics to encircle schools of mullet fish.",
+      "exampleTranslation": "Lumba-lumba hidung botol menggunakan taktik kelompok terkoordinasi untuk mengepung kawanan ikan belanak.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Collective noun: 'pod of dolphins'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Shark",
+      "meaning": "Ikan hiu pemangsa",
+      "level": "Basic",
+      "phonetic": "/ʃɑːk/",
+      "definition": "A long-bodied cartilaginous marine fish with a prominent dorsal fin and predatory teeth.",
+      "example": "Great white sharks detect microscopic electrical impulses generated by moving prey.",
+      "exampleTranslation": "Hiu putih besar mendeteksi getaran impuls listrik mikroskopis yang dihasilkan oleh mangsa yang bergerak.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Cartilaginous fish (ikan bertulang rawan, bukan tulang keras).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Octopus",
+      "meaning": "Gurita bertentakel delapan",
+      "level": "Basic",
+      "phonetic": "/ˈɒk.tə.pəs/",
+      "definition": "A soft-bodied, eight-limbed mollusc with suckered tentacles and high problem-solving intelligence.",
+      "example": "The common octopus can instantly alter its skin color and texture to mimic surrounding sea floor coral.",
+      "exampleTranslation": "Gurita biasa dapat seketika mengubah warna dan tekstur kulitnya untuk meniru terumbu karang dasar laut di sekitarnya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'octopuses' or 'octopi'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Jellyfish",
+      "meaning": "Ubur-ubur laut",
+      "level": "Basic",
+      "phonetic": "/ˈdʒel.i.fɪʃ/",
+      "definition": "A free-swimming marine coelenterate with a gelatinous bell-shaped body and stinging tentacles.",
+      "example": "Swimmers were warned that microscopic box jellyfish stings can cause dangerous anaphylactic reactions.",
+      "exampleTranslation": "Para perenang diperingatkan bahwa sengatan ubur-ubur kotak mikroskopis dapat memicu reaksi anafilaktik berbahaya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'jellyfish'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Crab",
+      "meaning": "Kepiting bercangkang dan bercapit",
+      "level": "Basic",
+      "phonetic": "/kræb/",
+      "definition": "A crustacean with a broad carapace, stalked eyes, and five pairs of legs including pincers.",
+      "example": "Hermit crabs inhabit discarded sea snail shells to protect their soft unarmored abdomens.",
+      "exampleTranslation": "Kelomang / kepiting pertapa menempati cangkang siput laut terbuang untuk melindungi perut lunaknya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Crab claws are called 'pincers' or 'chelae'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Lobster",
+      "meaning": "Lobster / udang karang besar",
+      "level": "Basic",
+      "phonetic": "/ˈlɒb.stər/",
+      "definition": "A large marine crustacean with a cylindrical body, stalked eyes, and strong muscular pincers.",
+      "example": "Sustainable coastal fisheries enforce catch limits on breeding female lobsters.",
+      "exampleTranslation": "Perikanan pesisir berkelanjutan memberlakukan batas penangkapan pada lobster betina yang sedang bertelur.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Food & Taste"
+      ],
+      "notes": "Culinary delicacy and marine ecology subject.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Crocodile",
+      "meaning": "Buaya air tawar/muara",
+      "level": "Basic",
+      "phonetic": "/ˈkrɒk.ə.daɪl/",
+      "definition": "A large predatory semiaquatic reptile with a long snout, thick scales, and powerful jaws.",
+      "example": "Saltwater crocodiles possess the strongest bite force measured in the animal kingdom.",
+      "exampleTranslation": "Buaya muara memiliki kekuatan gigitan terkuat yang pernah diukur dalam dunia fauna.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Crocodile (V-shaped snout) vs Alligator (U-shaped snout).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Lizard",
+      "meaning": "Kadal / reptil berkaki empat",
+      "level": "Basic",
+      "phonetic": "/ˈlɪz.əd/",
+      "definition": "A reptile that typically has a long body and tail, four legs, movable eyelids, and a scaly skin.",
+      "example": "Desert lizards bask on warm rocks in the early morning to elevate their body temperature.",
+      "exampleTranslation": "Kadal padang pasir berjemur di atas batu hangat di pagi hari untuk meningkatkan suhu tubuh mereka.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Ectothermic: berdarah dingin.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Chameleon",
+      "meaning": "Bunglon pengubah warna",
+      "level": "Advance",
+      "phonetic": "/kəˈmiː.li.ən/",
+      "definition": "A small slow-moving Old World lizard with a prehensile tail, independently mobile eyes, and changing skin color.",
+      "example": "The chameleon shot out its long sticky tongue with pinpoint accuracy to snatch a passing grasshopper.",
+      "exampleTranslation": "Bunglon menembakkan lidah panjang lengketnya dengan presisi tinggi untuk menyambar belalang yang lewat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Spelling: pronounced /kəˈmiː.li.ən/ (starts with /k/ sound).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Snake",
+      "meaning": "Ular",
+      "level": "Basic",
+      "phonetic": "/sneɪk/",
+      "definition": "A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension.",
+      "example": "Venomous snakes employ specialized hollow fangs to deliver paralyzing toxins into prey.",
+      "exampleTranslation": "Ular berbisa menggunakan taring berlubang khusus untuk menyuntikkan racun pelumpuh ke dalam mangsa.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Distinction: 'venomous' (bisa dari gigitan) vs 'poisonous' (racun tertelan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Turtle",
+      "meaning": "Kura-kura air / penyu laut",
+      "level": "Basic",
+      "phonetic": "/ˈtɜː.təl/",
+      "definition": "A slow-moving reptile enclosed in a scaly or leathery domed shell, especially aquatic species with flippers.",
+      "example": "Green sea turtles migrate thousands of miles across oceans to lay eggs on their natal beach.",
+      "exampleTranslation": "Penyu hijau bermigrasi ribuan mil melintasi samudra untuk bertelur di pantai tempat mereka lahir.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Turtle (penyu/kura air) vs Tortoise (kura-kura darat berkaki gajah).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Tortoise",
+      "meaning": "Kura-kura darat berkaki gajah",
+      "level": "Basic",
+      "phonetic": "/ˈtɔː.təs/",
+      "definition": "A turtle, typically a herbivorous land-dwelling one with a high domed carapace and stubby feet.",
+      "example": "Giant tortoises on the Galápagos Islands can attain lifespans exceeding a century.",
+      "exampleTranslation": "Kura-kura raksasa di Kepulauan Galápagos dapat mencapai usia harapan hidup lebih dari satu abad.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Pronunciation: /ˈtɔː.təs/ (two syllables).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Frog",
+      "meaning": "Katak pohon / katak air berkulit halus",
+      "level": "Basic",
+      "phonetic": "/frɒɡ/",
+      "definition": "A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.",
+      "example": "The red-eyed tree frog uses suction cup toe pads to cling to slippery rainforest leaves.",
+      "exampleTranslation": "Katak pohon bermata merah menggunakan bantalan jari berkantung hisap untuk menempel pada daun hutan hujan yang licin.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Baby frog: 'tadpole' (berudu / kecebong).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Toad",
+      "meaning": "Kodok darat berkulit kasar/bintil",
+      "level": "Basic",
+      "phonetic": "/təʊd/",
+      "definition": "A tailless amphibian with a dry warty skin and short legs, spending more time on land than true frogs.",
+      "example": "Common toads hibernate underground in leaf litter throughout freezing winter months.",
+      "exampleTranslation": "Kodok darat berhibernasi di bawah tanah di tumpukan serasah daun sepanjang bulan-bulan musim dingin beku.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Differences: frogs leap far and have moist smooth skin; toads crawl/hop short and have dry warty skin.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bee",
+      "meaning": "Lebah madu penyerbuk",
+      "level": "Basic",
+      "phonetic": "/biː/",
+      "definition": "A flying honey-producing insect with hairy body, feeding on pollen and nectar.",
+      "example": "Honey bee colonies perform an elaborate waggle dance to communicate nectar locations.",
+      "exampleTranslation": "Koloni lebah madu melakukan tarian goyang rumit untuk mengomunikasikan lokasi nektar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Nature & Forestry"
+      ],
+      "notes": "Collocation: 'beehive' (sarang lebah), 'pollinator'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Ant",
+      "meaning": "Semut pekerja",
+      "level": "Basic",
+      "phonetic": "/ænt/",
+      "definition": "A small social insect living in complex colonies with queen and worker castes.",
+      "example": "Leafcutter ants harvest foliage to cultivate subterranean fungus farms inside their nest.",
+      "exampleTranslation": "Semut pemotong daun memanen dedaunan untuk mengolah ladang jamur bawah tanah di dalam sarangnya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Colony / anthill (sarang semut).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Butterfly",
+      "meaning": "Kupu-kupu bersayap indah",
+      "level": "Basic",
+      "phonetic": "/ˈbʌt.ə.flaɪ/",
+      "definition": "A nectar-feeding insect with two pairs of large, typically brilliantly colored wings.",
+      "example": "Monarch butterflies migrate over three thousand miles from Canada to Mexican overwintering sanctuaries.",
+      "exampleTranslation": "Kupu-kupu raja bermigrasi lebih dari tiga ribu mil dari Kanada ke suaka musim dingin di Meksiko.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Life cycle: egg -> caterpillar -> chrysalis/pupa -> adult butterfly.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Mosquito",
+      "meaning": "Nyamuk penghisap darah",
+      "level": "Basic",
+      "phonetic": "/məˈskiː.təʊ/",
+      "definition": "A slender long-legged fly with aquatic larvae, the female transmitting diseases like malaria and dengue.",
+      "example": "Sleeping under insecticide-treated bed nets effectively shields families from malaria-carrying mosquitoes.",
+      "exampleTranslation": "Tidur di bawah kelambu berinsektisida secara efektif melindungi keluarga dari nyamuk pembawa malaria.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Health"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Health"
+      ],
+      "notes": "Plural: 'mosquitoes' or 'mosquitos'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Spider",
+      "meaning": "Laba-laba pemintal jaring",
+      "level": "Basic",
+      "phonetic": "/ˈspaɪ.dər/",
+      "definition": "An eight-legged predatory arachnid with unsegmented body, producing silk to weave webs.",
+      "example": "Orb-weaver spiders spin intricate silk webs each morning to entrap flying insect prey.",
+      "exampleTranslation": "Laba-laba penenun memintal jaring sutra rumit setiap pagi untuk menjerat mangsa serangga terbang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Arachnid (hewan berkaki delapan, bukan serangga berkaki enam).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Mango",
+      "meaning": "Mangga",
+      "level": "Basic",
+      "phonetic": "/ˈmæŋ.ɡəʊ/",
+      "definition": "A fleshy oval tropical fruit with sweet yellowish-red aromatic pulp and a hard flat stone.",
+      "example": "Freshly diced sweet mango is widely used in tropical smoothies and breakfast parfaits.",
+      "exampleTranslation": "Mangga manis yang baru dipotong dadu banyak digunakan dalam smoothie tropis dan parfait sarapan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Plural: 'mangoes' or 'mangos'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Lemon",
+      "meaning": "Lemon kuning asam",
+      "level": "Basic",
+      "phonetic": "/ˈlem.ən/",
+      "definition": "A yellow, oval citrus fruit with thick rind and fragrant, deeply acidic juice.",
+      "example": "A squeeze of fresh lemon juice adds bright acidity to pan-seared salmon fillet.",
+      "exampleTranslation": "Sedikit perasan air lemon segar memberikan keasaman yang cerah pada filet salmon panggang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Citrus fruit rich in Vitamin C.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Lime",
+      "meaning": "Jeruk nipis hijau",
+      "level": "Basic",
+      "phonetic": "/laɪm/",
+      "definition": "A rounded citrus fruit with green rind and tart acidic juice, smaller than a lemon.",
+      "example": "Thai green curries and Mexican guacamole rely on fresh lime juice for balanced zest.",
+      "exampleTranslation": "Kari hijau Thailand dan guacamole Meksiko mengandalkan air jeruk nipis segar untuk rasa segar seimbang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Differences: lemon is yellow and oval; lime is green, round, and slightly sharper.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Orange",
+      "meaning": "Jeruk manis",
+      "level": "Basic",
+      "phonetic": "/ˈɒr.ɪndʒ/",
+      "definition": "A round juicy citrus fruit with tough bright reddish-yellow rind and sweet segmented pulp.",
+      "example": "Freshly squeezed orange juice is a rich dietary source of ascorbic acid and potassium.",
+      "exampleTranslation": "Jus jeruk segar yang baru diperas adalah sumber pangan kaya asam askorbat dan kalium.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Both noun (fruit/color) and adjective.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Banana",
+      "meaning": "Pisang",
+      "level": "Basic",
+      "phonetic": "/bəˈnɑː.nə/",
+      "definition": "A long curved tropical fruit with a yellow skin and soft sweet creamy white flesh.",
+      "example": "Athletes consume bananas prior to endurance running to replenish muscle glycogen and potassium.",
+      "exampleTranslation": "Para atlet mengonsumsi pisang sebelum lari ketahanan untuk mengisi kembali glikogen otot dan kalium.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "A bunch of bananas: satu sisir pisang.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Apple",
+      "meaning": "Apel",
+      "level": "Basic",
+      "phonetic": "/ˈæp.əl/",
+      "definition": "The round firm fruit of a tree of the rose family, typically having thin green or red skin.",
+      "example": "Orchard visitors enjoyed picking crisp red apples straight from mature orchard branches.",
+      "exampleTranslation": "Pengunjung kebun buah senang memetik apel merah renyah langsung dari dahan pohon matang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Idiom: 'an apple of my eye' (kesayangan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pineapple",
+      "meaning": "Nanas",
+      "level": "Basic",
+      "phonetic": "/ˈpaɪnˌæp.əl/",
+      "definition": "A large tropical fruit with tough spiky yellow skin, tuft of stiff leaves, and sweet juicy yellow pulp.",
+      "example": "Fresh pineapple contains bromelain, a natural digestive enzyme that tenderizes meat.",
+      "exampleTranslation": "Nanas segar mengandung bromelain, enzim pencernaan alami yang mengempukkan daging.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Tropical produce often referenced in agricultural export graphs.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Watermelon",
+      "meaning": "Semangka",
+      "level": "Basic",
+      "phonetic": "/ˈwɔː.təˌmel.ən/",
+      "definition": "A large melon with smooth green skin, sweet watery pink flesh, and flat black seeds.",
+      "example": "Chilled slices of juicy watermelon provide immediate hydration on sweltering beach afternoons.",
+      "exampleTranslation": "Irisan semangka berair yang dingin memberikan hidrasi seketika pada sore hari di pantai yang terik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Over 90% water content.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Grape",
+      "meaning": "Anggur",
+      "level": "Basic",
+      "phonetic": "/ɡreɪp/",
+      "definition": "A berry, typically green, purple, or black, growing in clusters on a grapevine.",
+      "example": "Viticulturists harvest sweet wine grapes in autumn when sugar concentration peaks.",
+      "exampleTranslation": "Petani anggur memanen buah anggur manis di musim gugur saat konsentrasi gula mencapai puncaknya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Vineyard: kebun anggur; raisin: kismis (dried grape).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Strawberry",
+      "meaning": "Stroberi",
+      "level": "Basic",
+      "phonetic": "/ˈstrɔː.bər.i/",
+      "definition": "A sweet soft red fruit with a seed-studded surface, cultivated on low trailing plants.",
+      "example": "Wimbledon spectators traditionally consume fresh strawberries topped with whipped clotted cream.",
+      "exampleTranslation": "Penonton turnamen Wimbledon secara tradisional menyantap stroberi segar bertabur krim kental.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Plural: 'strawberries'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Papaya",
+      "meaning": "Pepaya",
+      "level": "Basic",
+      "phonetic": "/pəˈpaɪ.ə/",
+      "definition": "A tropical fruit shaped like an elongated melon, with edible orange pulp and small black seeds.",
+      "example": "Eating ripe papaya with a squeeze of fresh lime juice aids stomach digestion.",
+      "exampleTranslation": "Menyantap pepaya matang dengan perasan air jeruk nipis segar membantu pencernaan lambung.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Also called 'pawpaw' in some British English dialects.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Coconut",
+      "meaning": "Kelapa",
+      "level": "Basic",
+      "phonetic": "/ˈkəʊ.kə.nʌt/",
+      "definition": "The large oval brown seed of a tropical palm, with hard fibrous husk, white flesh, and clear water.",
+      "example": "Coastal islanders use coconut milk in curries and weave roof thatch from the palm fronds.",
+      "exampleTranslation": "Penduduk pulau pesisir menggunakan santan kelapa dalam kari dan menganyam atap rumbia dari pelepah daun palem.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Nature & Forestry"
+      ],
+      "notes": "Coconut water (air kelapa) vs Coconut milk (santan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Avocado",
+      "meaning": "Alpukat",
+      "level": "Basic",
+      "phonetic": "/ˌæv.əˈkɑː.dəʊ/",
+      "definition": "A pear-shaped fruit with rough dark skin, large stone, and creamy buttery green edible flesh.",
+      "example": "Nutritionists recommend avocados because they are abundant in heart-healthy monounsaturated fats.",
+      "exampleTranslation": "Ahli gizi merekomendasikan alpukat karena berlimpah lemak tak jenuh tunggal yang menyehatkan jantung.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Plural: 'avocados'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Cucumber",
+      "meaning": "Mentimun",
+      "level": "Basic",
+      "phonetic": "/ˈkjuː.kʌm.bər/",
+      "definition": "A long, green-skinned fruit with watery flesh, eaten raw in salads or pickled in brine.",
+      "example": "Thinly sliced crunchy cucumber gives iced summer sandwiches a cooling, refreshing taste.",
+      "exampleTranslation": "Mentimun renyah yang diiris tipis memberikan roti lapis musim panas rasa sejuk yang menyegarkan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Idiom: 'cool as a cucumber' (sangat tenang menghadapi tekanan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Tomato",
+      "meaning": "Tomat",
+      "level": "Basic",
+      "phonetic": "/təˈmɑː.təʊ/",
+      "definition": "A glossy red or yellowish pulpy fruit eaten raw as a salad or cooked as a vegetable.",
+      "example": "He simmered ripe vine tomatoes with sweet basil and garlic to create a classic marinara sauce.",
+      "exampleTranslation": "Ia merebus tomat matang dengan kemangi manis dan bawang putih untuk membuat saus marinara klasik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Pronunciation: UK /təˈmɑː.təʊ/, US /təˈmeɪ.toʊ/. Plural: 'tomatoes'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Potato",
+      "meaning": "Kentang",
+      "level": "Basic",
+      "phonetic": "/pəˈteɪ.təʊ/",
+      "definition": "A starchy plant tuber that is one of the most important food crops worldwide.",
+      "example": "Boiled baby potatoes served with butter and fresh dill are a Scandinavian staple.",
+      "exampleTranslation": "Kentang kecil rebus yang disajikan dengan mentega dan adas sowa segar adalah makanan pokok Skandinavia.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Plural: 'potatoes'. Tuber: umbi batang.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Onion",
+      "meaning": "Bawang bombay",
+      "level": "Basic",
+      "phonetic": "/ˈʌn.jən/",
+      "definition": "A swollen edible bulb with a pungent taste and smell, composed of several concentric layers.",
+      "example": "Slowly sauteing sliced onions releases natural sugars, turning them sweet and golden brown.",
+      "exampleTranslation": "Menumis irisan bawang bombay secara perlahan mengeluarkan gula alami, menjadikannya manis dan cokelat keemasan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Pronunciation: /ˈʌn.jən/ (first vowel rhymes with 'sun').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Garlic",
+      "meaning": "Bawang putih",
+      "level": "Basic",
+      "phonetic": "/ˈɡɑː.lɪk/",
+      "definition": "A strong-smelling pungent bulb composed of cloves, widely used in cooking and herbal medicine.",
+      "example": "A single clove of minced garlic infuses homemade olive oil dressings with bold savory aroma.",
+      "exampleTranslation": "Satu siung bawang putih cincang memberikan saus minyak zaitun buatan sendiri aroma gurih yang kuat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "A clove of garlic: satu siung bawang putih; a bulb of garlic: satu bonggol bawang putih.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Ginger",
+      "meaning": "Jahe",
+      "level": "Basic",
+      "phonetic": "/ˈdʒɪn.dʒər/",
+      "definition": "A pungent aromatic underground rhizome used fresh or powdered as a culinary spice or remedy.",
+      "example": "Drinking warm hot water steeped with sliced raw ginger soothes an upset stomach.",
+      "exampleTranslation": "Meminum air hangat yang diseduh dengan irisan jahe mentah meredakan sakit perut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Botanical term: 'rhizome' (rimpang jahe).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Carrot",
+      "meaning": "Wortel",
+      "level": "Basic",
+      "phonetic": "/ˈkær.ət/",
+      "definition": "A tapering orange-colored root vegetable, eaten raw in salads or cooked in broths.",
+      "example": "Crunchy raw carrots provide high beta-carotene, which the human body converts into vitamin A.",
+      "exampleTranslation": "Wortel mentah yang renyah menyediakan beta-karoten tinggi, yang diubah tubuh menjadi vitamin A.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Root vegetable rich in beta-carotene.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Spinach",
+      "meaning": "Bayam hijau",
+      "level": "Basic",
+      "phonetic": "/ˈspɪn.ɪtʃ/",
+      "definition": "An edible flowering plant with succulent dark green leaves, rich in dietary iron.",
+      "example": "Fresh baby spinach leaves can be blended into morning smoothies or gently sauteed with olive oil.",
+      "exampleTranslation": "Daun bayam muda segar bisa diblender menjadi smoothie pagi hari atau ditumis ringan dengan minyak zaitun.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Pronunciation: /ˈspɪn.ɪtʃ/ (silent/short ending).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Cabbage",
+      "meaning": "Kubis / kol",
+      "level": "Basic",
+      "phonetic": "/ˈkæb.ɪdʒ/",
+      "definition": "A cultivated plant with a round, compact head of leaves, eaten raw or cooked as a vegetable.",
+      "example": "Finely shredded red cabbage adds vibrant color and crisp texture to autumn salads.",
+      "exampleTranslation": "Kubis merah yang dirajang halus memberikan warna cerah dan tekstur renyah pada salad musim gugur.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Fermented cabbage: 'sauerkraut' or 'kimchi'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Broccoli",
+      "meaning": "Brokoli hijau",
+      "level": "Basic",
+      "phonetic": "/ˈbrɒk.əl.i/",
+      "definition": "A cabbage-family vegetable with edible dense green flower heads and sturdy thick stalk.",
+      "example": "Lightly steaming fresh broccoli florets preserves beneficial antioxidants and dietary sulforaphane.",
+      "exampleTranslation": "Mengukus kuntum brokoli segar secara ringan mempertahankan antioksidan bermanfaat dan sulforafan pangan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Spelling: double 'c', single 'l' (b-r-o-c-c-o-l-i).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Corn",
+      "meaning": "Jagung manis",
+      "level": "Basic",
+      "phonetic": "/kɔːn/",
+      "definition": "A cereal plant that yields large grains set in rows on a central cob.",
+      "example": "Sweet corn cobs are grilled over charcoal and brushed with salted butter.",
+      "exampleTranslation": "Tongkol jagung manis dipanggang di atas arang dan diolesi mentega asin.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Also called 'maize'. 'Corn on the cob' (jagung bakar bertongkol).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Mushroom",
+      "meaning": "Jamur pangan",
+      "level": "Basic",
+      "phonetic": "/ˈmʌʃ.ruːm/",
+      "definition": "A fungal growth that typically takes the form of a domed cap on a stalk, with gills on the underside.",
+      "example": "Sauteed button mushrooms add a deep savory umami taste to vegetable risottos.",
+      "exampleTranslation": "Jamur kancing tumis memberikan rasa gurih umami yang pekat pada risotto sayuran.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Fungus: bukan tumbuhan, melainkan jamur pangan (edible mushroom).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pea",
+      "meaning": "Kacang polong bulat",
+      "level": "Basic",
+      "phonetic": "/piː/",
+      "definition": "A round green seed, eaten as a vegetable, grown in pods on a climbing legume plant.",
+      "example": "Sweet garden peas are tender when freshly picked from the vine in early summer.",
+      "exampleTranslation": "Kacang polong kebun yang manis terasa empuk saat baru dipetik dari sulur di awal musim panas.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Idiom: 'like two peas in a pod' (sangat mirip atau tak terpisahkan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Desk",
+      "meaning": "Meja tulis / meja belajar",
+      "level": "Basic",
+      "phonetic": "/desk/",
+      "definition": "A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or work.",
+      "example": "Each student hall room is furnished with a sturdy study desk and reading lamp.",
+      "exampleTranslation": "Setiap kamar asrama mahasiswa dilengkapi dengan meja belajar kokoh dan lampu baca.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Education"
+      ],
+      "notes": "Standard furniture item in IELTS Listening Section 1 room inventory.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Table",
+      "meaning": "Meja makan / meja serbaguna",
+      "level": "Basic",
+      "phonetic": "/ˈteɪ.bəl/",
+      "definition": "A piece of furniture with a flat top and one or more legs, providing a level surface for eating, working, or putting things on.",
+      "example": "The family gathered around the wooden dining table for evening dinner.",
+      "exampleTranslation": "Keluarga berkumpul di sekitar meja makan kayu untuk santap malam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Also used in data presentation: 'table of contents', 'statistical table'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bottle",
+      "meaning": "Botol wadah minuman",
+      "level": "Basic",
+      "phonetic": "/ˈbɒt.əl/",
+      "definition": "A container with a narrow neck, used for storing drinks or other liquids.",
+      "example": "Visitors are encouraged to bring a reusable stainless steel water bottle on walking tours.",
+      "exampleTranslation": "Pengunjung dianjurkan membawa botol air baja antikarat pakai ulang saat tur jalan kaki.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Environment"
+      ],
+      "notes": "Listening Section 1 equipment list keyword.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Fork",
+      "meaning": "Garpu makan",
+      "level": "Basic",
+      "phonetic": "/fɔːk/",
+      "definition": "An implement with two or more prongs used for lifting food to the mouth or holding it when cutting.",
+      "example": "Lay the fork to the left of the dinner plate according to formal dining etiquette.",
+      "exampleTranslation": "Letakkan garpu di sebelah kiri piring makan sesuai etiket bersantap resmi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Also: 'fork in the road' (persimpangan jalan bercabang).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Spoon",
+      "meaning": "Sendok makan",
+      "level": "Basic",
+      "phonetic": "/spuːn/",
+      "definition": "An implement consisting of a small, shallow oval or round bowl on a long handle, used for eating or stirring.",
+      "example": "Stir a level teaspoon of honey into the herbal tea until dissolved.",
+      "exampleTranslation": "Aduk satu sendok teh madu peres ke dalam teh herbal sampai larut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Measurements: teaspoon (sendok teh: 5ml), tablespoon (sendok makan: 15ml).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Knife",
+      "meaning": "Pisau dapur / pisau makan",
+      "level": "Basic",
+      "phonetic": "/naɪf/",
+      "definition": "An instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+      "example": "A serrated bread knife cuts cleanly through crusty loaves without crushing the soft interior.",
+      "exampleTranslation": "Pisau roti bergerigi memotong bersih roti berkerak tanpa meremukkan bagian dalam yang lembut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Plural: 'knives'. Silent 'k' (/naɪf/).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Trash bin",
+      "meaning": "Tempat sampah",
+      "level": "Basic",
+      "phonetic": "/træʃ bɪn/",
+      "definition": "A container for household or office waste.",
+      "example": "Recycling trash bins are clearly segregated for paper, plastic, and compostable organic waste.",
+      "exampleTranslation": "Tempat sampah daur ulang dipisahkan dengan jelas untuk kertas, plastik, dan sampah organik kompos.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Environment"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Environment"
+      ],
+      "notes": "British: 'rubbish bin' / 'dustbin'; US: 'trash can' / 'garbage bin'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Broom",
+      "meaning": "Sapu ijuk / sapu lantai",
+      "level": "Basic",
+      "phonetic": "/bruːm/",
+      "definition": "A long-handled brush of bristles or twigs used for sweeping floors.",
+      "example": "The janitor used a wide broom to sweep dry fallen leaves off the paved courtyard.",
+      "exampleTranslation": "Petugas kebersihan menggunakan sapu lebar untuk menyapu daun kering yang jatuh dari halaman bertatahkan batu.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Verb: 'to sweep with a broom'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bucket",
+      "meaning": "Ember air",
+      "level": "Basic",
+      "phonetic": "/ˈbʌk.ɪt/",
+      "definition": "A roughly cylindrical open container, typically made of metal or plastic, with a handle, used to hold and carry liquids.",
+      "example": "Fill the plastic bucket with warm soapy water to wash down the patio windows.",
+      "exampleTranslation": "Isi ember plastik dengan air sabun hangat untuk mencuci jendela teras.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Idiom: 'bucket list' (daftar impian sebelum meninggal).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Ladder",
+      "meaning": "Tangga lipat bertingkat",
+      "level": "Basic",
+      "phonetic": "/ˈlæd.ər/",
+      "definition": "A structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing up or down.",
+      "example": "The painter mounted an aluminum stepladder to reach the upper ceiling cornices.",
+      "exampleTranslation": "Tukang cat menaiki tangga lipat aluminium untuk menjangkau lis plafon bagian atas.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Difference: 'ladder' is portable; 'stairs' are permanent built-in steps.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Hammer",
+      "meaning": "Palu / martil tukang",
+      "level": "Basic",
+      "phonetic": "/ˈhæm.ər/",
+      "definition": "A tool with a heavy metal head mounted at right angles to a handle, used for pounding nails into wood.",
+      "example": "He used a claw hammer to drive iron nails firmly into the wooden bookshelf frame.",
+      "exampleTranslation": "Ia menggunakan palu martil untuk menancapkan paku besi dengan kuat ke bingkai rak buku kayu.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Basic construction & DIY tool in Listening Section 1.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Scissors",
+      "meaning": "Gunting pemotong",
+      "level": "Basic",
+      "phonetic": "/ˈsɪz.əz/",
+      "definition": "An instrument used for cutting cloth, paper, and other thin material, consisting of two blades laid one on top of the other.",
+      "example": "Please pass the kitchen scissors so I can snip the fresh herb stems.",
+      "exampleTranslation": "Tolong berikan gunting dapur agar saya bisa memotong tangkai herba segar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Always plural (say 'a pair of scissors').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Torch",
+      "meaning": "Lampu senter genggam",
+      "level": "Basic",
+      "phonetic": "/tɔːtʃ/",
+      "definition": "A portable battery-powered electric lamp.",
+      "example": "Campers are advised to pack a spare torch and extra batteries for night trail navigation.",
+      "exampleTranslation": "Para berkemah disarankan mengemas lampu senter cadangan dan baterai ekstra untuk navigasi jalur malam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Travel & Transport"
+      ],
+      "notes": "British English 'torch' vs US English 'flashlight'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Charger",
+      "meaning": "Alat pengisi daya listrik / casan",
+      "level": "Basic",
+      "phonetic": "/ˈtʃɑː.dʒər/",
+      "definition": "A device for charging a battery or battery-powered equipment.",
+      "example": "Don't forget to pack your laptop charger and universal travel plug adapter.",
+      "exampleTranslation": "Jangan lupa mengemas pengisi daya laptop Anda dan adaptor colokan perjalanan serbaguna.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Technology"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Technology"
+      ],
+      "notes": "Travel & accommodation packing list keyword.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Umbrella",
+      "meaning": "Payung penahan hujan",
+      "level": "Basic",
+      "phonetic": "/ʌmˈbrel.ə/",
+      "definition": "A collapsible circular canopy to protect against rain or sunlight.",
+      "example": "Keep a compact folding umbrella in your backpack as coastal showers are unpredictable.",
+      "exampleTranslation": "Simpan payung lipat ringkas di ransel Anda karena hujan pesisir sulit diprediksi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Weather & Climate"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Weather & Climate"
+      ],
+      "notes": "Spelling: u-m-b-r-e-l-l-a.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Neck",
+      "meaning": "Leher",
+      "level": "Basic",
+      "phonetic": "/nek/",
+      "definition": "The part of a person's or animal's body connecting the head to the rest of the body.",
+      "example": "Poor office chair ergonomics often leads to chronic neck and shoulder stiffness.",
+      "exampleTranslation": "Ergonomi kursi kantor yang buruk sering menyebabkan kekakuan leher dan bahu kronis.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health",
+        "Daily Objects"
+      ],
+      "notes": "Collocation: 'neck pain', 'stiff neck'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Shoulder",
+      "meaning": "Bahu / pundak",
+      "level": "Basic",
+      "phonetic": "/ˈʃəʊl.dər/",
+      "definition": "The upper joint of each of the human arms and the part of the body between this and the neck.",
+      "example": "Carrying an overloaded backpack on one shoulder can warp spine alignment.",
+      "exampleTranslation": "Membawa ransel yang terlalu berat pada satu bahu dapat merusak kelurusan tulang belakang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Spelling: s-h-o-u-l-d-e-r.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Chest",
+      "meaning": "Dada",
+      "level": "Basic",
+      "phonetic": "/tʃest/",
+      "definition": "The front surface of a person's or animal's body between the neck and the stomach.",
+      "example": "Patients experiencing acute chest tightness must seek immediate emergency medical evaluation.",
+      "exampleTranslation": "Pasien yang mengalami sesak dada akut harus segera mencari evaluasi medis darurat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Medical symptom vocabulary in IELTS Listening Section 1.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Spine",
+      "meaning": "Tulang belakang / kolumna vertebralis",
+      "level": "Advance",
+      "phonetic": "/spaɪn/",
+      "definition": "A series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord.",
+      "example": "Swimming freestyle strengthens core back muscles while taking compression weight off the spine.",
+      "exampleTranslation": "Berenang gaya bebas memperkuat otot punggung inti sekaligus mengurangi beban tekanan pada tulang belakang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Adjective: 'spinal cord' (sumsum tulang belakang).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Wrist",
+      "meaning": "Pergelangan tangan",
+      "level": "Basic",
+      "phonetic": "/rɪst/",
+      "definition": "The joint connecting the hand with the forearm.",
+      "example": "Typists should position their wrists horizontally to prevent repetitive strain injuries.",
+      "exampleTranslation": "Juru ketik harus memposisikan pergelangan tangan mereka secara horizontal untuk mencegah cedera regangan berulang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health",
+        "Work & Career"
+      ],
+      "notes": "Silent 'w' (/rɪst/). 'Wristwatch' (jam tangan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Ankle",
+      "meaning": "Pergelangan kaki",
+      "level": "Basic",
+      "phonetic": "/ˈæŋ.kəl/",
+      "definition": "The joint connecting the foot with the leg.",
+      "example": "High supportive hiking boots protect your ankle from twisting on loose scree slopes.",
+      "exampleTranslation": "Sepatu bot pendakian yang tinggi dan kokoh melindungi pergelangan kaki Anda agar tidak terkilir di lereng batu kerikil.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Health",
+        "Travel & Transport"
+      ],
+      "notes": "Watch spelling: 'ankle' (pergelangan kaki) vs 'uncle' (paman).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Knee",
+      "meaning": "Lutut kaki",
+      "level": "Basic",
+      "phonetic": "/niː/",
+      "definition": "The joint between the thigh and the lower leg in humans.",
+      "example": "Low-impact elliptical cycling strengthens quadriceps without placing jarring force on knee cartilage.",
+      "exampleTranslation": "Bersepeda elips berdampak rendah memperkuat otot paha depan tanpa memberi tekanan menghentak pada tulang rawan lutut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Silent 'k' (/niː/).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Throat",
+      "meaning": "Tenggorokan",
+      "level": "Basic",
+      "phonetic": "/θrəʊt/",
+      "definition": "The passage which leads from the back of the mouth of a person or animal.",
+      "example": "Sipping warm chamomile infusion relieves a sore, scratchy throat caused by seasonal colds.",
+      "exampleTranslation": "Menyesap seduhan kamomil hangat meredakan radang tenggorokan gatal yang disebabkan oleh pilek musiman.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Collocation: 'sore throat' (radang tenggorokan).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Lung",
+      "meaning": "Paru-paru",
+      "level": "Basic",
+      "phonetic": "/lʌŋ/",
+      "definition": "Each of the pair of organs situated within the ribcage, where oxygen is transferred to the blood.",
+      "example": "Airborne particulate pollution penetrates deep into lung tissue, triggering chronic respiratory distress.",
+      "exampleTranslation": "Polusi partikel udara menembus jauh ke dalam jaringan paru-paru, memicu gangguan pernapasan kronis.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Health"
+      ],
+      "topics": [
+        "Health",
+        "Environment"
+      ],
+      "notes": "Plural: 'lungs'. Essential in health and air pollution essays.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Heart",
+      "meaning": "Jantung",
+      "level": "Basic",
+      "phonetic": "/hɑːt/",
+      "definition": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction.",
+      "example": "Cardiovascular exercise enhances heart efficiency and lowers resting blood pressure.",
+      "exampleTranslation": "Latihan kardiovaskular meningkatkan efisiensi kerja jantung dan menurunkan tekanan darah saat istirahat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Health"
+      ],
+      "topics": [
+        "Health"
+      ],
+      "notes": "Pronunciation: /hɑːt/ (rhymes with 'part').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pharmacy",
+      "meaning": "Apotek toko obat",
+      "level": "Basic",
+      "phonetic": "/ˈfɑː.mə.si/",
+      "definition": "A shop or hospital dispensary where medicinal drugs are prepared or sold.",
+      "example": "The 24-hour on-duty pharmacy is located directly opposite the central bus terminal.",
+      "exampleTranslation": "Apotek yang berjaga 24 jam terletak tepat di seberang terminal bus pusat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening"
+      ],
+      "topics": [
+        "Health",
+        "Places & Town"
+      ],
+      "notes": "British synonym: 'chemist' / 'chemist's shop'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bakery",
+      "meaning": "Toko roti dan kue",
+      "level": "Basic",
+      "phonetic": "/ˈbeɪ.kər.i/",
+      "definition": "A workplace where bread, pastry, and cakes are baked or sold.",
+      "example": "The neighbourhood artisanal bakery opens at dawn with warm sourdough loaves.",
+      "exampleTranslation": "Toko roti tradisional di lingkungan itu buka saat fajar dengan roti asam hangat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening"
+      ],
+      "topics": [
+        "Food & Taste",
+        "Places & Town"
+      ],
+      "notes": "Common town map landmark.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Library",
+      "meaning": "Perpustakaan",
+      "level": "Basic",
+      "phonetic": "/ˈlaɪ.brər.i/",
+      "definition": "A building or room containing collections of books, periodicals, and media for people to read or borrow.",
+      "example": "University students can book quiet study carrels on the third floor of the main library.",
+      "exampleTranslation": "Mahasiswa universitas dapat memesan bilik belajar tenang di lantai tiga perpustakaan utama.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Education"
+      ],
+      "topics": [
+        "Education",
+        "Places & Town"
+      ],
+      "notes": "Pronunciation: /ˈlaɪ.brər.i/ (three syllables).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pedestrian crossing",
+      "meaning": "Zebra cross penyeberangan jalan",
+      "level": "Basic",
+      "phonetic": "/pəˈdes.tri.ən ˈkrɒs.ɪŋ/",
+      "definition": "A designated place on a road where traffic must stop to let pedestrians cross safely.",
+      "example": "Traffic regulations strictly require vehicles to yield to pedestrians waiting at the zebra crossing.",
+      "exampleTranslation": "Peraturan lalu lintas mewajibkan kendaraan berhenti bagi pejalan kaki yang menunggu di penyeberangan jalan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Travel & Transport",
+        "Places & Town"
+      ],
+      "notes": "British: 'zebra crossing', 'pelican crossing'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pavement",
+      "meaning": "Trotoar jalan pejalan kaki",
+      "level": "Basic",
+      "phonetic": "/ˈpeɪv.mənt/",
+      "definition": "A paved path for pedestrians at the side of a road.",
+      "example": "Urban planners widened the pedestrian pavement to accommodate outdoor cafe seating.",
+      "exampleTranslation": "Perencana kota memperlebar trotoar pejalan kaki untuk memfasilitasi tempat duduk kafe luar ruangan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Travel & Transport",
+        "Places & Town"
+      ],
+      "notes": "British English 'pavement' vs US English 'sidewalk'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Bridge",
+      "meaning": "Jembatan penyeberangan",
+      "level": "Basic",
+      "phonetic": "/brɪdʒ/",
+      "definition": "A structure carrying a road, path, railway, or canal across a river, ravine, road, or railroad.",
+      "example": "A suspension pedestrian footbridge spans the scenic river gorge, connecting the two hiking trails.",
+      "exampleTranslation": "Jembatan gantung penyeberangan pejalan kaki membentang di atas ngarai sungai yang indah, menghubungkan dua jalur daki.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Travel & Transport",
+        "Places & Town"
+      ],
+      "notes": "Map landmark: 'footbridge', 'suspension bridge'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Circular",
+      "meaning": "Berbentuk lingkaran bundar",
+      "level": "Basic",
+      "phonetic": "/ˈsɜː.kjə.lər/",
+      "definition": "Having the form of a circle; round.",
+      "example": "The conference table is circular to encourage equitable, inclusive group discussions.",
+      "exampleTranslation": "Meja konferensi itu berbentuk bundar melingkar untuk mendorong diskusi kelompok yang setara dan inklusif.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "Writing"
+      ],
+      "topics": [
+        "Shapes & Measurement"
+      ],
+      "notes": "Noun: 'circle'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Rectangular",
+      "meaning": "Berbentuk persegi panjang",
+      "level": "Basic",
+      "phonetic": "/rekˈtæŋ.ɡjə.lər/",
+      "definition": "Having the shape of a rectangle; having four straight sides and four right angles with unequal adjacent sides.",
+      "example": "The exhibition hall layout features a large central rectangular pavilion.",
+      "exampleTranslation": "Tata letak aula pameran menampilkan paviliun persegi panjang tengah yang besar.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "Writing"
+      ],
+      "topics": [
+        "Shapes & Measurement"
+      ],
+      "notes": "Common in listening map tasks and Task 1 diagrams.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Triangular",
+      "meaning": "Berbentuk segitiga tiga sisi",
+      "level": "Basic",
+      "phonetic": "/traɪˈæŋ.ɡjə.lər/",
+      "definition": "Having the shape of a triangle; having three straight sides and three angles.",
+      "example": "Warning hazard road signs are typically triangular with bold red borders.",
+      "exampleTranslation": "Rambu peringatan bahaya di jalan raya umumnya berbentuk segitiga dengan garis tepi merah tebal.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "Writing"
+      ],
+      "topics": [
+        "Shapes & Measurement"
+      ],
+      "notes": "Noun: 'triangle'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Shallow",
+      "meaning": "Dangkal (tidak dalam)",
+      "level": "Basic",
+      "phonetic": "/ˈʃæl.əʊ/",
+      "definition": "Of little depth; situated at no great depth below the surface.",
+      "example": "Young children played safely in the shallow end of the outdoor resort pool.",
+      "exampleTranslation": "Anak-anak kecil bermain dengan aman di ujung kolam renang resor luar ruangan yang dangkal.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Shapes & Measurement",
+        "Nature & Forestry"
+      ],
+      "notes": "Opposite: 'deep'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Deep",
+      "meaning": "Dalam (menjorok jauh ke bawah)",
+      "level": "Basic",
+      "phonetic": "/diːp/",
+      "definition": "Extending far down from the top or surface.",
+      "example": "Marine researchers explored deep oceanic trenches using robotic underwater submersibles.",
+      "exampleTranslation": "Peneliti laut menjelajahi palung laut yang sangat dalam menggunakan wahana selam robotik bawah air.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Shapes & Measurement",
+        "Nature & Forestry"
+      ],
+      "notes": "Noun: 'depth'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Steep",
+      "meaning": "Curam / terjal menanjak",
+      "level": "Basic",
+      "phonetic": "/stiːp/",
+      "definition": "Rising or falling sharply; almost perpendicular; having an abrupt angle of ascent or descent.",
+      "example": "Hikers had to climb a steep rocky ridge to reach the mountain summit observatory.",
+      "exampleTranslation": "Para pendaki harus menaiki punggung bukit berbatu yang curam untuk mencapai observatorium puncak gunung.",
+      "partOfSpeech": "adjective",
+      "usageCategories": [
+        "Listening",
+        "Writing"
+      ],
+      "topics": [
+        "Shapes & Measurement",
+        "Travel & Transport"
+      ],
+      "notes": "Also used for graphs: 'a steep rise in prices' (kenaikan harga yang tajam).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Plumber",
+      "meaning": "Tukang ledeng perbaikan pipa air",
+      "level": "Basic",
+      "phonetic": "/ˈplʌm.ər/",
+      "definition": "A person who fits and repairs the pipes, fittings, and other apparatus of water supply, sanitation, or heating systems.",
+      "example": "We called a certified plumber to repair the corroded pipe beneath the kitchen sink.",
+      "exampleTranslation": "Kami memanggil tukang ledeng bersertifikat untuk memperbaiki pipa berkarat di bawah wastafel dapur.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Work & Career",
+        "Daily Objects"
+      ],
+      "notes": "Phonetic trap: silent 'b' (/ˈplʌm.ər/). Do not pronounce the b!",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Electrician",
+      "meaning": "Tukang listrik instalasi kabel",
+      "level": "Basic",
+      "phonetic": "/ɪˌlekˈtrɪʃ.ən/",
+      "definition": "A person who installs and maintains electrical equipment and wiring.",
+      "example": "A licensed electrician inspected the household circuit breaker panel after the power surge.",
+      "exampleTranslation": "Tukang listrik berlisensi memeriksa panel pemutus sirkuit rumah setelah lonjakan listrik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Work & Career"
+      ],
+      "topics": [
+        "Work & Career"
+      ],
+      "notes": "Listening Section 1 service booking keyword.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Carpenter",
+      "meaning": "Tukang kayu perabot dan bangunan",
+      "level": "Basic",
+      "phonetic": "/ˈkɑː.pɪn.tər/",
+      "definition": "A person who makes and repairs wooden objects and structures.",
+      "example": "The carpenter built custom fitted bookshelves that match the room's vintage oak molding.",
+      "exampleTranslation": "Tukang kayu itu membuat rak buku tanam kustom yang cocok dengan lis kayu ek antik ruangan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Work & Career"
+      ],
+      "topics": [
+        "Work & Career"
+      ],
+      "notes": "Carpentry: keahlian pertukangan kayu.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Mechanic",
+      "meaning": "Montir mekanik mesin kendaraan",
+      "level": "Basic",
+      "phonetic": "/məˈkæn.ɪk/",
+      "definition": "A skilled worker who repairs and maintains vehicle engines and machinery.",
+      "example": "The garage mechanic checked the brake pads and changed the engine motor oil.",
+      "exampleTranslation": "Montir bengkel memeriksa kampas rem dan mengganti oli mesin mobil.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Work & Career"
+      ],
+      "topics": [
+        "Work & Career",
+        "Travel & Transport"
+      ],
+      "notes": "Pronounced with /k/ sound (/məˈkæn.ɪk/).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Librarian",
+      "meaning": "Pustakawan pengelola buku",
+      "level": "Basic",
+      "phonetic": "/laɪˈbreə.ri.ən/",
+      "definition": "A person, typically with a degree in library science, who works in a library providing access to information.",
+      "example": "The research librarian assisted students in accessing archived historical newspapers.",
+      "exampleTranslation": "Pustakawan riset membantu mahasiswa dalam mengakses arsip koran bersejarah.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Education"
+      ],
+      "topics": [
+        "Education",
+        "Work & Career"
+      ],
+      "notes": "Campus staff dialogues in IELTS Listening Section 3.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Accountant",
+      "meaning": "Akuntan pembukuan keuangan",
+      "level": "Basic",
+      "phonetic": "/əˈkaʊn.tənt/",
+      "definition": "A person whose job is to keep or inspect financial accounts and tax documentation.",
+      "example": "Small business owners hire certified public accountants to manage annual corporate tax filings.",
+      "exampleTranslation": "Pemilik usaha kecil menyewa akuntan publik bersertifikat untuk mengelola pelaporan pajak perusahaan tahunan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Work & Career"
+      ],
+      "topics": [
+        "Work & Career",
+        "Economy"
+      ],
+      "notes": "Profession in IELTS Section 1 forms.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Pharmacist",
+      "meaning": "Apoteker peracik obat",
+      "level": "Basic",
+      "phonetic": "/ˈfɑː.mə.sɪst/",
+      "definition": "A person who is professionally qualified to prepare and dispense medicinal drugs.",
+      "example": "The community pharmacist advised the patient on the correct dosage for the antibiotic tablets.",
+      "exampleTranslation": "Apoteker komunitas memberi saran kepada pasien mengenai dosis yang benar untuk tablet antibiotik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health",
+        "Work & Career"
+      ],
+      "notes": "British equivalent: 'chemist'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Dentist",
+      "meaning": "Dokter gigi",
+      "level": "Basic",
+      "phonetic": "/ˈden.tɪst/",
+      "definition": "A person qualified to treat the diseases and conditions that affect the teeth and gums.",
+      "example": "Dental associations recommend scheduling a checkup with a dentist twice a year.",
+      "exampleTranslation": "Asosiasi dokter gigi merekomendasikan penjadwalan pemeriksaan ke dokter gigi dua kali setahun.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Health",
+        "Work & Career"
+      ],
+      "notes": "Adjective: 'dental clinic'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:30:00.000Z",
+      "updated_at": "2026-11-15T17:30:00.000Z"
+    },
+    {
+      "word": "Penguin",
+      "meaning": "Pinguin (burung kutub tak terbang)",
+      "level": "Basic",
+      "phonetic": "/ˈpeŋ.ɡwɪn/",
+      "definition": "A flightless seabird of southern hemisphere oceans, with flipper-like wings and black-and-white plumage.",
+      "example": "Emperor penguins huddle in tight rotating clusters to endure brutal Antarctic blizzards.",
+      "exampleTranslation": "Pinguin kaisar berkerumun dalam kelompok rapat yang bergantian untuk bertahan dari badai salju Antartika yang ganas.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Flightless bird adapted for diving; uses flippers for propulsion.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Elephant",
+      "meaning": "Gajah berbelalai",
+      "level": "Basic",
+      "phonetic": "/ˈel.ɪ.fənt/",
+      "definition": "A very large herbivorous mammal with a long trunk, curved ivory tusks, and large flapping ears.",
+      "example": "Elephants maintain deep matriarchal social bonds and remember migration watering holes for decades.",
+      "exampleTranslation": "Gajah memelihara ikatan sosial keibuan yang erat dan mengingat sumber air migrasi selama puluhan tahun.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Trunk: belalai; tusk: gading gajah.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Giraffe",
+      "meaning": "Jerapah berleher panjang",
+      "level": "Basic",
+      "phonetic": "/dʒɪˈrɑːf/",
+      "definition": "A large African mammal with a very long neck and forelegs, having a coat patterned with brown patches.",
+      "example": "Giraffes use their long prehensile purple tongues to pluck tender acacia leaves among sharp thorns.",
+      "exampleTranslation": "Jerapah menggunakan lidah ungu panjangnya yang lentur untuk memetik daun akasia muda di antara duri tajam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Tallest living terrestrial animal.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Zebra",
+      "meaning": "Zebra bergaris belang",
+      "level": "Basic",
+      "phonetic": "/ˈzeb.rə/",
+      "definition": "An African wild horse with black-and-white stripes and an erect mane.",
+      "example": "The distinctive vertical stripes of zebras confuse biting tsetse flies and predatory lions.",
+      "exampleTranslation": "Garis belang vertikal khas zebra membingungkan lalat tsetse yang menggigit dan singa pemangsa.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Camouflage & insect deterrence adaptation.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Lion",
+      "meaning": "Singa raja hutan",
+      "level": "Basic",
+      "phonetic": "/ˈlaɪ.ən/",
+      "definition": "A large tawny-coloured cat that lives in prides, found in Africa and north-western India.",
+      "example": "Lionesses do the majority of collective hunting for the pride during nocturnal stalks.",
+      "exampleTranslation": "Singa betina melakukan sebagian besar perburuan bersama untuk kawanannya saat mengendap-endap di malam hari.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Collective noun: 'pride of lions'. Male has a mane (surai).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Tiger",
+      "meaning": "Harimau loreng",
+      "level": "Basic",
+      "phonetic": "/ˈtaɪ.ɡər/",
+      "definition": "A very large solitary Asian cat with a yellow-brown coat striped with black.",
+      "example": "Bengal tigers rely on dense jungle cover to ambush wild boar and spotted deer.",
+      "exampleTranslation": "Harimau Bengal mengandalkan rimbunnya hutan untuk menyergap babi hutan dan rusa tutul.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Solitary apex predator. Distinct from pack-hunting lions.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Monkey",
+      "meaning": "Monyet berekor",
+      "level": "Basic",
+      "phonetic": "/ˈmʌŋ.ki/",
+      "definition": "A small to medium-sized primate that typically has a long tail, living chiefly in trees.",
+      "example": "Capuchin monkeys display impressive dexterity when cracking nuts open with anvil stones.",
+      "exampleTranslation": "Monyet kapusin menunjukkan ketangkasan mengesankan saat memecahkan kacang dengan batu landasan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Difference: monkeys have tails; apes (chimpanzees, gorillas) do not.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Parrot",
+      "meaning": "Burung beo / kakaktua",
+      "level": "Basic",
+      "phonetic": "/ˈpær.ət/",
+      "definition": "A bird, often vividly colored, with a short hooked bill, zygodactyl feet, and the ability to mimic human speech.",
+      "example": "African grey parrots possess cognitive problem-solving abilities on par with a young child.",
+      "exampleTranslation": "Burung beo abu-abu Afrika memiliki kemampuan kognitif pemecahan masalah setara dengan anak kecil.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Famous in animal cognition and vocal learning studies.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Crow",
+      "meaning": "Burung gagak hitam",
+      "level": "Basic",
+      "phonetic": "/krəʊ/",
+      "definition": "A large black bird with a harsh cry, renowned for high intelligence and tool creation.",
+      "example": "New Caledonian crows bend stiff twigs into hooked implements to extract grubs from tree hollows.",
+      "exampleTranslation": "Burung gagak Kaledonia Baru membengkokkan ranting kaku menjadi kait untuk menarik keluar larva dari rongga pohon.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Corvid family: crows, ravens, magpies (highest avian intelligence).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Seagull",
+      "meaning": "Burung camar laut",
+      "level": "Basic",
+      "phonetic": "/ˈsiː.ɡʌl/",
+      "definition": "A coastal seabird with long wings, webbed feet, and white-and-grey plumage.",
+      "example": "Noisy flocks of seagulls follow offshore trawlers to scavenge discarded fish scraps.",
+      "exampleTranslation": "Kawanan burung camar yang bising mengikuti kapal pukat lepas pantai untuk mengais sisa ikan terbuang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Common sight in UK coastal holiday settings.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Sheep",
+      "meaning": "Domba penghasil wol",
+      "level": "Basic",
+      "phonetic": "/ʃiːp/",
+      "definition": "A domesticated ruminant mammal with a thick woolly fleece, kept for its wool or meat.",
+      "example": "Highland farmers herd flocks of hardy sheep across windswept grassy moors.",
+      "exampleTranslation": "Petani dataran tinggi menggiring kawanan domba tangguh melintasi padang rumput berangin kencang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural is still 'sheep' (not 'sheeps'). Baby: 'lamb'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Goat",
+      "meaning": "Kambing ternak",
+      "level": "Basic",
+      "phonetic": "/ɡəʊt/",
+      "definition": "A hardy domesticated ruminant animal with horns and a beard, kept for milk and meat.",
+      "example": "Mountain goats have flexible rubbery hooves that grip sheer vertical rock faces securely.",
+      "exampleTranslation": "Kambing gunung memiliki kuku kenyal elastis yang mencengkeram dinding tebing batu terjal dengan kokoh.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Baby: 'kid'. Meat: 'chevon' / 'goat meat'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Cow",
+      "meaning": "Sapi perah / ternak",
+      "level": "Basic",
+      "phonetic": "/kaʊ/",
+      "definition": "A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
+      "example": "Dairy cows graze on lush spring clover to produce high-protein butterfat milk.",
+      "exampleTranslation": "Sapi perah merumput memakan semanggi musim semi yang subur untuk menghasilkan susu berlemak kaya protein.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Female: cow; male: bull; young: calf; meat: beef.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Horse",
+      "meaning": "Kuda",
+      "level": "Basic",
+      "phonetic": "/hɔːs/",
+      "definition": "A large plant-eating domesticated mammal with solid hooves and a flowing mane and tail.",
+      "example": "Therapeutic horse riding helps improve balance and confidence in children with motor challenges.",
+      "exampleTranslation": "Berkuda terapi membantu meningkatkan keseimbangan dan rasa percaya diri pada anak-anak berkebutuhan motorik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Baby horse: 'foal' / 'colt'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Chicken",
+      "meaning": "Ayam ternak",
+      "level": "Basic",
+      "phonetic": "/ˈtʃɪk.ɪn/",
+      "definition": "A domestic fowl kept for its eggs or meat, especially with young.",
+      "example": "Free-range chickens forage outdoors for wild seeds, worms, and fresh grass.",
+      "exampleTranslation": "Ayam kampung bebas berkeliaran di luar ruangan mencari biji liar, cacing, dan rumput segar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Food & Taste"
+      ],
+      "notes": "Male: 'rooster' (cock); female: 'hen'; baby: 'chick'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Peach",
+      "meaning": "Buah persik berbiji keras",
+      "level": "Basic",
+      "phonetic": "/piːtʃ/",
+      "definition": "A round stone fruit with juicy sweet yellow or white flesh, downy pinkish-yellow skin, and a rough stone.",
+      "example": "Freshly harvested summer peaches are sweet, fragrant, and bursting with warm juice.",
+      "exampleTranslation": "Buah persik musim panas yang baru dipanen terasa manis, harum, dan penuh dengan air hangat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Stone fruit: buah berbiji keras.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Pear",
+      "meaning": "Buah pir",
+      "level": "Basic",
+      "phonetic": "/peər/",
+      "definition": "A sweet, juicy fruit, narrow at the stalk and wider toward the base, with a thin skin and gritty flesh.",
+      "example": "Poached pears infused with cinnamon and star anise make a light winter dessert.",
+      "exampleTranslation": "Pir rebus yang diberi kayu manis dan bunga lawang menjadi hidangan penutup musim dingin yang ringan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Homophone: 'pair' (sepasang) vs 'pear' (buah pir).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Cherry",
+      "meaning": "Buah ceri merah",
+      "level": "Basic",
+      "phonetic": "/ˈtʃer.i/",
+      "definition": "A small, round stone fruit that is typically bright or dark red, with a long stalk.",
+      "example": "Tourists flock to Japan every spring to witness the breathtaking cherry blossoms.",
+      "exampleTranslation": "Turis berbondong-bondong ke Jepang setiap musim semi untuk menyaksikan mekarnya bunga ceri (sakura) yang memukau.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Nature & Forestry"
+      ],
+      "notes": "Cherry blossom: bunga sakura.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Blueberry",
+      "meaning": "Buah bluberi biru kaya antioksidan",
+      "level": "Basic",
+      "phonetic": "/ˈbluːˌbər.i/",
+      "definition": "A small sweet blue-black berry produced by a shrub of the heath family.",
+      "example": "Blueberries are classified as a superfood owing to their high concentration of anthocyanins.",
+      "exampleTranslation": "Bluberi diklasifikasikan sebagai makanan super karena konsentrasi antosianinnya yang tinggi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Plural: 'blueberries'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Melon",
+      "meaning": "Buah melon manis",
+      "level": "Basic",
+      "phonetic": "/ˈmel.ən/",
+      "definition": "The large round fruit of various plants of the gourd family, with sweet pulpy flesh and many seeds.",
+      "example": "Honeydew melon slices wrapped in cured ham provide an elegant Italian appetizer.",
+      "exampleTranslation": "Irisan melon embun madu yang dibungkus daging asap menjadi hidangan pembuka Italia yang elegan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Honeydew melon, cantaloupe melon.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Eggplant",
+      "meaning": "Terong ungu",
+      "level": "Basic",
+      "phonetic": "/ˈeɡ.plɑːnt/",
+      "definition": "An egg-shaped vegetable with a glossy purple skin and white fleshy interior.",
+      "example": "Grilled slices of eggplant absorb aromatic garlic and olive oil in Mediterranean moussaka.",
+      "exampleTranslation": "Irisan terong panggang menyerap bawang putih dan minyak zaitun yang harum dalam moussaka Mediterania.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "US: eggplant; UK: aubergine (/ˈəʊ.bə.ʒiːn/).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Pumpkin",
+      "meaning": "Labu kuning besar",
+      "level": "Basic",
+      "phonetic": "/ˈpʌmp.kɪn/",
+      "definition": "A large rounded orange-yellow fruit with a thick rind and numerous seeds, eaten as a vegetable.",
+      "example": "Warm roasted pumpkin soup seasoned with ground nutmeg is a comforting autumn supper.",
+      "exampleTranslation": "Sup labu kuning panggang hangat berbumbu pala bubuk adalah santapan musim gugur yang menenangkan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Roasted pumpkin seeds are also eaten as a nutritious snack.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Bell pepper",
+      "meaning": "Paprika manis (merah/kuning/hijau)",
+      "level": "Basic",
+      "phonetic": "/ˈbel ˌpep.ər/",
+      "definition": "A large, hollow, non-pungent pepper cultivar with thick edible flesh, eaten raw or cooked.",
+      "example": "Stir-fried colorful bell peppers retain their crunchy snap when cooked over high heat.",
+      "exampleTranslation": "Paprika warna-warni yang ditumis tetap renyah saat dimasak di atas api besar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "British/Australian English: 'capsicum'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Chilli",
+      "meaning": "Cabai pedas",
+      "level": "Basic",
+      "phonetic": "/ˈtʃɪl.i/",
+      "definition": "A small hot-tasting pod of a variety of capsicum, used fresh or dried for flavoring food.",
+      "example": "Bird's eye chillies contain high capsaicin that produces an intense spicy burning sensation.",
+      "exampleTranslation": "Cabai rawit mengandung kapsaisin tinggi yang menghasilkan sensasi pedas menyengat yang hebat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Spelling: UK chilli, US chili. Active compound: 'capsaicin'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Lettuce",
+      "meaning": "Selada daun lalapan",
+      "level": "Basic",
+      "phonetic": "/ˈlet.ɪs/",
+      "definition": "A cultivated plant of the daisy family, with edible green leaves that are eaten raw in salads.",
+      "example": "Crisp romaine lettuce leaves form the crunchy structural foundation of a classic Caesar salad.",
+      "exampleTranslation": "Daun selada romaine yang renyah membentuk fondasi struktur garing dari salad Caesar klasik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Pronunciation: /ˈlet.ɪs/ (short 'is').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Celery",
+      "meaning": "Seledri batang renyah",
+      "level": "Basic",
+      "phonetic": "/ˈsel.ər.i/",
+      "definition": "A marshland plant with long crisp pale green stalks eaten raw in salads or cooked in soups.",
+      "example": "Diced celery, carrots, and onions form the classic aromatic mirepoix base for French broths.",
+      "exampleTranslation": "Potongan seledri dadu, wortel, dan bawang bombay membentuk dasar aromatik mirepoix klasik untuk kaldu Prancis.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Famous for high water content and low caloric density.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Sweet potato",
+      "meaning": "Ubi jalar manis",
+      "level": "Basic",
+      "phonetic": "/ˌswiːt pəˈteɪ.təʊ/",
+      "definition": "The large sweet starchy edible root of a tropical American convolvulaceous vine.",
+      "example": "Baked sweet potato wedges offer a nutrient-dense alternative to traditional french fries.",
+      "exampleTranslation": "Potongan ubi jalar panggang menawarkan alternatif kaya nutrisi dibandingkan kentang goreng tradisional.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Rich in dietary fiber, potassium, and vitamin A.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Jacket",
+      "meaning": "Jaket luar penahan angin/dingin",
+      "level": "Basic",
+      "phonetic": "/ˈdʒæk.ɪt/",
+      "definition": "An outer garment extending either to the waist or the hips, typically having sleeves and a fastening down the front.",
+      "example": "Hikers are advised to pack a lightweight waterproof jacket in case of sudden mountain squalls.",
+      "exampleTranslation": "Para pendaki disarankan mengemas jaket tahan air ringan untuk mengantisipasi badai gunung mendadak.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Daily Objects"
+      ],
+      "notes": "Listening Section 1 lost-property or luggage keyword.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Coat",
+      "meaning": "Mantel luar tebal / jas panjang",
+      "level": "Basic",
+      "phonetic": "/kəʊt/",
+      "definition": "An outer garment with sleeves, worn outdoors and typically extending below the hips.",
+      "example": "She buttoned her heavy woollen trench coat tightly against the biting winter wind.",
+      "exampleTranslation": "Ia mengancingkan mantel wol tebalnya rapat-rapat untuk menahan angin dingin yang menusuk.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Daily Objects"
+      ],
+      "notes": "Collocation: 'raincoat' (jas hujan), 'overcoat' (mantel luar tebal).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Scarf",
+      "meaning": "Syal leher rajut / kerudung",
+      "level": "Basic",
+      "phonetic": "/skɑːf/",
+      "definition": "A length or square of fabric worn around the neck or head for warmth or style.",
+      "example": "Wrapping a warm cashmere scarf around your throat helps insulate against sub-zero drafts.",
+      "exampleTranslation": "Melilitkan syal kasmir hangat di leher Anda membantu menahan hawa dingin di bawah nol derajat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Daily Objects"
+      ],
+      "notes": "Plural: 'scarves' or 'scarfs'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Gloves",
+      "meaning": "Sarung tangan pelindung",
+      "level": "Basic",
+      "phonetic": "/ɡlʌvz/",
+      "definition": "A covering for the hand made of wool, leather, etc., with separate parts for each finger and the thumb.",
+      "example": "Gardeners wear durable leather gloves to shield their hands from thorny briars.",
+      "exampleTranslation": "Tukang kebun mengenakan sarung tangan kulit yang kuat untuk melindungi tangan dari duri semak berduri.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Daily Objects"
+      ],
+      "notes": "Gloves (berjari terpisah) vs Mittens (jempol terpisah, jari lain menyatu).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Boots",
+      "meaning": "Sepatu bot tinggi pelindung kaki",
+      "level": "Basic",
+      "phonetic": "/buːts/",
+      "definition": "Sturdy footwear extending above the ankle and sometimes to the knee.",
+      "example": "Waterproof leather hiking boots provide essential ankle support over uneven rocky trails.",
+      "exampleTranslation": "Sepatu bot pendakian kulit tahan air memberikan topangan pergelangan kaki yang sangat penting di jalur berbatu.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Travel & Transport"
+      ],
+      "notes": "Hiking boots, rubber boots (wellies / Wellington boots).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Backpack",
+      "meaning": "Ransel punggung",
+      "level": "Basic",
+      "phonetic": "/ˈbæk.pæk/",
+      "definition": "A bag with shoulder straps, allowing it to be carried on one's back.",
+      "example": "Adjust the ergonomic chest strap so the backpack weight distributes evenly across your hips.",
+      "exampleTranslation": "Sesuaikan tali dada ergonomis agar beban ransel terdistribusi secara merata di pinggul Anda.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Travel & Transport"
+      ],
+      "notes": "British synonyms: 'rucksack' or 'knapsack'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Suitcase",
+      "meaning": "Koper pakaian perjalanan",
+      "level": "Basic",
+      "phonetic": "/ˈsuːt.keɪs/",
+      "definition": "A case with a handle and a hinged lid, used for carrying clothes and other personal possessions.",
+      "example": "Airlines impose an excess baggage fee if your checked suitcase exceeds twenty-three kilograms.",
+      "exampleTranslation": "Maskapai penerbangan mengenakan biaya kelebihan bagasi jika koper bagasi Anda melebihi dua puluh tiga kilogram.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Travel & Transport"
+      ],
+      "notes": "Countable noun: 'two suitcases', unlike uncountable 'luggage'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Glasses",
+      "meaning": "Kacamata penglihatan",
+      "level": "Basic",
+      "phonetic": "/ˈɡlɑː.sɪz/",
+      "definition": "A pair of lenses set in a frame resting on the nose and ears, used to correct vision.",
+      "example": "The optometrist prescribed anti-reflective reading glasses to reduce digital screen eye strain.",
+      "exampleTranslation": "Ahli optik meresepkan kacamata baca anti-pantul untuk mengurangi ketegangan mata akibat layar digital.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Health"
+      ],
+      "notes": "Always plural (say 'a pair of glasses' or 'spectacles').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Canteen",
+      "meaning": "Kantin makan kampus / kantor",
+      "level": "Basic",
+      "phonetic": "/kænˈtiːn/",
+      "definition": "A restaurant provided for the staff or students in an institution such as a university or hospital.",
+      "example": "The university canteen serves subsidized hot vegetarian meals from noon until two.",
+      "exampleTranslation": "Kantin universitas menyajikan makanan vegetarian hangat bersubsidi dari pukul dua belas hingga dua siang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Education"
+      ],
+      "topics": [
+        "Places & Town",
+        "Education"
+      ],
+      "notes": "Campus facilities in IELTS Listening Section 2 & 3.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Gymnasium",
+      "meaning": "Pusat kebugaran / gedung olahraga",
+      "level": "Basic",
+      "phonetic": "/dʒɪmˈneɪ.zi.əm/",
+      "definition": "A hall or building equipped for gymnastics, physical exercise, or indoor sports.",
+      "example": "Campus gym membership includes unrestricted access to the cardiovascular equipment and Olympic pool.",
+      "exampleTranslation": "Keanggotaan pusat olahraga kampus mencakup akses tanpa batas ke peralatan kardiovaskular dan kolam renang Olimpiade.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Places & Town",
+        "Health"
+      ],
+      "notes": "Commonly abbreviated to 'gym'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Town hall",
+      "meaning": "Balai kota pertemuan warga",
+      "level": "Basic",
+      "phonetic": "/ˌtaʊn ˈhɔːl/",
+      "definition": "A building that houses the administrative offices of a municipal government, often with a public hall.",
+      "example": "The municipal community consultation meeting will be held in the historic town hall auditorium.",
+      "exampleTranslation": "Rapat konsultasi masyarakat kota akan diadakan di auditorium balai kota bersejarah.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Society"
+      ],
+      "topics": [
+        "Places & Town",
+        "Society"
+      ],
+      "notes": "Major civic landmark in town map audio guides.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Castle",
+      "meaning": "Kastel / benteng istana kuno",
+      "level": "Basic",
+      "phonetic": "/ˈkɑː.səl/",
+      "definition": "A large building, typically of the medieval period, fortified against attack with thick walls and battlements.",
+      "example": "Guided tours of the medieval stone castle depart from the drawbridge courtyard every hour.",
+      "exampleTranslation": "Tur berpemandu ke kastel batu abad pertengahan berangkat dari halaman jembatan angkat setiap jam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Places & Town",
+        "Travel & Transport"
+      ],
+      "notes": "Silent 't' (/ˈkɑː.səl/). Heritage tourism staple.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Museum",
+      "meaning": "Museum pameran sejarah dan seni",
+      "level": "Basic",
+      "phonetic": "/mjuːˈziː.əm/",
+      "definition": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+      "example": "Admission to national permanent museum galleries is free of charge to the public throughout the year.",
+      "exampleTranslation": "Tiket masuk ke galeri pameran tetap museum nasional digratiskan untuk umum sepanjang tahun.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Culture"
+      ],
+      "topics": [
+        "Places & Town",
+        "Culture"
+      ],
+      "notes": "Collocation: 'museum exhibit', 'natural history museum'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:35:00.000Z",
+      "updated_at": "2026-11-15T17:35:00.000Z"
+    },
+    {
+      "word": "Snail",
+      "meaning": "Siput / bekicot bercangkang spiral",
+      "level": "Basic",
+      "phonetic": "/sneɪl/",
+      "definition": "A mollusc with a single spiral shell into which the whole body can be withdrawn.",
+      "example": "Garden snails secrete a glistening layer of protective mucus to glide across rough concrete.",
+      "exampleTranslation": "Siput kebun mengeluarkan lapisan lendir pelindung yang berkilau untuk meluncur di atas beton kasar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Metaphor: 'at a snail's pace' (sangat lambat).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Worm",
+      "meaning": "Cacing tanah penyubur",
+      "level": "Basic",
+      "phonetic": "/wɜːm/",
+      "definition": "An earthworm or similar long, slender, soft-bodied burrowing invertebrate.",
+      "example": "Earthworms aerate agricultural topsoil by churning decomposing leaf matter into rich humus.",
+      "exampleTranslation": "Cacing tanah menganginkan lapisan atas tanah pertanian dengan mengolah serasah daun yang membusuk menjadi humus subur.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Nature & Forestry"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Nature & Forestry"
+      ],
+      "notes": "Idiom: 'the early bird catches the worm'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Fly",
+      "meaning": "Lalat",
+      "level": "Basic",
+      "phonetic": "/flaɪ/",
+      "definition": "A small two-winged flying insect of a large order to which mosquitoes and houseflies belong.",
+      "example": "House flies carry bacterial contaminants on their feet, posing sanitation risks in food preparation areas.",
+      "exampleTranslation": "Lalat rumah membawa kontaminan bakteri di kakinya, menimbulkan risiko sanitasi di area penyiapan makanan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Health"
+      ],
+      "notes": "Both noun (insect) and verb (terbang).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Dragonfly",
+      "meaning": "Capung pemangsa serangga",
+      "level": "Basic",
+      "phonetic": "/ˈdræɡ.ən.flaɪ/",
+      "definition": "A fast-flying long-bodied insect with two pairs of large transparent wings, hunting aquatic insects near ponds.",
+      "example": "Dragonflies are formidable aerial predators capable of flying backward and hovering in place.",
+      "exampleTranslation": "Capung adalah pemangsa udara yang tangguh yang mampu terbang mundur dan melayang diam di tempat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Indicator of freshwater habitat health.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Grasshopper",
+      "meaning": "Belalang pelompat",
+      "level": "Basic",
+      "phonetic": "/ˈɡrɑːsˌhɒp.ər/",
+      "definition": "A plant-eating insect with long hind legs used for jumping and for producing a chirping sound.",
+      "example": "Grasshoppers produce their characteristic summer chirping sound by rubbing their hind legs against their wings.",
+      "exampleTranslation": "Belalang menghasilkan suara derik khas musim panas dengan menggesekkan kaki belakangnya pada sayapnya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Biological term: 'stridulation' (bunyi gesekan kaki serangga).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Caterpillar",
+      "meaning": "Ulat bulu (larva kupu-kupu)",
+      "level": "Basic",
+      "phonetic": "/ˈkæt.əˌpɪl.ər/",
+      "definition": "The wormlike larva of a butterfly or moth, typically having a segmented body with three pairs of true legs.",
+      "example": "The hungry green caterpillar devoured milkweed leaves before pupating into a decorative chrysalis.",
+      "exampleTranslation": "Ulat hijau yang lapar melahap daun biduri sebelum menjadi kepompong dekoratif.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Life cycle of lepidoptera.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Beetle",
+      "meaning": "Kumbang bersayap perisai keras",
+      "level": "Basic",
+      "phonetic": "/ˈbiː.təl/",
+      "definition": "An insect of a large order distinguished by forewings that are modified into hard wing-cases (elytra).",
+      "example": "Dung beetles roll and bury livestock manure, accelerating subterranean soil nutrient recycling.",
+      "exampleTranslation": "Kumbang kotoran menggulung dan mengubur kotoran ternak, mempercepat daur ulang nutrisi tanah bawah tanah.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Nature & Forestry"
+      ],
+      "notes": "Order: Coleoptera (the largest insect order on Earth).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Fig",
+      "meaning": "Buah tin / ara manis",
+      "level": "Basic",
+      "phonetic": "/fɪɡ/",
+      "definition": "A soft, pear-shaped sweet fruit with edible seeds, cultivated across Mediterranean climates.",
+      "example": "Fresh purple figs paired with mild goat cheese make a classic Mediterranean appetizer.",
+      "exampleTranslation": "Buah tin ungu segar yang dipadukan dengan keju kambing lembut menjadi hidangan pembuka Mediterania klasik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Ancient cultivated fruit; high in dietary fiber.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Pomegranate",
+      "meaning": "Buah delima berbiji merah",
+      "level": "Advance",
+      "phonetic": "/ˈpɒm.ɪˌɡræn.ɪt/",
+      "definition": "A spherical fruit with a tough reddish rind and numerous juicy seeds surrounded by red edible pulp.",
+      "example": "Tart ruby-red pomegranate seeds add burst of color and acidity to Persian rice pilaf.",
+      "exampleTranslation": "Biji buah delima merah delima yang asam segar memberikan semburat warna dan rasa asam pada nasi pilaf Persia.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Spelling: p-o-m-e-g-r-a-n-a-t-e.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Kiwi",
+      "meaning": "Buah kiwi hijau berbulu",
+      "level": "Basic",
+      "phonetic": "/ˈkiː.wiː/",
+      "definition": "A small oval fruit with thin hairy brownish skin, emerald green flesh, and tiny black edible seeds.",
+      "example": "One medium ripe kiwi fruit supplies more than the daily recommended intake of vitamin C.",
+      "exampleTranslation": "Satu buah kiwi matang berukuran sedang memasok lebih dari asupan harian vitamin C yang direkomendasikan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Health"
+      ],
+      "notes": "Also refers to the flightless national bird of New Zealand.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Cinnamon",
+      "meaning": "Kayu manis rempah",
+      "level": "Basic",
+      "phonetic": "/ˈsɪn.ə.mən/",
+      "definition": "An aromatic spice made from the peeled, dried inner bark of an Asian tree.",
+      "example": "Sprinkling freshly grated cinnamon over morning oatmeal adds natural warmth and fragrance.",
+      "exampleTranslation": "Menaburkan kayu manis parut segar di atas oatmeal pagi hari memberikan kehangatan dan keharuman alami.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Food & Taste"
+      ],
+      "notes": "Harvested from the inner bark of Cinnamomum trees.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Pepper",
+      "meaning": "Lada hitam / merica",
+      "level": "Basic",
+      "phonetic": "/ˈpep.ər/",
+      "definition": "A pungent, hot-tasting powder prepared from dried and ground peppercorns, used as a seasoning.",
+      "example": "Freshly cracked black pepper complements coarse sea salt as universal table seasoning.",
+      "exampleTranslation": "Lada hitam tumbuk segar melengkapi garam laut kasar sebagai bumbu penyedap meja makan universal.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Food & Taste",
+        "Daily Objects"
+      ],
+      "notes": "Pair: salt and pepper.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Salt",
+      "meaning": "Garam dapur",
+      "level": "Basic",
+      "phonetic": "/sɒlt/",
+      "definition": "A white crystalline substance, sodium chloride, used for seasoning and preserving food.",
+      "example": "Excessive dietary salt intake contributes directly to elevated arterial hypertension.",
+      "exampleTranslation": "Asupan garam berlebih dalam pola makan berkontribusi langsung pada naiknya hipertensi arteri.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Food & Taste",
+        "Health"
+      ],
+      "notes": "Adjective: 'salty' (asin).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Fridge",
+      "meaning": "Kulkas lemari pendingin makanan",
+      "level": "Basic",
+      "phonetic": "/frɪdʒ/",
+      "definition": "An appliance in which food and drinks are kept cold to preserve them.",
+      "example": "Leftover cooked chicken should be refrigerated in the fridge within two hours.",
+      "exampleTranslation": "Sisa ayam matang harus didinginkan di dalam kulkas dalam waktu dua jam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Daily Objects"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Short for 'refrigerator' (informal & universally used).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Stove",
+      "meaning": "Kompor masak dapur",
+      "level": "Basic",
+      "phonetic": "/stəʊv/",
+      "definition": "An apparatus for cooking or heating that operates by burning fuel or using electricity.",
+      "example": "Always ensure the gas stove knobs are turned off completely before leaving the accommodation.",
+      "exampleTranslation": "Selalu pastikan kenop kompor gas dimatikan sepenuhnya sebelum meninggalkan penginapan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Daily Objects"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Gas stove, induction stove, electric stove.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Oven",
+      "meaning": "Oven pemanggang kue/makanan",
+      "level": "Basic",
+      "phonetic": "/ˈʌv.ən/",
+      "definition": "An enclosed compartment, as in a cooker, for cooking and heating food.",
+      "example": "Preheat the convection oven to two hundred degrees Celsius before baking the sourdough bread.",
+      "exampleTranslation": "Panaskan oven konveksi terlebih dahulu hingga dua ratus derajat Celsius sebelum memanggang roti asam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Daily Objects"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Pronunciation: /ˈʌv.ən/ (starts with /ʌ/ sound, rhymes with 'glove').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Soap",
+      "meaning": "Sabun mandi / sabun cuci tangan",
+      "level": "Basic",
+      "phonetic": "/səʊp/",
+      "definition": "A substance used with water for washing and cleaning, made of natural fats or oils combined with alkali.",
+      "example": "Washing hands with warm running water and liquid antibacterial soap prevents microbial infection.",
+      "exampleTranslation": "Mencuci tangan dengan air mengalir hangat dan sabun antibakteri cair mencegah infeksi kuman.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Health"
+      ],
+      "notes": "Collocation: 'bar of soap' (sebatang sabun), 'liquid soap'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Toothbrush",
+      "meaning": "Sikat gigi pembersih",
+      "level": "Basic",
+      "phonetic": "/ˈtuːθ.brʌʃ/",
+      "definition": "A small brush with a long handle, used for cleaning the teeth.",
+      "example": "Dentists recommend replacing your soft-bristle toothbrush every three months.",
+      "exampleTranslation": "Dokter gigi menyarankan mengganti sikat gigi berbulu lembut Anda setiap tiga bulan sekali.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Health"
+      ],
+      "notes": "Hygiene item in travel packing lists.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Toothpaste",
+      "meaning": "Pasta gigi / odol",
+      "level": "Basic",
+      "phonetic": "/ˈtuːθ.peɪst/",
+      "definition": "A paste used with a toothbrush to clean and maintain the health and aesthetics of teeth.",
+      "example": "Fluoride toothpaste strengthens tooth enamel against acidic demineralization.",
+      "exampleTranslation": "Pasta gigi berfluorida memperkuat email gigi dari demineralisasi akibat zat asam.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Health"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Health"
+      ],
+      "notes": "Uncountable noun: 'a tube of toothpaste'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Shampoo",
+      "meaning": "Sampo pencuci rambut",
+      "level": "Basic",
+      "phonetic": "/ʃæmˈpuː/",
+      "definition": "A liquid preparation for washing the hair.",
+      "example": "The eco-friendly hotel supplies biodegradable organic herbal shampoo dispensers in all showers.",
+      "exampleTranslation": "Hotel ramah lingkungan menyediakan dispenser sampo herbal organik terurai alami di semua kamar mandi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Daily Objects"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Health"
+      ],
+      "notes": "Can also be used as a verb ('shampoo your hair').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Comb",
+      "meaning": "Sisir rambut bergigi",
+      "level": "Basic",
+      "phonetic": "/kəʊm/",
+      "definition": "A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or styling the hair.",
+      "example": "Use a wide-tooth wooden comb to gently untangle damp hair without causing breakage.",
+      "exampleTranslation": "Gunakan sisir kayu bergigi lebar untuk mengurai rambut lembap dengan lembut tanpa menyebabkan kerontokan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Daily Objects"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Phonetic trap: silent 'b' (/kəʊm/). Do not pronounce the b!",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Wallet",
+      "meaning": "Dompet uang dan kartu saku",
+      "level": "Basic",
+      "phonetic": "/ˈwɒl.ɪt/",
+      "definition": "A pocket-sized, flat, folding case for holding money and plastic cards.",
+      "example": "The commuter misplaced his leather wallet containing his metro travel card and driving license.",
+      "exampleTranslation": "Komuter itu kelupaan dompet kulitnya yang berisi kartu perjalanan metro dan surat izin mengemudi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Travel & Transport"
+      ],
+      "notes": "Lost-property dialogues in IELTS Listening Section 1.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Belt",
+      "meaning": "Ikat pinggang sabuk",
+      "level": "Basic",
+      "phonetic": "/belt/",
+      "definition": "A strip of leather or other material worn around the waist to support clothes or as decoration.",
+      "example": "Passengers must remove metal-buckled leather belts before passing through the airport security scanner.",
+      "exampleTranslation": "Penumpang harus melepas ikat pinggang kulit bergesper logam sebelum melewati pemindai keamanan bandara.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Clothing & Accessories",
+        "Daily Objects"
+      ],
+      "notes": "Idiom: 'tighten one's belt' (berhemat uang saat krisis).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Watch",
+      "meaning": "Jam tangan penunjuk waktu",
+      "level": "Basic",
+      "phonetic": "/wɒtʃ/",
+      "definition": "A small timepiece worn typically on a strap on one's wrist.",
+      "example": "Analog wrist watches are permitted in exam halls, but internet-connected smartwatches are banned.",
+      "exampleTranslation": "Jam tangan analog diizinkan di ruang ujian, tetapi jam tangan pintar yang tersambung internet dilarang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Education"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Technology"
+      ],
+      "notes": "Wristwatch vs clock (jam dinding).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:40:00.000Z",
+      "updated_at": "2026-11-15T17:40:00.000Z"
+    },
+    {
+      "word": "Hamster",
+      "meaning": "Hamster (hewan pengerat kecil berpipa pipi)",
+      "level": "Basic",
+      "phonetic": "/ˈhæm.stər/",
+      "definition": "A small burrowing rodent with a short tail and large cheek pouches for carrying food.",
+      "example": "Children learn responsibility by feeding pet hamsters sunflower seeds and cleaning their cages.",
+      "exampleTranslation": "Anak-anak belajar tanggung jawab dengan memberi makan biji bunga matahari ke hamster peliharaan dan membersihkan kandangnya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Popular domestic pet in listening dialogues.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Puppy",
+      "meaning": "Anak anjing lucu",
+      "level": "Basic",
+      "phonetic": "/ˈpʌp.i/",
+      "definition": "A young dog, especially one less than a year old.",
+      "example": "Puppies require consistent socialization and basic obedience training during early development.",
+      "exampleTranslation": "Anak anjing membutuhkan sosialisasi yang konsisten dan pelatihan kepatuhan dasar selama masa perkembangan awal.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Speaking",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'puppies'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Kitten",
+      "meaning": "Anak kucing",
+      "level": "Basic",
+      "phonetic": "/ˈkɪt.ən/",
+      "definition": "A young cat.",
+      "example": "A fluffy ginger kitten purred contentedly while curled up asleep on the armchair cushion.",
+      "exampleTranslation": "Seekor anak kucing jingga yang lembut mendengkur puas saat meringkuk tidur di atas bantal kursi berlengan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Speaking",
+        "General"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Plural: 'kittens'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Donkey",
+      "meaning": "Keledai pengangkut beban",
+      "level": "Basic",
+      "phonetic": "/ˈdɒŋ.ki/",
+      "definition": "A domesticated hoofed mammal of the horse family with long ears and a braying call.",
+      "example": "Sure-footed mountain donkeys carried medical supplies up the narrow rocky trail.",
+      "exampleTranslation": "Keledai gunung yang langkahnya mantap mengangkut persediaan medis mendaki jalur berbatu yang sempit.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Travel & Transport"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Synonym: 'burro'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Shrimp",
+      "meaning": "Udang kecil laut",
+      "level": "Basic",
+      "phonetic": "/ʃrɪmp/",
+      "definition": "A small free-swimming crustacean with an elongated body, typically marine and harvested for food.",
+      "example": "Mangrove estuaries provide sheltered nursery habitats for juvenile wild shrimp populations.",
+      "exampleTranslation": "Muara bakau menyediakan habitat pembibitan yang terlindung bagi populasi udang liar muda.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Animals & Wildlife",
+        "Food & Taste"
+      ],
+      "notes": "British English often uses 'prawn' for larger varieties.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Seahorse",
+      "meaning": "Kuda laut berekor melingkar",
+      "level": "Basic",
+      "phonetic": "/ˈsiː.hɔːs/",
+      "definition": "A small marine fish with an upright posture, head resembling a horse, and a prehensile grasping tail.",
+      "example": "Unique among vertebrates, male seahorses carry fertilised eggs in an abdominal brooding pouch.",
+      "exampleTranslation": "Unik di antara hewan bertulang belakang, kuda laut jantan membawa telur yang telah dibuahi di kantung pengeraman perutnya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Classic marine biology curiosity in IELTS reading.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Starfish",
+      "meaning": "Bintang laut bertubuh simetris",
+      "level": "Basic",
+      "phonetic": "/ˈstɑː.fɪʃ/",
+      "definition": "A marine echinoderm with five or more radiating arms and tube feet.",
+      "example": "Starfish can regenerate severed arms over several months through biological tissue renewal.",
+      "exampleTranslation": "Bintang laut dapat menumbuhkan kembali lengan yang terputus selama beberapa bulan melalui pembaruan jaringan biologis.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Also called 'sea star'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Peacock",
+      "meaning": "Burung merak jantan berekor kipas",
+      "level": "Basic",
+      "phonetic": "/ˈpiː.kɒk/",
+      "definition": "A male peafowl with iridescent blue and green plumage and an enormous fan-shaped tail.",
+      "example": "The peacock spread its magnificent eyed tail feathers into a giant shimmering fan.",
+      "exampleTranslation": "Burung merak membentangkan bulu ekor bermata yang luar biasa menjadi kipas raksasa yang berkilauan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Speaking"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Male: peacock; female: peahen; collective: peafowl.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Flamingo",
+      "meaning": "Burung flamingo merah muda berkaki jenjang",
+      "level": "Basic",
+      "phonetic": "/fləˈmɪŋ.ɡəʊ/",
+      "definition": "A tall wading bird with mainly pink plumage, long legs, a long neck, and a bent hooked bill.",
+      "example": "Flocks of pink flamingos feed on brine shrimp in alkaline volcanic crater lakes.",
+      "exampleTranslation": "Kawanan burung flamingo merah muda memakan udang air asin di danau kawah vulkanik basa.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Reading"
+      ],
+      "topics": [
+        "Animals & Wildlife"
+      ],
+      "notes": "Color comes from carotenoid pigments in their diet.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Plum",
+      "meaning": "Buah prem manis ungu/merah",
+      "level": "Basic",
+      "phonetic": "/plʌm/",
+      "definition": "An oval fleshy stone fruit with purple, reddish, or yellow skin and a sweet pulp.",
+      "example": "Ripe dark plums are simmered with brown sugar to make artisanal breakfast preserves.",
+      "exampleTranslation": "Buah prem gelap matang direbus dengan gula merah untuk membuat selai sarapan tradisional.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Dried plum is called a 'prune'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Apricot",
+      "meaning": "Buah aprikot oranye manis asam",
+      "level": "Basic",
+      "phonetic": "/ˈeɪ.prɪ.kɒt/",
+      "definition": "A small, round, yellowish-orange stone fruit resembling a peach.",
+      "example": "Sun-dried Turkish apricots provide a high-fiber portable snack for mountain treks.",
+      "exampleTranslation": "Buah aprikot Turki yang dikeringkan matahari menyediakan kudapan praktis kaya serat untuk pendakian gunung.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Pronunciation: UK /ˈeɪ.prɪ.kɒt/, US /ˈæp.rɪ.kɑːt/.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Raspberry",
+      "meaning": "Buah rasberi merah lembut berpori",
+      "level": "Basic",
+      "phonetic": "/ˈrɑːz.bər.i/",
+      "definition": "An edible soft fruit related to the blackberry, consisting of a cluster of reddish-pink drupelets.",
+      "example": "Wild raspberries grow abundantly along sunny forest borders and hedgerows.",
+      "exampleTranslation": "Rasberi liar tumbuh melimpah di sepanjang perbatasan hutan yang terkena sinar matahari dan pagar tanaman.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Silent 'p': pronounced /ˈrɑːz.bər.i/.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Parsley",
+      "meaning": "Peterseli herba penyegar",
+      "level": "Basic",
+      "phonetic": "/ˈpɑː.sli/",
+      "definition": "A biennial herb with flat or crinkled leaves used as a culinary seasoning and garnish.",
+      "example": "Finely chopped fresh parsley was sprinkled over the roasted garlic potatoes.",
+      "exampleTranslation": "Peterseli segar yang dicincang halus ditaburkan di atas kentang bawang putih panggang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Common herb in cooking dialogues.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Basil",
+      "meaning": "Daun kemangi / selasih aromatik",
+      "level": "Basic",
+      "phonetic": "/ˈbæz.əl/",
+      "definition": "An aromatic annual herb of the mint family, native to tropical Asia and widely used in cooking.",
+      "example": "Pound fresh basil leaves, pine nuts, garlic, and parmesan into fragrant green pesto.",
+      "exampleTranslation": "Tumbuk daun kemangi segar, kacang pinus, bawang putih, dan keju parmesan menjadi pesto hijau yang harum.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "UK pronunciation /ˈbæz.əl/, US /ˈbeɪ.zəl/.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Mint",
+      "meaning": "Daun min penyegar beraroma mentol",
+      "level": "Basic",
+      "phonetic": "/mɪnt/",
+      "definition": "An aromatic plant with leaves that are used fresh or dried to flavor food or infused as tea.",
+      "example": "Fresh Moroccan mint tea brewed with green tea leaves is offered to visiting guests as hospitality.",
+      "exampleTranslation": "Teh min Maroko segar yang diseduh dengan daun teh hijau disajikan kepada tamu yang berkunjung sebagai tanda keramahan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Also means currency printing facility: 'royal mint'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Rosemary",
+      "meaning": "Rempah daun rosemari wangi pinus",
+      "level": "Basic",
+      "phonetic": "/ˈrəʊz.mər.i/",
+      "definition": "An evergreen aromatic shrub of the mint family with needle-like leaves, used as a seasoning.",
+      "example": "Roasting lamb seasoned with fresh rosemary sprigs and crushed garlic releases a deep fragrant aroma.",
+      "exampleTranslation": "Memanggang daging domba berbumbu tangkai rosemari segar dan bawang putih geprek mengeluarkan aroma wangi yang lezat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Fruits & Vegetables",
+        "Food & Taste"
+      ],
+      "notes": "Woody culinary perennial herb.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Stairs",
+      "meaning": "Anak tangga naik lantai gedung",
+      "level": "Basic",
+      "phonetic": "/steəz/",
+      "definition": "A set of steps leading from one level or floor to another, typically inside a building.",
+      "example": "Taking the stairs instead of the elevator is an easy way to incorporate daily physical activity.",
+      "exampleTranslation": "Menaiki anak tangga daripada menggunakan lift adalah cara mudah untuk menyisipkan aktivitas fisik harian.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Health"
+      ],
+      "notes": "Plural noun. Staircase: tangga gedung lengkap.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Floor",
+      "meaning": "Lantai ruangan / tingkat lantai gedung",
+      "level": "Basic",
+      "phonetic": "/flɔːr/",
+      "definition": "The lower surface of a room, on which one may walk; or a storey of a building.",
+      "example": "The science reference collection is situated on the second floor of the campus library.",
+      "exampleTranslation": "Koleksi referensi sains terletak di lantai dua perpustakaan kampus.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Education"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Education"
+      ],
+      "notes": "British ground floor = US first floor. Crucial Listening Section 1 room finding detail!",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Roof",
+      "meaning": "Atap penutup pelindung bangunan",
+      "level": "Basic",
+      "phonetic": "/ruːf/",
+      "definition": "The structure forming the upper covering of a building or vehicle.",
+      "example": "Solar photovoltaic panels installed across the community hall roof supply green electricity.",
+      "exampleTranslation": "Panel fotovoltaik surya yang dipasang di seluruh atap balai warga memasok listrik ramah lingkungan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Technology"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Environment"
+      ],
+      "notes": "Plural: 'roofs' (not 'rooves').",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Window",
+      "meaning": "Jendela kaca sirkulasi udara dan cahaya",
+      "level": "Basic",
+      "phonetic": "/ˈwɪn.dəʊ/",
+      "definition": "An opening in the wall or roof of a building fitted with glass in a frame for admission of light or air.",
+      "example": "Double-glazed acoustic windows insulate city apartments from external traffic rumble.",
+      "exampleTranslation": "Jendela akustik berlapis ganda mengisolasi apartemen kota dari gemuruh kebisingan lalu lintas luar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Listening accommodation description: 'sea-facing window', 'double glazing'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Door",
+      "meaning": "Pintu masuk ruangan",
+      "level": "Basic",
+      "phonetic": "/dɔːr/",
+      "definition": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.",
+      "example": "Please ensure the fire exit door remains unobstructed by boxes at all times.",
+      "exampleTranslation": "Harap pastikan pintu keluar darurat kebakaran tetap tidak terhalang oleh kardus setiap saat.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Collocation: 'front door', 'revolving door', 'emergency door'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Plate",
+      "meaning": "Piring makan ceper",
+      "level": "Basic",
+      "phonetic": "/pleɪt/",
+      "definition": "A flat, usually round dish from which food is eaten or served.",
+      "example": "Hot dinner plates were carried out from the kitchen by the banquet waitstaff.",
+      "exampleTranslation": "Piring makan malam yang hangat dibawa keluar dari dapur oleh staf jamuan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Also geological term: 'tectonic plate' (lempeng tektonik).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Bowl",
+      "meaning": "Mangkuk cekung untuk sup / sereal",
+      "level": "Basic",
+      "phonetic": "/bəʊl/",
+      "definition": "A round, deep dish used for holding food or liquid, such as soup or cereal.",
+      "example": "She poured hot chicken broth into a ceramic soup bowl garnished with sliced scallions.",
+      "exampleTranslation": "Ia menuangkan kaldu ayam panas ke dalam mangkuk sup keramik yang ditaburi irisan daun bawang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "Food & Taste"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Cereal bowl, soup bowl, salad bowl.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Cup",
+      "meaning": "Cangkir minum bertangkai",
+      "level": "Basic",
+      "phonetic": "/kʌp/",
+      "definition": "A small bowl-shaped container for drinking from, typically having a handle.",
+      "example": "In Britain, offering a hot cup of black tea with milk is a classic gesture of welcome.",
+      "exampleTranslation": "Di Inggris, menawarkan secangkir teh hitam hangat dengan susu adalah sambutan kedatangan yang klasik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects",
+        "Food & Taste"
+      ],
+      "notes": "Idiom: 'not my cup of tea' (bukan selera/kegemaran saya).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
+    },
+    {
+      "word": "Glass",
+      "meaning": "Gelas kaca minum",
+      "level": "Basic",
+      "phonetic": "/ɡlɑːs/",
+      "definition": "A drinking container made from glass.",
+      "example": "Fill a tall glass with crushed ice and sparkling spring water with lemon.",
+      "exampleTranslation": "Isi gelas kaca tinggi dengan es serut dan air mata air berkarbonasi dengan lemon.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Listening",
+        "General"
+      ],
+      "topics": [
+        "Daily Objects"
+      ],
+      "notes": "Glass (wadah minum - countable) vs glass (kaca material - uncountable).",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T17:45:00.000Z",
+      "updated_at": "2026-11-15T17:45:00.000Z"
     }
   ]
 }

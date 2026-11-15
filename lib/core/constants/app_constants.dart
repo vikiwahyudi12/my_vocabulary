@@ -19,6 +19,7 @@ class AppConstants {
   static const List<String> defaultTopics = [
     'Daily Objects',
     'Animals & Wildlife',
+    'Fruits & Vegetables',
     'Food & Taste',
     'Nature & Forestry',
     'Weather & Climate',
@@ -26,6 +27,9 @@ class AppConstants {
     'Society',
     'Health',
     'Travel & Transport',
+    'Places & Town',
+    'Clothing & Accessories',
+    'Shapes & Measurement',
     'Work & Career',
     'Technology',
     'Economy',

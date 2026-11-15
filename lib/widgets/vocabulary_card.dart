@@ -165,15 +165,19 @@ class VocabularyCard extends ConsumerWidget {
                   const SizedBox(height: 3),
                   Row(
                     children: [
-                      Text(
-                        vocabulary.phonetic!,
-                        style: TextStyle(
-                          fontSize: 13,
-                          fontFamily: 'Courier',
-                          fontWeight: FontWeight.w600,
-                          color: isDark
-                              ? AppColors.darkTextMuted
-                              : AppColors.lushPhonetic,
+                      Flexible(
+                        child: Text(
+                          vocabulary.phonetic!,
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                          style: TextStyle(
+                            fontSize: 13,
+                            fontFamily: 'Courier',
+                            fontWeight: FontWeight.w600,
+                            color: isDark
+                                ? AppColors.darkTextMuted
+                                : AppColors.lushPhonetic,
+                          ),
                         ),
                       ),
                       if (!isHomeStyle) ...[

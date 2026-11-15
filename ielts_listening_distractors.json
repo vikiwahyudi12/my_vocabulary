@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question_text": "free admission",
+    "audio_transcript": "there is no charge for entry, although donations are welcomed",
+    "indonesian_meaning": "masuk gratis / tanpa biaya masuk",
+    "context_location": "Local Museum",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "question_text": "created by students",
+    "audio_transcript": "designed entirely by young people who attended the summer workshop",
+    "indonesian_meaning": "dibuat / dirancang oleh siswa",
+    "context_location": "Art Gallery",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "question_text": "closed on Mondays",
+    "audio_transcript": "open every day of the week except at the very start",
+    "indonesian_meaning": "tutup pada hari Senin",
+    "context_location": "City Library",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "question_text": "mandatory meeting",
+    "audio_transcript": "all new members are strictly required to attend",
+    "indonesian_meaning": "pertemuan wajib dihadiri",
+    "context_location": "Campus Facility",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "question_text": "recently renovated",
+    "audio_transcript": "the interior was fully refurbished and updated only last month",
+    "indonesian_meaning": "baru saja direnovasi / diperbarui",
+    "context_location": "Sports Centre",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "question_text": "limited parking space",
+    "audio_transcript": "there are only a handful of car spots available for visitors",
+    "indonesian_meaning": "tempat parkir terbatas",
+    "context_location": "Town Hall",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "question_text": "buy tickets in advance",
+    "audio_transcript": "you need to book your place online ahead of time",
+    "indonesian_meaning": "membeli tiket terlebih dahulu / di muka",
+    "context_location": "Theatre Box Office",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "question_text": "suitable for beginners",
+    "audio_transcript": "ideal if you have never tried this sport before",
+    "indonesian_meaning": "cocok untuk pemula",
+    "context_location": "Community Sports Club",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "question_text": "reduced price for groups",
+    "audio_transcript": "parties of ten or more will receive a special discount",
+    "indonesian_meaning": "harga diskon / potongan untuk rombongan",
+    "context_location": "Heritage Castle",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "question_text": "postponed until next month",
+    "audio_transcript": "we originally hoped to start this week, but it has been put off until December",
+    "indonesian_meaning": "ditunda hingga bulan depan",
+    "context_location": "University Lecture Hall",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "question_text": "eating is not permitted",
+    "audio_transcript": "visitors must refrain from consuming any snacks or drinks inside",
+    "indonesian_meaning": "dilarang makan dan minum",
+    "context_location": "Science Exhibition",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "question_text": "located next to reception",
+    "audio_transcript": "right beside the main welcome desk as you walk through the doors",
+    "indonesian_meaning": "terletak di sebelah resepsionis",
+    "context_location": "Campus Information Desk",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "question_text": "bring your own equipment",
+    "audio_transcript": "participants are expected to supply their own tennis rackets",
+    "indonesian_meaning": "membawa peralatan sendiri",
+    "context_location": "Recreation Centre",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "question_text": "change of topic",
+    "audio_transcript": "we initially chose solar power, but we decided to switch to plastic recycling",
+    "indonesian_meaning": "perubahan topik tugas / penelitian",
+    "context_location": "Tutor Consultation Room",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "question_text": "available on weekdays only",
+    "audio_transcript": "the shuttle bus operates Monday through Friday, not over the weekend",
+    "indonesian_meaning": "hanya tersedia pada hari kerja",
+    "context_location": "University Bus Terminal",
+    "level": "A1"
+  }
+]

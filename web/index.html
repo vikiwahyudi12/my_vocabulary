@@ -213,19 +213,58 @@
                   return caches.delete(name);
                 });
                 Promise.all(cachePromises).then(function() {
-                  window.location.reload(true);
+                  window.location.reload();
                 });
               });
             } else {
-              window.location.reload(true);
+              window.location.reload();
             }
           });
         });
       } else {
-        window.location.reload(true);
+        window.location.reload();
       }
     };
+
+    // Dynamically load flutter_bootstrap.js with cache-busting timestamp so updates apply immediately
+    (function() {
+      var script = document.createElement('script');
+      script.src = 'flutter_bootstrap.js?t=' + Date.now();
+      script.async = true;
+      document.body.appendChild(script);
+    })();
+
+    // Auto-check for new deployment when returning to a suspended tab (e.g. mobile Safari)
+    (function() {
+      var lastCheck = Date.now();
+      var isChecking = false;
+
+      function checkLatestBuild() {
+        var current = window.__MY_VOCAB_BUILD_VERSION;
+        if (!current || current.indexOf('{{') !== -1 || isChecking) return;
+        if (Date.now() - lastCheck < 30000) return; // Throttle to once every 30s
+        lastCheck = Date.now();
+        isChecking = true;
+
+        fetch('flutter_bootstrap.js?t=' + Date.now(), { cache: 'no-store' })
+          .then(function(res) { return res.ok ? res.text() : null; })
+          .then(function(text) {
+            if (!text) return;
+            var match = text.match(/window\.__MY_VOCAB_BUILD_VERSION\s*=\s*String\("([^"]+)"/);
+            if (match && match[1] && match[1].indexOf('{{') === -1 && match[1] !== current) {
+              window.forceAppUpdate();
+            }
+          })
+          .catch(function() {})
+          .finally(function() { isChecking = false; });
+      }
+
+      document.addEventListener('visibilitychange', function() {
+        if (document.visibilityState === 'visible') {
+          checkLatestBuild();
+        }
+      });
+    })();
   </script>
-  <script src="flutter_bootstrap.js?v=2026111101" async></script>
 </body>
 </html>

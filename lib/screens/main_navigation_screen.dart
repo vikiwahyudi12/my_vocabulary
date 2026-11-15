@@ -11,6 +11,7 @@ import '../widgets/app_logo.dart';
 import '../widgets/cloud_sync_modal.dart';
 import '../providers/cloud_sync_provider.dart';
 import 'home/home_screen.dart';
+import 'topic_explorer/topic_explorer_screen.dart';
 import 'vocabulary_form/vocabulary_form_screen.dart';
 import 'vocabulary_list/vocabulary_list_screen.dart';
 
@@ -34,7 +35,7 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
   void _selectFavoritesTab() {
     ref.read(vocabularyFilterProvider.notifier).setOnlyFavorites(true);
     setState(() {
-      _currentIndex = 1;
+      _currentIndex = 2;
     });
   }
 
@@ -53,7 +54,13 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
     final isWide = Responsive.isWide(context);
 
     final pages = [
-      HomeScreen(onViewAllTap: () => _onTabSelected(1)),
+      HomeScreen(onViewAllTap: () => _onTabSelected(2)),
+      TopicExplorerScreen(
+        onSelectTopic: (topic) {
+          ref.read(vocabularyFilterProvider.notifier).setTopic(topic);
+          _onTabSelected(2);
+        },
+      ),
       const VocabularyListScreen(),
     ];
 
@@ -127,103 +134,103 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
         color: isDark ? AppColors.darkSurface : Colors.white,
         elevation: 10,
         shadowColor: const Color(0x1A0E7A53),
-        padding: const EdgeInsets.symmetric(horizontal: 16),
+        padding: const EdgeInsets.symmetric(horizontal: 8),
         height: 68,
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            // Beranda Tab
+            // Beranda Tab (0)
             Expanded(
-              child: InkWell(
+              child: _buildMobileNavItem(
+                icon: _currentIndex == 0 ? Icons.home_rounded : Icons.home_outlined,
+                label: 'Beranda',
+                isSelected: _currentIndex == 0,
+                isDark: isDark,
                 onTap: () => _onTabSelected(0),
-                borderRadius: BorderRadius.circular(14),
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Icon(
-                      _currentIndex == 0
-                          ? Icons.home_rounded
-                          : Icons.home_outlined,
-                      color: _currentIndex == 0
-                          ? (isDark
-                              ? AppColors.darkPrimary
-                              : AppColors.lushPrimary)
-                          : (isDark
-                              ? AppColors.darkTextMuted
-                              : AppColors.lushTextMuted),
-                      size: 24,
-                    ),
-                    const SizedBox(height: 3),
-                    Text(
-                      'Beranda',
-                      style: TextStyle(
-                        fontSize: 11,
-                        fontWeight: _currentIndex == 0
-                            ? FontWeight.w800
-                            : FontWeight.w600,
-                        color: _currentIndex == 0
-                            ? (isDark
-                                ? AppColors.darkPrimary
-                                : AppColors.lushPrimary)
-                            : (isDark
-                                ? AppColors.darkTextMuted
-                                : AppColors.lushTextMuted),
-                      ),
-                    ),
-                  ],
-                ),
+              ),
+            ),
+
+            // Topik Tab (1)
+            Expanded(
+              child: _buildMobileNavItem(
+                icon: _currentIndex == 1 ? Icons.grid_view_rounded : Icons.grid_view_outlined,
+                label: 'Topik',
+                isSelected: _currentIndex == 1,
+                isDark: isDark,
+                onTap: () => _onTabSelected(1),
               ),
             ),
 
             // Gap for Centered Floating Action Button
-            const SizedBox(width: 52),
+            const SizedBox(width: 48),
 
-            // Kosakata Tab
+            // Kosakata Tab (2)
             Expanded(
-              child: InkWell(
-                onTap: () => _onTabSelected(1),
-                borderRadius: BorderRadius.circular(14),
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Icon(
-                      _currentIndex == 1
-                          ? Icons.menu_book_rounded
-                          : Icons.menu_book_outlined,
-                      color: _currentIndex == 1
-                          ? (isDark
-                              ? AppColors.darkPrimary
-                              : AppColors.lushPrimary)
-                          : (isDark
-                              ? AppColors.darkTextMuted
-                              : AppColors.lushTextMuted),
-                      size: 24,
-                    ),
-                    const SizedBox(height: 3),
-                    Text(
-                      'Kosakata',
-                      style: TextStyle(
-                        fontSize: 11,
-                        fontWeight: _currentIndex == 1
-                            ? FontWeight.w800
-                            : FontWeight.w600,
-                        color: _currentIndex == 1
-                            ? (isDark
-                                ? AppColors.darkPrimary
-                                : AppColors.lushPrimary)
-                            : (isDark
-                                ? AppColors.darkTextMuted
-                                : AppColors.lushTextMuted),
-                      ),
-                    ),
-                  ],
-                ),
+              child: _buildMobileNavItem(
+                icon: (_currentIndex == 2 && !ref.watch(vocabularyFilterProvider).onlyFavorites)
+                    ? Icons.menu_book_rounded
+                    : Icons.menu_book_outlined,
+                label: 'Kosakata',
+                isSelected: _currentIndex == 2 && !ref.watch(vocabularyFilterProvider).onlyFavorites,
+                isDark: isDark,
+                onTap: () {
+                  ref.read(vocabularyFilterProvider.notifier).setOnlyFavorites(false);
+                  _onTabSelected(2);
+                },
+              ),
+            ),
+
+            // Favorit Tab (Shortcut)
+            Expanded(
+              child: _buildMobileNavItem(
+                icon: (_currentIndex == 2 && ref.watch(vocabularyFilterProvider).onlyFavorites)
+                    ? Icons.bookmark_rounded
+                    : Icons.bookmark_outline_rounded,
+                label: 'Favorit',
+                isSelected: _currentIndex == 2 && ref.watch(vocabularyFilterProvider).onlyFavorites,
+                isDark: isDark,
+                onTap: _selectFavoritesTab,
               ),
             ),
           ],
         ),
+      ),
+    );
+  }
+
+  Widget _buildMobileNavItem({
+    required IconData icon,
+    required String label,
+    required bool isSelected,
+    required bool isDark,
+    required VoidCallback onTap,
+  }) {
+    return InkWell(
+      onTap: onTap,
+      borderRadius: BorderRadius.circular(14),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(
+            icon,
+            color: isSelected
+                ? (isDark ? AppColors.darkPrimary : AppColors.lushPrimary)
+                : (isDark ? AppColors.darkTextMuted : AppColors.lushTextMuted),
+            size: 23,
+          ),
+          const SizedBox(height: 3),
+          Text(
+            label,
+            style: TextStyle(
+              fontSize: 10.5,
+              fontWeight: isSelected ? FontWeight.w800 : FontWeight.w600,
+              color: isSelected
+                  ? (isDark ? AppColors.darkPrimary : AppColors.lushPrimary)
+                  : (isDark ? AppColors.darkTextMuted : AppColors.lushTextMuted),
+            ),
+          ),
+        ],
       ),
     );
   }
@@ -356,14 +363,29 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
 
                     const SizedBox(height: 4),
 
+                    // Menu: Kategori & Topik
+                    _buildSidebarNavItem(
+                      icon: Icons.grid_view_rounded,
+                      label: 'Kategori & Topik',
+                      badgeCount: null,
+                      isSelected: _currentIndex == 1,
+                      isDark: isDark,
+                      onTap: () => _onTabSelected(1),
+                    ),
+
+                    const SizedBox(height: 4),
+
                     // Menu: Daftar Kosakata
                     _buildSidebarNavItem(
                       icon: Icons.menu_book_rounded,
                       label: 'Daftar Kosakata',
                       badgeCount: stats.total > 0 ? stats.total : null,
-                      isSelected: _currentIndex == 1,
+                      isSelected: _currentIndex == 2 && !ref.watch(vocabularyFilterProvider).onlyFavorites,
                       isDark: isDark,
-                      onTap: () => _onTabSelected(1),
+                      onTap: () {
+                        ref.read(vocabularyFilterProvider.notifier).setOnlyFavorites(false);
+                        _onTabSelected(2);
+                      },
                     ),
 
                     const SizedBox(height: 4),
@@ -374,7 +396,7 @@ class _MainNavigationScreenState extends ConsumerState<MainNavigationScreen> {
                       label: 'Kosakata Favorit',
                       badgeCount:
                           stats.favorites > 0 ? stats.favorites : null,
-                      isSelected: false,
+                      isSelected: _currentIndex == 2 && ref.watch(vocabularyFilterProvider).onlyFavorites,
                       isDark: isDark,
                       onTap: _selectFavoritesTab,
                     ),

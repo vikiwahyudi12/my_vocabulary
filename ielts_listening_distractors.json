@@ -1,2514 +1,4018 @@
 [
   {
     "id": 1,
-    "question_text": "in a nutshell",
-    "audio_transcript": "In a few words; summarized concisely.",
+    "question_text": "In a nutshell",
+    "audio_transcript": "In a few words; summarized concisely into the main takeaway.",
     "indonesian_meaning": "Singkatnya / kesimpulannya",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 2,
-    "question_text": "mitigate",
-    "audio_transcript": "To make something less severe, serious, or painful.",
+    "question_text": "Mitigate",
+    "audio_transcript": "To make something bad or harmful less severe, serious, or painful.",
     "indonesian_meaning": "Mengurangi / meredakan dampak",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 3,
-    "question_text": "ubiquitous",
-    "audio_transcript": "Present, appearing, or found everywhere at the same time.",
+    "question_text": "Ubiquitous",
+    "audio_transcript": "Smartphones have become ubiquitous in modern daily life.",
     "indonesian_meaning": "Ada di mana-mana / merajalela",
     "context_location": "Technology",
     "level": "B2"
   },
   {
     "id": 4,
-    "question_text": "detrimental",
-    "audio_transcript": "Causing harm or damage; having a harmful effect.",
+    "question_text": "Detrimental",
+    "audio_transcript": "Excessive screen time can have a detrimental effect on children's eyesight.",
     "indonesian_meaning": "Merugikan / berdampak buruk",
     "context_location": "Health",
     "level": "B2"
   },
   {
     "id": 5,
-    "question_text": "harmful",
-    "audio_transcript": "Causing or likely to cause harm.",
+    "question_text": "Harmful",
+    "audio_transcript": "Pollution is harmful to the environment.",
     "indonesian_meaning": "Berbahaya / merusak",
     "context_location": "Environment",
     "level": "A1"
   },
   {
     "id": 6,
-    "question_text": "free admission",
-    "audio_transcript": "There is no charge for entry, although donations are welcomed.",
+    "question_text": "Free admission",
+    "audio_transcript": "There is free admission to the museum on weekdays.",
     "indonesian_meaning": "Masuk gratis / tanpa biaya masuk",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 7,
-    "question_text": "created by students",
-    "audio_transcript": "Designed entirely by young people who attended the summer workshop.",
+    "question_text": "Created by students",
+    "audio_transcript": "The artwork was created by students from the local college.",
     "indonesian_meaning": "Dibuat / dirancang oleh siswa",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 8,
-    "question_text": "closed on mondays",
-    "audio_transcript": "Open every day of the week except at the very start.",
+    "question_text": "Closed on Mondays",
+    "audio_transcript": "The city library is closed on Mondays for staff maintenance.",
     "indonesian_meaning": "Tutup pada hari Senin",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 9,
-    "question_text": "mandatory meeting",
-    "audio_transcript": "All new members are strictly required to attend.",
+    "question_text": "Mandatory meeting",
+    "audio_transcript": "Attendance at the orientation session is mandatory for all freshmen.",
     "indonesian_meaning": "Pertemuan wajib dihadiri",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 10,
-    "question_text": "recently renovated",
-    "audio_transcript": "The interior was fully refurbished and updated only last month.",
+    "question_text": "Recently renovated",
+    "audio_transcript": "The sports centre was recently renovated with modern gym equipment.",
     "indonesian_meaning": "Baru saja direnovasi / diperbarui",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 11,
-    "question_text": "limited parking space",
-    "audio_transcript": "There are only a handful of car spots available for visitors.",
+    "question_text": "Limited parking space",
+    "audio_transcript": "Visitors are advised to take public transit due to limited parking space.",
     "indonesian_meaning": "Tempat parkir terbatas",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 12,
-    "question_text": "buy tickets in advance",
-    "audio_transcript": "You need to book your place online ahead of time.",
+    "question_text": "Buy tickets in advance",
+    "audio_transcript": "You should buy tickets in advance to secure a seat for the concert.",
     "indonesian_meaning": "Membeli tiket terlebih dahulu / di muka",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 13,
-    "question_text": "suitable for beginners",
-    "audio_transcript": "Ideal if you have never tried this activity before.",
+    "question_text": "Suitable for beginners",
+    "audio_transcript": "This yoga class is suitable for beginners of all ages.",
     "indonesian_meaning": "Cocok untuk pemula",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 14,
-    "question_text": "reduced price for groups",
-    "audio_transcript": "Parties of ten or more will receive a special discount.",
+    "question_text": "Reduced price for groups",
+    "audio_transcript": "The museum offers a reduced price for school groups.",
     "indonesian_meaning": "Harga diskon / potongan untuk rombongan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 15,
-    "question_text": "postponed until next month",
-    "audio_transcript": "We initially planned to start this week, but it has been put off until December.",
+    "question_text": "Postponed until next month",
+    "audio_transcript": "The public lecture has been postponed until next month.",
     "indonesian_meaning": "Ditunda hingga bulan depan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 16,
-    "question_text": "eating is not permitted",
-    "audio_transcript": "Visitors must refrain from consuming snacks or drinks inside.",
+    "question_text": "Eating is not permitted",
+    "audio_transcript": "Eating is not permitted in the computer lab.",
     "indonesian_meaning": "Dilarang makan dan minum",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 17,
-    "question_text": "located next to reception",
-    "audio_transcript": "Right beside the main welcome desk as you walk through the doors.",
+    "question_text": "Located next to reception",
+    "audio_transcript": "The cloakroom is located next to the reception counter.",
     "indonesian_meaning": "Terletak di sebelah resepsionis",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 18,
-    "question_text": "bring your own equipment",
-    "audio_transcript": "Participants are expected to supply their own sports gear.",
+    "question_text": "Bring your own equipment",
+    "audio_transcript": "You are required to bring your own equipment to the tennis workshop.",
     "indonesian_meaning": "Membawa peralatan sendiri",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 19,
-    "question_text": "change of topic",
-    "audio_transcript": "We initially chose solar power, but we decided to switch to plastic recycling.",
+    "question_text": "Change of topic",
+    "audio_transcript": "The tutor approved our change of topic for the final presentation.",
     "indonesian_meaning": "Perubahan topik tugas / penelitian",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 20,
-    "question_text": "available on weekdays only",
-    "audio_transcript": "The campus shuttle operates Monday through Friday, not over the weekend.",
+    "question_text": "Available on weekdays only",
+    "audio_transcript": "The library reference room is available on weekdays only.",
     "indonesian_meaning": "Hanya tersedia pada hari kerja",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 21,
-    "question_text": "adjacent to the cafeteria",
-    "audio_transcript": "Situated directly adjoining the main dining hall on the ground floor.",
+    "question_text": "Adjacent to the cafeteria",
+    "audio_transcript": "The student lounge is located adjacent to the cafeteria.",
     "indonesian_meaning": "Bersebelahan dengan kafetaria",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 22,
-    "question_text": "fully booked",
-    "audio_transcript": "There are no vacancies remaining as every slot has been reserved.",
+    "question_text": "Fully booked",
+    "audio_transcript": "The evening seminar is fully booked, but morning sessions remain open.",
     "indonesian_meaning": "Penuh dipesan / tidak ada sisa tempat",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 23,
-    "question_text": "complimentary refreshment",
-    "audio_transcript": "Tea, coffee, and biscuits will be provided at no extra cost.",
+    "question_text": "Complimentary refreshment",
+    "audio_transcript": "Guests can enjoy complimentary refreshments in the lobby before the show.",
     "indonesian_meaning": "Makanan / minuman ringan gratis",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 24,
-    "question_text": "preliminary findings",
-    "audio_transcript": "The initial data gathered before comprehensive laboratory testing was completed.",
+    "question_text": "Preliminary findings",
+    "audio_transcript": "The preliminary findings indicate a positive response to the new therapy.",
     "indonesian_meaning": "Temuan awal penelitian",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 25,
-    "question_text": "unanimous decision",
-    "audio_transcript": "Every member of the committee was in total accord and voted in favor.",
+    "question_text": "Unanimous decision",
+    "audio_transcript": "The committee reached a unanimous decision to expand the scholarship fund.",
     "indonesian_meaning": "Keputusan bulat / disepakati semua pihak",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 26,
-    "question_text": "exacerbate",
-    "audio_transcript": "To make a problem, bad situation, or negative feeling worse.",
+    "question_text": "Exacerbate",
+    "audio_transcript": "Unplanned urbanization can exacerbate traffic congestion and air pollution.",
     "indonesian_meaning": "Memperburuk / memperparah situasi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 27,
-    "question_text": "proliferation",
-    "audio_transcript": "Rapid increase in the number or amount of something.",
+    "question_text": "Proliferation",
+    "audio_transcript": "The rapid proliferation of social media platforms has revolutionized communication.",
     "indonesian_meaning": "Perkembangan pesat / lonjakan jumlah cepat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 28,
-    "question_text": "disparity",
-    "audio_transcript": "A noticeable and usually unfair difference between people or things.",
+    "question_text": "Disparity",
+    "audio_transcript": "Growing economic disparity between rural and urban regions requires policy intervention.",
     "indonesian_meaning": "Kesenjangan / ketimpangan mencolok",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 29,
-    "question_text": "indispensable",
-    "audio_transcript": "Absolutely necessary; essential.",
+    "question_text": "Indispensable",
+    "audio_transcript": "Critical thinking skills are indispensable in the modern knowledge-based economy.",
     "indonesian_meaning": "Sangat penting / mutlak diperlukan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 30,
-    "question_text": "substantiate",
-    "audio_transcript": "To provide evidence to support or prove the truth of an assertion.",
+    "question_text": "Substantiate",
+    "audio_transcript": "Researchers must substantiate their hypotheses with rigorous empirical data.",
     "indonesian_meaning": "Membuktikan dengan fakta / bukti kuat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 31,
-    "question_text": "imperative",
-    "audio_transcript": "Of vital importance; crucial.",
+    "question_text": "Imperative",
+    "audio_transcript": "It is imperative that world leaders reach a binding agreement on carbon reduction.",
     "indonesian_meaning": "Sangat mendesak / wajib diprioritaskan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 32,
-    "question_text": "conceivable",
-    "audio_transcript": "Capable of being imagined or grasped mentally; credible and believable.",
+    "question_text": "Conceivable",
+    "audio_transcript": "Scientists have proposed several conceivable solutions to clean plastic debris from oceans.",
     "indonesian_meaning": "Masuk akal / dapat dibayangkan atau dipikirkan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 33,
-    "question_text": "comprehensive",
-    "audio_transcript": "Complete; including all or nearly all elements or aspects of something.",
+    "question_text": "Comprehensive",
+    "audio_transcript": "A comprehensive educational reform must address curriculum design and teacher training.",
     "indonesian_meaning": "Menyeluruh / lengkap mencakup semua aspek",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 34,
-    "question_text": "prevalent",
-    "audio_transcript": "Widespread in a particular area or at a particular time.",
+    "question_text": "Prevalent",
+    "audio_transcript": "Sedentary lifestyles are increasingly prevalent among office workers.",
     "indonesian_meaning": "Lazim / umum tersebar di masyarakat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 35,
-    "question_text": "discrepancy",
-    "audio_transcript": "A lack of compatibility or similarity between two or more facts.",
+    "question_text": "Discrepancy",
+    "audio_transcript": "There is a noticeable discrepancy between reported corporate profits and tax payments.",
     "indonesian_meaning": "Ketidaksesuaian / selisih perbedaan data",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 36,
-    "question_text": "commence",
-    "audio_transcript": "To begin or start something formal or official.",
+    "question_text": "Commence",
+    "audio_transcript": "Construction on the new public transit network is scheduled to commence next spring.",
     "indonesian_meaning": "Memulai / mengawali",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 37,
-    "question_text": "implement",
-    "audio_transcript": "Put a decision, plan, agreement, etc. into effect.",
+    "question_text": "Implement",
+    "audio_transcript": "Governments must implement stricter penalties for illegal logging.",
     "indonesian_meaning": "Menerapkan / melaksanakan kebijakan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 38,
-    "question_text": "adverse",
-    "audio_transcript": "Preventing success or development; harmful; unfavorable.",
+    "question_text": "Adverse",
+    "audio_transcript": "Severe droughts can have adverse effects on national agricultural yields.",
     "indonesian_meaning": "Merugikan / tidak menguntungkan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 39,
-    "question_text": "sustainable",
-    "audio_transcript": "Able to be maintained at a certain rate or level without exhausting natural resources.",
+    "question_text": "Sustainable",
+    "audio_transcript": "Investing in renewable energy is essential for sustainable economic growth.",
     "indonesian_meaning": "Berkelanjutan / ramah jangka panjang",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 40,
-    "question_text": "substantial",
-    "audio_transcript": "Of considerable importance, size, or worth.",
+    "question_text": "Substantial",
+    "audio_transcript": "There was a substantial rise in consumer spending following the tax reduction.",
     "indonesian_meaning": "Signifikan / dalam jumlah besar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 41,
-    "question_text": "controversy",
-    "audio_transcript": "Disagreement, typically when prolonged, public, and heated.",
+    "question_text": "Controversy",
+    "audio_transcript": "The introduction of artificial intelligence in grading has sparked considerable controversy.",
     "indonesian_meaning": "Perdebatan sengit / kontroversi publik",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 42,
-    "question_text": "divergent",
-    "audio_transcript": "Tending to be different or develop in different directions.",
+    "question_text": "Divergent",
+    "audio_transcript": "Economists hold divergent opinions on the long-term benefits of globalization.",
     "indonesian_meaning": "Berbeda haluan / bertentangan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 43,
-    "question_text": "crucial",
-    "audio_transcript": "Decisive or critical, especially in the success or failure of something.",
+    "question_text": "Crucial",
+    "audio_transcript": "Early childhood education plays a crucial role in cognitive development.",
     "indonesian_meaning": "Sangat penting dan menentukan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 44,
-    "question_text": "feasible",
-    "audio_transcript": "Possible to do easily or conveniently; practical.",
+    "question_text": "Feasible",
+    "audio_transcript": "Solar power is now a commercially feasible alternative to fossil fuels.",
     "indonesian_meaning": "Layak / memungkinkan untuk direalisasikan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 45,
-    "question_text": "pragmatic",
-    "audio_transcript": "Dealing with things sensibly and realistically based on practical considerations.",
+    "question_text": "Pragmatic",
+    "audio_transcript": "Policymakers need to take a pragmatic approach rather than relying solely on idealistic models.",
     "indonesian_meaning": "Praktis / berdasarkan kenyataan logis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 46,
-    "question_text": "unprecedented",
-    "audio_transcript": "Never done or known before.",
+    "question_text": "Unprecedented",
+    "audio_transcript": "The healthcare sector faced unprecedented pressure during the global pandemic.",
     "indonesian_meaning": "Belum pernah terjadi sebelumnya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 47,
-    "question_text": "catastrophic",
-    "audio_transcript": "Involving or causing sudden great damage or suffering.",
+    "question_text": "Catastrophic",
+    "audio_transcript": "Failure to address climate change could result in catastrophic sea-level rise.",
     "indonesian_meaning": "Sangat dahsyat / menghancurkan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 48,
-    "question_text": "deteriorate",
-    "audio_transcript": "Become progressively worse.",
+    "question_text": "Deteriorate",
+    "audio_transcript": "Air quality in major metropolitan areas continues to deteriorate year by year.",
     "indonesian_meaning": "Memburuk / mengalami penurunan mutu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 49,
-    "question_text": "foster",
-    "audio_transcript": "Encourage the development of something, especially something desirable.",
+    "question_text": "Foster",
+    "audio_transcript": "Schools should foster an environment that encourages independent inquiry and creativity.",
     "indonesian_meaning": "Mendorong / menumbuhkan hal positif",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 50,
-    "question_text": "predecessor",
-    "audio_transcript": "A person or thing that held a job or office before the current holder, or an earlier model.",
+    "question_text": "Predecessor",
+    "audio_transcript": "The latest electric vehicle model has double the driving range of its predecessor.",
     "indonesian_meaning": "Pendahulu / versi sebelumnya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 51,
-    "question_text": "a double-edged sword",
-    "audio_transcript": "Something that has both advantages and disadvantages.",
+    "question_text": "A double-edged sword",
+    "audio_transcript": "Social media is a double-edged sword; it connects people globally but also fuels anxiety.",
     "indonesian_meaning": "Pedang bermata dua / ada plus minusnya",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 52,
-    "question_text": "every cloud has a silver lining",
-    "audio_transcript": "Every difficult or sad situation has a positive aspect to it.",
+    "question_text": "Every cloud has a silver lining",
+    "audio_transcript": "Losing that job was stressful, but every cloud has a silver lining as it led to my own business.",
     "indonesian_meaning": "Selalu ada hikmah di balik setiap musibah",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 53,
-    "question_text": "once in a blue moon",
-    "audio_transcript": "Very rarely; almost never.",
+    "question_text": "Once in a blue moon",
+    "audio_transcript": "Because I live so far from my hometown, I only get to visit my relatives once in a blue moon.",
     "indonesian_meaning": "Sangat jarang sekali terjadi",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 54,
-    "question_text": "down in the dumps",
-    "audio_transcript": "Feeling unhappy, depressed, or gloomy.",
+    "question_text": "Down in the dumps",
+    "audio_transcript": "He was down in the dumps after failing his driving test on the first attempt.",
     "indonesian_meaning": "Merasa sedih / tertekan",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 55,
-    "question_text": "cost an arm and a leg",
-    "audio_transcript": "To be extremely expensive.",
+    "question_text": "Cost an arm and a leg",
+    "audio_transcript": "Renting a modern apartment in the city center costs an arm and a leg nowadays.",
     "indonesian_meaning": "Sangat mahal harganya",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 56,
-    "question_text": "hit the nail on the head",
-    "audio_transcript": "To state the exact truth; to describe precisely what is causing a situation.",
+    "question_text": "Hit the nail on the head",
+    "audio_transcript": "My professor hit the nail on the head when she analyzed the root cause of the market crash.",
     "indonesian_meaning": "Tepat sasaran / sangat akurat analisisnya",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 57,
-    "question_text": "burn the midnight oil",
-    "audio_transcript": "To work or study late into the night.",
+    "question_text": "Burn the midnight oil",
+    "audio_transcript": "I had to burn the midnight oil for several weeks before sitting for my IELTS examination.",
     "indonesian_meaning": "Belajar atau bekerja hingga larut malam",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 58,
-    "question_text": "over the moon",
-    "audio_transcript": "Extremely pleased, happy, and thrilled.",
+    "question_text": "Over the moon",
+    "audio_transcript": "She was over the moon when she discovered she had attained a Band 8.5 overall.",
     "indonesian_meaning": "Sangat gembira dan bahagia",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 59,
-    "question_text": "at the crossroads",
-    "audio_transcript": "At a point where an important decision must be made.",
+    "question_text": "At the crossroads",
+    "audio_transcript": "After graduation, I felt at the crossroads between pursuing a master's degree and starting a job.",
     "indonesian_meaning": "Berada di persimpangan keputusan penting",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 60,
-    "question_text": "take it with a grain of salt",
-    "audio_transcript": "To understand that something is likely to be untrue or exaggerated.",
+    "question_text": "Take it with a grain of salt",
+    "audio_transcript": "You should take consumer reviews on internet forums with a grain of salt.",
     "indonesian_meaning": "Tidak langsung percaya begitu saja / skeptis sehat",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 61,
-    "question_text": "see eye to eye",
-    "audio_transcript": "To agree fully with someone on an issue.",
+    "question_text": "See eye to eye",
+    "audio_transcript": "My business partner and I rarely saw eye to eye regarding marketing strategies.",
     "indonesian_meaning": "Sependapat / sevisi dengan orang lain",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 62,
-    "question_text": "broaden one's horizons",
-    "audio_transcript": "To expand ones knowledge, experience, or perspective.",
+    "question_text": "Broaden one's horizons",
+    "audio_transcript": "Studying abroad allows young adults to broaden their horizons and encounter diverse cultures.",
     "indonesian_meaning": "Memperluas wawasan dan sudut pandang",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 63,
-    "question_text": "step out of one's comfort zone",
-    "audio_transcript": "To do things that you do not feel comfortable doing or that are unfamiliar.",
+    "question_text": "Step out of one's comfort zone",
+    "audio_transcript": "Public speaking forced me to step out of my comfort zone and gain immense self-confidence.",
     "indonesian_meaning": "Keluar dari zona nyaman demi perkembangan diri",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 64,
-    "question_text": "out of the blue",
-    "audio_transcript": "Completely unexpectedly; without prior notice.",
+    "question_text": "Out of the blue",
+    "audio_transcript": "Out of the blue, my childhood friend called me to announce his wedding.",
     "indonesian_meaning": "Tiba-tiba tanpa aba-aba atau peringatan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 65,
-    "question_text": "a blessing in disguise",
-    "audio_transcript": "An apparent misfortune that eventually has good results.",
+    "question_text": "A blessing in disguise",
+    "audio_transcript": "Failing to secure the scholarship initially turned out to be a blessing in disguise.",
     "indonesian_meaning": "Berkah tersembunyi di balik musibah",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 66,
-    "question_text": "through thick and thin",
-    "audio_transcript": "Under all conditions, no matter how challenging or difficult.",
+    "question_text": "Through thick and thin",
+    "audio_transcript": "True friends will stand by you through thick and thin.",
     "indonesian_meaning": "Dalam suka maupun duka / setia selalu",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 67,
-    "question_text": "food for thought",
-    "audio_transcript": "Something that warrants serious consideration or reflection.",
+    "question_text": "Food for thought",
+    "audio_transcript": "The documentary on marine conservation provided plenty of food for thought.",
     "indonesian_meaning": "Bahan perenungan mendalam",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 68,
-    "question_text": "bite the bullet",
-    "audio_transcript": "To force yourself to do something unpleasant or difficult that you have been hesitating to do.",
+    "question_text": "Bite the bullet",
+    "audio_transcript": "I decided to bite the bullet and invest my savings into learning web development.",
     "indonesian_meaning": "Mengambil keputusan sulit dengan berani",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 69,
-    "question_text": "keep fingers crossed",
-    "audio_transcript": "To hope that someone will be successful or that something good will happen.",
+    "question_text": "Keep fingers crossed",
+    "audio_transcript": "We submitted our university applications and are keeping our fingers crossed.",
     "indonesian_meaning": "Berharap yang terbaik / semoga beruntung",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 70,
-    "question_text": "up in the air",
-    "audio_transcript": "Uncertain or unresolved; not yet decided.",
+    "question_text": "Up in the air",
+    "audio_transcript": "My vacation plans are still up in the air until my flight booking is confirmed.",
     "indonesian_meaning": "Belum ada kepastian / masih mengambang",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 71,
-    "question_text": "break the ice",
-    "audio_transcript": "To do or say something that makes people feel more relaxed and comfortable in a social setting.",
+    "question_text": "Break the ice",
+    "audio_transcript": "Sharing a light joke is an effective way to break the ice with new colleagues.",
     "indonesian_meaning": "Mencairkan suasana yang kaku",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 72,
-    "question_text": "surge dramatically",
-    "audio_transcript": "To experience a sudden, very steep and large increase.",
+    "question_text": "Surge dramatically",
+    "audio_transcript": "Online retail sales surged dramatically over the holiday quarter.",
     "indonesian_meaning": "Melonjak tajam dalam waktu singkat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 73,
-    "question_text": "plummet sharply",
-    "audio_transcript": "To fall or drop very rapidly from a high level.",
+    "question_text": "Plummet sharply",
+    "audio_transcript": "International tourist arrivals plummeted sharply during the pandemic lockdowns.",
     "indonesian_meaning": "Anjlok secara drastis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 74,
-    "question_text": "fluctuate wildly",
-    "audio_transcript": "To change continually and irregularly with wide oscillations.",
+    "question_text": "Fluctuate wildly",
+    "audio_transcript": "Crude oil prices fluctuated wildly between January and August.",
     "indonesian_meaning": "Berfluktuasi tidak menentu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 75,
-    "question_text": "plateau at",
-    "audio_transcript": "To reach a state or level where there is little or no further change.",
+    "question_text": "Plateau at",
+    "audio_transcript": "Renewable energy production is projected to plateau at 45% by 2035.",
     "indonesian_meaning": "Mencapai titik stabil / mendatar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 76,
-    "question_text": "in stark contrast to",
-    "audio_transcript": "Used to emphasize how completely different one thing is from another.",
+    "question_text": "In stark contrast to",
+    "audio_transcript": "In stark contrast to male counterparts, female participation in engineering remained below 15%.",
     "indonesian_meaning": "Sangat berbanding terbalik dengan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 77,
-    "question_text": "the vast majority",
-    "audio_transcript": "An overwhelming proportion (usually greater than 75-80%).",
+    "question_text": "The vast majority",
+    "audio_transcript": "The vast majority of survey respondents favored flexible remote work arrangements.",
     "indonesian_meaning": "Mayoritas mutlak / sebagian besar",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 78,
-    "question_text": "a negligible fraction",
-    "audio_transcript": "A very tiny proportion that is unimportant and can be disregarded.",
+    "question_text": "A negligible fraction",
+    "audio_transcript": "Public expenditure on artistic cultural heritage accounts for a negligible fraction of the budget.",
     "indonesian_meaning": "Sebagian kecil yang sangat tidak signifikan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 79,
-    "question_text": "conversely",
-    "audio_transcript": "Introducing a statement or idea that reverses or contrasts with one that has just been made.",
+    "question_text": "Conversely",
+    "audio_transcript": "High levels of physical activity improve cardiovascular health; conversely, prolonged inactivity degrades it.",
     "indonesian_meaning": "Sebaliknya / berbanding terbalik",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 80,
-    "question_text": "notwithstanding",
-    "audio_transcript": "In spite of; despite.",
+    "question_text": "Notwithstanding",
+    "audio_transcript": "Notwithstanding the economic slowdown, consumer confidence stayed resilient.",
     "indonesian_meaning": "Meskipun demikian / terlepas dari",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 81,
-    "question_text": "profound implication",
-    "audio_transcript": "Deep, far-reaching effects or consequences.",
+    "question_text": "Profound implication",
+    "audio_transcript": "The widespread automation of factory work carries profound implications for the labor market.",
     "indonesian_meaning": "Konsekuensi / dampak yang sangat mendalam",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 82,
-    "question_text": "viable alternative",
-    "audio_transcript": "A practical and capable option that can succeed.",
+    "question_text": "Viable alternative",
+    "audio_transcript": "High-speed rail is considered the most viable alternative to short-haul domestic flights.",
     "indonesian_meaning": "Alternatif pilihan yang realistis dan efektif",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 83,
-    "question_text": "mounting pressure",
-    "audio_transcript": "Increasing force or burden that builds up steadily.",
+    "question_text": "Mounting pressure",
+    "audio_transcript": "Hospitals are under mounting pressure due to an aging population and staff shortages.",
     "indonesian_meaning": "Tekanan yang semakin meningkat tajam",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 84,
-    "question_text": "pivotal turning point",
-    "audio_transcript": "A critical moment of decision or change with lasting historical effects.",
+    "question_text": "Pivotal turning point",
+    "audio_transcript": "The invention of the internet marked a pivotal turning point in human civilization.",
     "indonesian_meaning": "Titik balik yang sangat krusial",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 85,
-    "question_text": "holistic perspective",
-    "audio_transcript": "Viewing something by considering whole systems rather than just individual parts.",
+    "question_text": "Holistic perspective",
+    "audio_transcript": "Urban planners must adopt a holistic perspective that integrates transport, green spaces, and affordable housing.",
     "indonesian_meaning": "Sudut pandang menyeluruh dari semua sisi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 86,
-    "question_text": "paradigm shift",
-    "audio_transcript": "A fundamental change in approach or underlying assumptions.",
+    "question_text": "Paradigm shift",
+    "audio_transcript": "The transition to electric mobility represents a profound paradigm shift in the automotive industry.",
     "indonesian_meaning": "Pergeseran paradigma / perubahan pola pikir mendasar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 87,
-    "question_text": "cognitive ability",
-    "audio_transcript": "Mental capabilities including reasoning, memory, problem-solving, and attention.",
+    "question_text": "Cognitive ability",
+    "audio_transcript": "Bilingualism has been shown to enhance cognitive ability throughout a person's lifespan.",
     "indonesian_meaning": "Kemampuan kognitif / daya pikir dan nalar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 88,
-    "question_text": "intrinsic motivation",
-    "audio_transcript": "Behavior driven by internal rewards rather than external incentives.",
+    "question_text": "Intrinsic motivation",
+    "audio_transcript": "Students who cultivate intrinsic motivation tend to achieve greater academic longevity.",
     "indonesian_meaning": "Motivasi dari dalam diri / minat murni",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 89,
-    "question_text": "biodiversity conservation",
-    "audio_transcript": "The protection and management of species and biological ecosystems.",
+    "question_text": "Biodiversity conservation",
+    "audio_transcript": "Biodiversity conservation is critical to maintaining global ecological equilibrium.",
     "indonesian_meaning": "Pelestarian keanekaragaman hayati",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 90,
-    "question_text": "carbon footprint",
-    "audio_transcript": "The total amount of greenhouse gases generated by human actions and lifestyle.",
+    "question_text": "Carbon footprint",
+    "audio_transcript": "Individuals can shrink their carbon footprint by adopting plant-based diets and carpooling.",
     "indonesian_meaning": "Jejak karbon / jumlah emisi gas rumah kaca",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 91,
-    "question_text": "social cohesion",
-    "audio_transcript": "The strength of relationships and the sense of solidarity among members of a community.",
+    "question_text": "Social cohesion",
+    "audio_transcript": "Community centers play a vital role in strengthening social cohesion in diverse neighborhoods.",
     "indonesian_meaning": "Kerekatan sosial / keharmonisan masyarakat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 92,
-    "question_text": "cultural heritage",
-    "audio_transcript": "The traditions, monuments, objects, and culture inherited from past generations.",
+    "question_text": "Cultural heritage",
+    "audio_transcript": "Governments have a moral duty to preserve ancient architectural monuments as cultural heritage.",
     "indonesian_meaning": "Warisan budaya leluhur",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 93,
-    "question_text": "exponential growth",
-    "audio_transcript": "Extremely rapid increase in size or extent.",
+    "question_text": "Exponential growth",
+    "audio_transcript": "The artificial intelligence sector has experienced exponential growth over the past decade.",
     "indonesian_meaning": "Pertumbuhan berlipat ganda / luar biasa pesat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 94,
-    "question_text": "socioeconomic status",
-    "audio_transcript": "An economic and sociological combined total measure of a persons work experience and economic position.",
+    "question_text": "Socioeconomic status",
+    "audio_transcript": "Children from lower socioeconomic status backgrounds often face systemic educational hurdles.",
     "indonesian_meaning": "Status sosial dan ekonomi seseorang",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 95,
-    "question_text": "incentivize",
-    "audio_transcript": "To motivate or encourage someone to do something, typically with financial or tangible rewards.",
+    "question_text": "Incentivize",
+    "audio_transcript": "Tax rebates can effectively incentivize companies to invest in clean energy technology.",
     "indonesian_meaning": "Memberikan insentif / dorongan nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 96,
-    "question_text": "empirical research",
-    "audio_transcript": "Research based on observed and measured phenomena and derives knowledge from actual experience rather than theory.",
+    "question_text": "Empirical research",
+    "audio_transcript": "Policy recommendations must be anchored in empirical research rather than political ideology.",
     "indonesian_meaning": "Penelitian berbasis fakta dan bukti nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 97,
-    "question_text": "subsidize",
-    "audio_transcript": "Support financially, typically by paying part of the cost from public funds.",
+    "question_text": "Subsidize",
+    "audio_transcript": "Many experts argue that the state should heavily subsidize public transport to curb urban traffic.",
     "indonesian_meaning": "Memberikan subsidi / bantuan dana",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 98,
-    "question_text": "pervasive",
-    "audio_transcript": "Spreading widely throughout an area or a group of people, especially of an unwelcome influence.",
+    "question_text": "Pervasive",
+    "audio_transcript": "The pervasive influence of consumer advertising shapes dietary habits from an early age.",
     "indonesian_meaning": "Meresap luas / merambah ke segala lini",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 99,
-    "question_text": "mitigating circumstances",
-    "audio_transcript": "Conditions or happenings which do not excuse an offense, but which may be considered as reasons for reducing punishment.",
+    "question_text": "Mitigating circumstances",
+    "audio_transcript": "The judge took into account several mitigating circumstances before determining the final verdict.",
     "indonesian_meaning": "Keadaan yang meringankan kesalahan atau sanksi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 100,
-    "question_text": "compulsory education",
-    "audio_transcript": "A period of education that is required of all people and is imposed by government law.",
+    "question_text": "Compulsory education",
+    "audio_transcript": "Extending compulsory education to the age of eighteen has contributed to lower juvenile crime rates.",
     "indonesian_meaning": "Pendidikan wajib belajar bagi anak-anak",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 101,
-    "question_text": "deposit required",
-    "audio_transcript": "A sum of money placed or kept in a bank account, or given as a pledge for property.",
+    "question_text": "Deposit required",
+    "audio_transcript": "A one-month deposit is required before the tenancy agreement can be finalized.",
     "indonesian_meaning": "Uang jaminan / deposit wajib dibayarkan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 102,
-    "question_text": "fully furnished",
-    "audio_transcript": "An apartment or house that includes all essential furniture and appliances.",
+    "question_text": "Fully furnished",
+    "audio_transcript": "The studio flat is fully furnished with a bed, desk, and kitchen utilities.",
     "indonesian_meaning": "Sudah lengkap berperabot siap huni",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 103,
-    "question_text": "utility bills included",
-    "audio_transcript": "The rent payment covers electricity, water, heating, and internet services.",
+    "question_text": "Utility bills included",
+    "audio_transcript": "The weekly rate of £150 has all utility bills included.",
     "indonesian_meaning": "Tagihan listrik, air, dan gas sudah termasuk",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 104,
-    "question_text": "walking distance",
-    "audio_transcript": "Close enough to reach comfortably by walking on foot.",
+    "question_text": "Walking distance",
+    "audio_transcript": "The campus library is within walking distance of the residential halls.",
     "indonesian_meaning": "Jarak tempuh dekat yang bisa dijangkau jalan kaki",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 105,
-    "question_text": "off-peak hours",
-    "audio_transcript": "Times of day when travel or usage is less busy, usually offering reduced fares.",
+    "question_text": "Off-peak hours",
+    "audio_transcript": "Rail tickets are significantly cheaper if you travel during off-peak hours.",
     "indonesian_meaning": "Jam di luar waktu sibuk / jam sepi",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 106,
-    "question_text": "annual membership",
-    "audio_transcript": "A subscription to a club or organization that is valid for twelve months.",
+    "question_text": "Annual membership",
+    "audio_transcript": "The sports complex provides a 20% discount on annual membership for students.",
     "indonesian_meaning": "Keanggotaan berlangganan satu tahun penuh",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 107,
-    "question_text": "proof of address",
-    "audio_transcript": "An official document such as a utility bill or tenancy contract verifying where you live.",
+    "question_text": "Proof of address",
+    "audio_transcript": "To open a local bank account, applicants must produce valid ID and proof of address.",
     "indonesian_meaning": "Dokumen bukti domisili tempat tinggal",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 108,
-    "question_text": "guided tour",
-    "audio_transcript": "A short journey through a historic building or site led by an expert guide.",
+    "question_text": "Guided tour",
+    "audio_transcript": "A complimentary guided tour departs from the main courtyard every hour.",
     "indonesian_meaning": "Tur wisata resmi didampingi pemandu",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 109,
-    "question_text": "audio guide available",
-    "audio_transcript": "A recorded spoken commentary provided to visitors of an exhibition or gallery.",
+    "question_text": "Audio guide available",
+    "audio_transcript": "An audio guide available in eight foreign languages can be collected at reception.",
     "indonesian_meaning": "Panduan rekaman audio tersedia untuk pengunjung",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 110,
-    "question_text": "wheelchair accessible",
-    "audio_transcript": "A venue designed so that a person in a wheelchair can enter and move around easily.",
+    "question_text": "Wheelchair accessible",
+    "audio_transcript": "All exhibition halls and lecture theatres are fully wheelchair accessible via ramps and elevators.",
     "indonesian_meaning": "Memiliki fasilitas ramah kursi roda bagi disabilitas",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 111,
-    "question_text": "lost property office",
-    "audio_transcript": "A public place where items found misplaced or lost by people are kept until claimed.",
+    "question_text": "Lost property office",
+    "audio_transcript": "If you leave personal belongings on the train, report to the lost property office on platform 1.",
     "indonesian_meaning": "Kantor penitipan barang hilang dan ditemukan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 112,
-    "question_text": "pedestrian precinct",
-    "audio_transcript": "A street or shopping area where motor vehicles are prohibited so people can walk safely.",
+    "question_text": "Pedestrian precinct",
+    "audio_transcript": "The historic shopping center has been converted into a bustling pedestrian precinct.",
     "indonesian_meaning": "Kawasan khusus pejalan kaki bebas kendaraan",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 113,
-    "question_text": "roundabout",
-    "audio_transcript": "A road junction at which traffic moves in one direction around a central circular island.",
+    "question_text": "Roundabout",
+    "audio_transcript": "Take the second exit at the roundabout to reach the community hospital.",
     "indonesian_meaning": "Bundaran persimpangan lalu lintas melingkar",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 114,
-    "question_text": "cul-de-sac",
-    "audio_transcript": "A street or passage closed at one end; a dead end.",
+    "question_text": "Cul-de-sac",
+    "audio_transcript": "The nursery school is located quietly at the far end of the cul-de-sac.",
     "indonesian_meaning": "Jalan buntu / jalan tanpa terusan",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 115,
-    "question_text": "intersection",
-    "audio_transcript": "A point at which two or more roads intersect or cross each other.",
+    "question_text": "Intersection",
+    "audio_transcript": "Turn right at the traffic lights at the major road intersection.",
     "indonesian_meaning": "Persimpangan jalan perempatan atau pertigaan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 116,
-    "question_text": "subject to change",
-    "audio_transcript": "Liable to be modified or altered depending on unpredictable factors.",
+    "question_text": "Subject to change",
+    "audio_transcript": "The ferry timetable is subject to change in adverse weather conditions.",
     "indonesian_meaning": "Dapat berubah sewaktu-waktu tergantung keadaan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 117,
-    "question_text": "literature review",
-    "audio_transcript": "A comprehensive summary of previous academic research on a specific topic.",
+    "question_text": "Literature review",
+    "audio_transcript": "The tutor advised the students to expand their literature review with recent peer-reviewed journals.",
     "indonesian_meaning": "Tinjauan pustaka / kajian teori penelitian",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 118,
-    "question_text": "methodology section",
-    "audio_transcript": "The chapter of a research dissertation detailing how data was gathered and analyzed.",
+    "question_text": "Methodology section",
+    "audio_transcript": "We need to clearly justify our sampling methods in the methodology section.",
     "indonesian_meaning": "Bab metodologi cara pengumpulan data penelitian",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 119,
-    "question_text": "fieldwork observations",
-    "audio_transcript": "Practical work conducted by a researcher in the natural environment rather than in a laboratory.",
+    "question_text": "Fieldwork observations",
+    "audio_transcript": "The environmental biology students spent three weeks compiling fieldwork observations.",
     "indonesian_meaning": "Pengamatan pengumpulan data langsung di lapangan",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 120,
-    "question_text": "questionnaire survey",
-    "audio_transcript": "A research instrument consisting of a series of questions to gather information from respondents.",
+    "question_text": "Questionnaire survey",
+    "audio_transcript": "We circulated a questionnaire survey to 200 undergraduate volunteers.",
     "indonesian_meaning": "Survei pengumpulan data menggunakan kuesioner",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 121,
-    "question_text": "sample size",
-    "audio_transcript": "The number of participants or observations included in a scientific study.",
+    "question_text": "Sample size",
+    "audio_transcript": "The tutor pointed out that a sample size of thirty was too small to draw generalizable conclusions.",
     "indonesian_meaning": "Besaran jumlah sampel responden penelitian",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 122,
-    "question_text": "peer review",
-    "audio_transcript": "Evaluation of scientific or academic work by other experts in the same discipline.",
+    "question_text": "Peer review",
+    "audio_transcript": "Before paper publication, manuscripts must undergo rigorous peer review.",
     "indonesian_meaning": "Proses telaah kritis oleh sesama pakar sejawat",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 123,
-    "question_text": "ecosystem degradation",
-    "audio_transcript": "The deterioration of the environment through depletion of resources such as air, water, and soil.",
+    "question_text": "Ecosystem degradation",
+    "audio_transcript": "Industrial runoff has contributed significantly to coastal ecosystem degradation.",
     "indonesian_meaning": "Kerusakan dan penurunan mutu ekosistem alam",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 124,
-    "question_text": "marine biodiversity",
-    "audio_transcript": "The variety of living organisms inhabiting ocean and salt-water environments.",
+    "question_text": "Marine biodiversity",
+    "audio_transcript": "Coral reefs support more than 25% of all known marine biodiversity.",
     "indonesian_meaning": "Keanekaragaman hayati ekosistem laut",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 125,
-    "question_text": "archaeological excavation",
-    "audio_transcript": "The careful digging and exposure of historical human remains or artifacts from underground.",
+    "question_text": "Archaeological excavation",
+    "audio_transcript": "Recent archaeological excavations uncovered a Bronze Age settlement.",
     "indonesian_meaning": "Penggalian benda bersejarah arkeologi",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 126,
-    "question_text": "strict adherence",
-    "audio_transcript": "Exact obedience or compliance with rules, standards, or guidelines.",
+    "question_text": "Strict adherence",
+    "audio_transcript": "Strict adherence to laboratory safety protocols is required at all times.",
     "indonesian_meaning": "Kepatuhan yang sangat ketat terhadap aturan",
     "context_location": "IELTS Listening",
     "level": "B2"
   },
   {
     "id": 127,
-    "question_text": "audio transcript",
-    "audio_transcript": "A written version of spoken audio material.",
+    "question_text": "Audio transcript",
+    "audio_transcript": "Students can review the audio transcript after completing the listening drill.",
     "indonesian_meaning": "Transkrip teks tertulis dari rekaman audio",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 128,
-    "question_text": "emergency exit",
-    "audio_transcript": "A clear, unobstructed door allowing swift evacuation during a crisis.",
+    "question_text": "Emergency exit",
+    "audio_transcript": "Keep corridors clear to guarantee access to the nearest emergency exit.",
     "indonesian_meaning": "Pintu keluar keselamatan dalam keadaan darurat",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 129,
-    "question_text": "first aid station",
-    "audio_transcript": "A designated room equipped with emergency medical supplies.",
+    "question_text": "First aid station",
+    "audio_transcript": "The festival ground has a dedicated first aid station beside the security booth.",
     "indonesian_meaning": "Pos pertolongan pertama kesehatan",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 130,
-    "question_text": "overpass",
-    "audio_transcript": "A bridge or road that carries one road or path over another.",
+    "question_text": "Overpass",
+    "audio_transcript": "Walk across the pedestrian overpass to cross the multi-lane highway safely.",
     "indonesian_meaning": "Jembatan penyeberangan layang",
     "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 131,
-    "question_text": "juxtapose",
-    "audio_transcript": "Place or deal with close together for contrasting effect.",
+    "question_text": "Juxtapose",
+    "audio_transcript": "The documentary juxtaposes traditional agrarian lifestyles with modern industrial cities.",
     "indonesian_meaning": "Menjajarkan dua hal untuk membandingkan perbedaan kontras",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 132,
-    "question_text": "paucity",
-    "audio_transcript": "The presence of something only in small or insufficient quantities or amounts; scarcity.",
+    "question_text": "Paucity",
+    "audio_transcript": "A paucity of empirical evidence weakens the argument against childhood vaccination.",
     "indonesian_meaning": "Kelangkaan / jumlah keberadaan yang sangat sedikit",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 133,
-    "question_text": "anomaly",
-    "audio_transcript": "Something that deviates from what is standard, normal, or expected.",
+    "question_text": "Anomaly",
+    "audio_transcript": "Statistical anomalies in the experimental group prompted a repeat of the trial.",
     "indonesian_meaning": "Penyimpangan dari apa yang standar, normal, atau diharapkan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 134,
-    "question_text": "exemplify",
-    "audio_transcript": "Be a typical example of.",
+    "question_text": "Exemplify",
+    "audio_transcript": "Renewable transit systems exemplify sustainable urban planning.",
     "indonesian_meaning": "Memberikan ilustrasi contoh nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 135,
-    "question_text": "equitable",
-    "audio_transcript": "Fair and impartial, dealing fairly with all concerned.",
+    "question_text": "Equitable",
+    "audio_transcript": "Governments must guarantee equitable access to quality healthcare for all citizens.",
     "indonesian_meaning": "Adil dan merata bagi semua lapisan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 136,
-    "question_text": "ubiquity",
-    "audio_transcript": "The fact of appearing everywhere or of being very common.",
+    "question_text": "Ubiquity",
+    "audio_transcript": "The ubiquity of mobile connectivity has transformed how businesses interact with clients.",
     "indonesian_meaning": "Keberadaan di mana-mana pada saat yang sama",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 137,
-    "question_text": "dichotomy",
-    "audio_transcript": "A division or contrast between two things that are represented as being opposed or entirely different.",
+    "question_text": "Dichotomy",
+    "audio_transcript": "The supposed dichotomy between economic growth and environmental protection is a false one.",
     "indonesian_meaning": "Pemisahan menjadi dua hal yang saling bertolak belakang",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 138,
-    "question_text": "paradoxical",
-    "audio_transcript": "Seemingly absurd or self-contradictory, but expressing a possible truth.",
+    "question_text": "Paradoxical",
+    "audio_transcript": "It is paradoxical that despite instant digital connection, many individuals feel socially isolated.",
     "indonesian_meaning": "Bersifat kontradiktif namun mengandung kebenaran nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 139,
-    "question_text": "ramification",
-    "audio_transcript": "A consequence of an action or event, especially when complex or unwelcome.",
+    "question_text": "Ramification",
+    "audio_transcript": "Artificial intelligence will have far-reaching ramifications for corporate recruitment.",
     "indonesian_meaning": "Dampak atau konsekuensi rumit yang bercabang",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 140,
-    "question_text": "ameliorate",
-    "audio_transcript": "Make (something bad or unsatisfactory) better.",
+    "question_text": "Ameliorate",
+    "audio_transcript": "Investing in green public transport can ameliorate living conditions in polluted cities.",
     "indonesian_meaning": "Memperbaiki kondisi yang buruk menjadi lebih baik",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 141,
-    "question_text": "autonomy",
-    "audio_transcript": "The right or condition of self-government; freedom from external control or influence.",
+    "question_text": "Autonomy",
+    "audio_transcript": "Granting employees greater autonomy in setting work hours boosts workplace satisfaction.",
     "indonesian_meaning": "Kemandirian dan kebebasan menentukan arah sendiri",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 142,
-    "question_text": "remuneration",
-    "audio_transcript": "Money paid for work or a service; salary and financial compensation.",
+    "question_text": "Remuneration",
+    "audio_transcript": "Nurses and teachers deserve fair remuneration commensurate with their vital social contributions.",
     "indonesian_meaning": "Gaji imbalan finansial atas jasa atau pekerjaan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 143,
-    "question_text": "disillusionment",
-    "audio_transcript": "A feeling of disappointment resulting from the discovery that something is not as good as believed.",
+    "question_text": "Disillusionment",
+    "audio_transcript": "Unfulfilled promises led to growing public disillusionment with traditional political parties.",
     "indonesian_meaning": "Kekecewaan mendalam setelah menyadari kenyataan pahit",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 144,
-    "question_text": "pluralistic",
-    "audio_transcript": "Relating to or advocating a system in which two or more states, groups, or principles coexist.",
+    "question_text": "Pluralistic",
+    "audio_transcript": "A healthy democracy relies on a pluralistic society where differing voices are tolerated.",
     "indonesian_meaning": "Bersifat majemuk dan menghargai keberagaman",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 145,
-    "question_text": "assimilation",
-    "audio_transcript": "The process of taking in and fully understanding information, or integrating culturally into a society.",
+    "question_text": "Assimilation",
+    "audio_transcript": "Language proficiency facilitates the smooth cultural assimilation of recent immigrants.",
     "indonesian_meaning": "Pembauran budaya ke dalam kelompok masyarakat mayoritas",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 146,
-    "question_text": "homogeneous",
-    "audio_transcript": "Of the same kind; alike; consisting of parts all of the same kind.",
+    "question_text": "Homogeneous",
+    "audio_transcript": "Globalization has made consumer cultures increasingly homogeneous worldwide.",
     "indonesian_meaning": "Seragam / tersusun dari unsur yang sejenis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 147,
-    "question_text": "heterogeneous",
-    "audio_transcript": "Diverse in character or content.",
+    "question_text": "Heterogeneous",
+    "audio_transcript": "Metropolitan cities boast a highly heterogeneous population with varied cultural customs.",
     "indonesian_meaning": "Beraneka ragam / terdiri dari berbagai unsur berbeda",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 148,
-    "question_text": "affluence",
-    "audio_transcript": "The state of having a great deal of money; wealth.",
+    "question_text": "Affluence",
+    "audio_transcript": "Greater affluence has led to unsustainable levels of household consumer waste.",
     "indonesian_meaning": "Kemakmuran finansial / kekayaan berlimpah",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 149,
-    "question_text": "impoverished",
-    "audio_transcript": "Made poor; reduced to poverty.",
+    "question_text": "Impoverished",
+    "audio_transcript": "Microfinance initiatives provide loans to impoverished communities without collateral.",
     "indonesian_meaning": "Sangat miskin / hidup dalam kemelaratan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 150,
-    "question_text": "deprivation",
-    "audio_transcript": "The damaging lack of material and cultural benefits considered to be basic necessities in a society.",
+    "question_text": "Deprivation",
+    "audio_transcript": "Severe material deprivation during early childhood can impede psychological development.",
     "indonesian_meaning": "Ketiadaan pemenuhan kebutuhan dasar hidup",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 151,
-    "question_text": "fiscal policy",
-    "audio_transcript": "The use of government spending and revenue collection to influence the economy.",
+    "question_text": "Fiscal policy",
+    "audio_transcript": "Expansionary fiscal policy was enacted to stimulate economic recovery following the downturn.",
     "indonesian_meaning": "Kebijakan fiskal pengelolaan pajak dan anggaran negara",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 152,
-    "question_text": "monetary policy",
-    "audio_transcript": "Policy adopted by the central bank of a country to control either the interest rate or money supply.",
+    "question_text": "Monetary policy",
+    "audio_transcript": "Central banks raised interest rates as part of a tightening monetary policy to fight inflation.",
     "indonesian_meaning": "Kebijakan moneter pengaturan jumlah uang dan suku bunga",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 153,
-    "question_text": "inflationary pressure",
-    "audio_transcript": "Economic factors that cause prices to increase throughout an economy.",
+    "question_text": "Inflationary pressure",
+    "audio_transcript": "Surging fuel costs exerted severe inflationary pressure on household food baskets.",
     "indonesian_meaning": "Tekanan kenaikan harga barang dan jasa",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 154,
-    "question_text": "stagnation",
-    "audio_transcript": "Prolonged period of little or no growth in an economy or system.",
+    "question_text": "Stagnation",
+    "audio_transcript": "Wage stagnation over the last decade has diminished middle-class purchasing power.",
     "indonesian_meaning": "Kondisi stagnan / terhenti tanpa pertumbuhan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 155,
-    "question_text": "recession",
-    "audio_transcript": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+    "question_text": "Recession",
+    "audio_transcript": "During the severe recession, unemployment climbed to historic heights.",
     "indonesian_meaning": "Resesi ekonomi / kemerosotan aktivitas bisnis",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 156,
-    "question_text": "vulnerability",
-    "audio_transcript": "The quality or state of being exposed to the possibility of being attacked or harmed.",
+    "question_text": "Vulnerability",
+    "audio_transcript": "Rising sea levels exacerbate the ecological vulnerability of low-lying island nations.",
     "indonesian_meaning": "Kerentanan terhadap ancaman atau bahaya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 157,
-    "question_text": "resilience",
-    "audio_transcript": "The capacity to recover quickly from difficulties; toughness.",
+    "question_text": "Resilience",
+    "audio_transcript": "Investing in diversified local economies fosters community resilience against global shocks.",
     "indonesian_meaning": "Daya lenting / kemampuan bangkit dari kesulitan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 158,
-    "question_text": "empowerment",
-    "audio_transcript": "The process of becoming stronger and more confident, especially in controlling ones life and claiming ones rights.",
+    "question_text": "Empowerment",
+    "audio_transcript": "Female economic empowerment is intrinsically linked to broader societal prosperity.",
     "indonesian_meaning": "Pemberdayaan potensi dan hak individu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 159,
-    "question_text": "infrastructure development",
-    "audio_transcript": "The construction and improvement of fundamental facilities like roads, bridges, power supplies, and water pipes.",
+    "question_text": "Infrastructure development",
+    "audio_transcript": "Aggressive infrastructure development in rural zones stimulates inter-provincial trade.",
     "indonesian_meaning": "Pembangunan sarana dan prasarana dasar",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 160,
-    "question_text": "sanitation facilities",
-    "audio_transcript": "Conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.",
+    "question_text": "Sanitation facilities",
+    "audio_transcript": "Access to clean drinking water and proper sanitation facilities prevents waterborne disease outbreaks.",
     "indonesian_meaning": "Fasilitas sanitasi dan kebersihan umum",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 161,
-    "question_text": "malnutrition",
-    "audio_transcript": "Lack of proper nutrition, caused by not having enough to eat, or not eating enough of the right things.",
+    "question_text": "Malnutrition",
+    "audio_transcript": "Severe childhood malnutrition can cause irreversible physical and cognitive stunting.",
     "indonesian_meaning": "Kekurangan gizi / gizi buruk",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 162,
-    "question_text": "eradicate",
-    "audio_transcript": "Destroy completely; put an end to.",
+    "question_text": "Eradicate",
+    "audio_transcript": "Coordinated vaccination programs succeeded in eradicating smallpox across the globe.",
     "indonesian_meaning": "Membasmi tuntas hingga ke akar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 163,
-    "question_text": "deforestation",
-    "audio_transcript": "The action of clearing a wide area of trees without replanting.",
+    "question_text": "Deforestation",
+    "audio_transcript": "Deforestation in tropical rainforests releases billions of tonnes of trapped greenhouse gases.",
     "indonesian_meaning": "Penggundulan hutan secara masif",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 164,
-    "question_text": "desertification",
-    "audio_transcript": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+    "question_text": "Desertification",
+    "audio_transcript": "Overgrazing by cattle has accelerated desertification in arid regions of sub-Saharan Africa.",
     "indonesian_meaning": "Proses degradasi lahan subur menjadi gurun tandus",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 165,
-    "question_text": "afforestation",
-    "audio_transcript": "The establishment of a forest or stand of trees in an area where there was no previous tree cover.",
+    "question_text": "Afforestation",
+    "audio_transcript": "National afforestation campaigns help re-establish natural rainfall patterns and trap soil moisture.",
     "indonesian_meaning": "Penanaman hutan baru di lahan yang sebelumnya bukan hutan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 166,
-    "question_text": "endangered species",
-    "audio_transcript": "A species of animal or plant that is seriously at risk of extinction.",
+    "question_text": "Endangered species",
+    "audio_transcript": "Strict wildlife reserves provide a safe haven for endangered species threatened by poaching.",
     "indonesian_meaning": "Spesies satwa atau tumbuhan yang terancam kepunahan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 167,
-    "question_text": "poaching",
-    "audio_transcript": "The illegal hunting or capturing of wild animals, usually on protected land.",
+    "question_text": "Poaching",
+    "audio_transcript": "Armed patrols in national parks have curtailed commercial elephant poaching.",
     "indonesian_meaning": "Perburuan dan penangkapan satwa liar secara ilegal",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 168,
-    "question_text": "habitat loss",
-    "audio_transcript": "The process by which a natural habitat becomes incapable of supporting its native species.",
+    "question_text": "Habitat loss",
+    "audio_transcript": "Urban sprawl is the primary driver of habitat loss for local avian populations.",
     "indonesian_meaning": "Hilangnya tempat tinggal alami flora dan fauna",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 169,
-    "question_text": "carbon sequestration",
-    "audio_transcript": "A natural or artificial process by which carbon dioxide is removed from the atmosphere and held in solid or liquid form.",
+    "question_text": "Carbon sequestration",
+    "audio_transcript": "Mangrove forests are extraordinarily efficient at carbon sequestration compared to terrestrial woods.",
     "indonesian_meaning": "Proses penyerapan dan penyimpanan karbon alami atau buatan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 170,
-    "question_text": "fossil fuel depletion",
-    "audio_transcript": "The gradual exhaustion of non-renewable energy resources such as coal, oil, and natural gas.",
+    "question_text": "Fossil fuel depletion",
+    "audio_transcript": "Impending fossil fuel depletion compels governments to accelerate green energy transition.",
     "indonesian_meaning": "Habisnya cadangan bahan bakar fosil bumi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 171,
-    "question_text": "genetic modification",
-    "audio_transcript": "The direct manipulation of an organisms genes using biotechnology.",
+    "question_text": "Genetic modification",
+    "audio_transcript": "Genetic modification of staple crops can boost pest resistance and nutritional yield.",
     "indonesian_meaning": "Rekayasa modifikasi genetika pada organisme",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 172,
-    "question_text": "artificial intelligence",
-    "audio_transcript": "The theory and development of computer systems able to perform tasks that normally require human intelligence.",
+    "question_text": "Artificial intelligence",
+    "audio_transcript": "Artificial intelligence algorithms can identify medical tumors with unprecedented precision.",
     "indonesian_meaning": "Kecerdasan buatan komputer meniru nalar manusia",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 173,
-    "question_text": "algorithmic bias",
-    "audio_transcript": "Systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group.",
+    "question_text": "Algorithmic bias",
+    "audio_transcript": "Engineers must audit datasets to prevent algorithmic bias in automated hiring software.",
     "indonesian_meaning": "Bias sistem algoritma yang merugikan kelompok tertentu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 174,
-    "question_text": "surveillance technology",
-    "audio_transcript": "Devices and software used to monitor activities, behavior, or information for purposes of management or protection.",
+    "question_text": "Surveillance technology",
+    "audio_transcript": "The expansion of facial recognition surveillance technology raises serious civil privacy concerns.",
     "indonesian_meaning": "Teknologi pengawasan dan pemantauan kamera",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 175,
-    "question_text": "cybersecurity threats",
-    "audio_transcript": "Malicious acts that aim to damage data, steal intellectual information, or disrupt digital life in general.",
+    "question_text": "Cybersecurity threats",
+    "audio_transcript": "Critical utility infrastructure must be fortified against sophisticated cybersecurity threats.",
     "indonesian_meaning": "Ancaman serangan kejahatan siber internet",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 176,
-    "question_text": "intellectual property",
-    "audio_transcript": "Intangible creations of the human intellect, including copyright, patents, and trademarks.",
+    "question_text": "Intellectual property",
+    "audio_transcript": "International trade treaties aim to enforce intellectual property protections across borders.",
     "indonesian_meaning": "Hak kekayaan intelektual karya cipta dan paten",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 177,
-    "question_text": "ethical dilemma",
-    "audio_transcript": "A complex situation that will often involve an apparent mental conflict between moral imperatives.",
+    "question_text": "Ethical dilemma",
+    "audio_transcript": "Self-driving cars present programmers with an acute ethical dilemma in crash avoidance scenarios.",
     "indonesian_meaning": "Dilema moral antara dua pilihan yang sama-sama berat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 178,
-    "question_text": "accountability",
-    "audio_transcript": "The fact or condition of being accountable; responsibility.",
+    "question_text": "Accountability",
+    "audio_transcript": "Democratic governance demands transparent accountability from civil servants.",
     "indonesian_meaning": "Pertanggungjawaban yang transparan dan dapat dituntut",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 179,
-    "question_text": "transparency",
-    "audio_transcript": "The condition of being open to public scrutiny; lack of hidden agendas.",
+    "question_text": "Transparency",
+    "audio_transcript": "Financial transparency in charity organizations enhances public donor trust.",
     "indonesian_meaning": "Keterbukaan informasi publik tanpa ada yang ditutupi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 180,
-    "question_text": "nepotism",
-    "audio_transcript": "The practice among those with power or influence of favoring relatives or friends, especially by giving them jobs.",
+    "question_text": "Nepotism",
+    "audio_transcript": "Merit-based hiring systems were introduced to eradicate nepotism in the public administration.",
     "indonesian_meaning": "Nepotisme pengutamaan kerabat dalam jabatan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 181,
-    "question_text": "bureaucracy",
-    "audio_transcript": "A system of government in which most of the important decisions are taken by state officials rather than by elected representatives.",
+    "question_text": "Bureaucracy",
+    "audio_transcript": "Excessive bureaucracy often stifles entrepreneurial initiative and delays foreign investment.",
     "indonesian_meaning": "Birokrasi tata kelola yang berbelit-belit",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 182,
-    "question_text": "decentralization",
-    "audio_transcript": "The transfer of control of an activity or organization to several local offices or authorities rather than one single one.",
+    "question_text": "Decentralization",
+    "audio_transcript": "Administrative decentralization empowers regional municipalities to address local needs effectively.",
     "indonesian_meaning": "Pelimpahan wewenang dari pusat ke daerah",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 183,
-    "question_text": "in high spirits",
-    "audio_transcript": "Lively, cheerful, and in a buoyant mood.",
+    "question_text": "In high spirits",
+    "audio_transcript": "The whole team was in high spirits after clinching the championship trophy.",
     "indonesian_meaning": "Sangat bersemangat dan ceria",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 184,
-    "question_text": "on cloud nine",
-    "audio_transcript": "Extremely happy, delighted, or elated.",
+    "question_text": "On cloud nine",
+    "audio_transcript": "When I got accepted into my dream university, I was on cloud nine for weeks.",
     "indonesian_meaning": "Sangat bahagia melayang seperti di awan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 185,
-    "question_text": "in the blink of an eye",
-    "audio_transcript": "Extremely quickly; almost instantaneously.",
+    "question_text": "In the blink of an eye",
+    "audio_transcript": "My undergraduate years flew by in the blink of an eye.",
     "indonesian_meaning": "Dalam sekejap mata / berlangsung sangat cepat",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 186,
-    "question_text": "barking up the wrong tree",
-    "audio_transcript": "Pursuing a mistaken line of thought or course of action.",
+    "question_text": "Barking up the wrong tree",
+    "audio_transcript": "If you think money alone solves educational inequality, you are barking up the wrong tree.",
     "indonesian_meaning": "Salah sasaran atau keliru menduga penyebab",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 187,
-    "question_text": "cry over spilt milk",
-    "audio_transcript": "To waste time worrying about something that has happened that you cannot alter.",
+    "question_text": "Cry over spilt milk",
+    "audio_transcript": "There is no use crying over spilt milk; let us focus on our upcoming performance.",
     "indonesian_meaning": "Menyesali hal yang sudah terlanjur terjadi dan tak bisa diubah",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 188,
-    "question_text": "see the bigger picture",
-    "audio_transcript": "To understand the whole situation, rather than just one small part of it.",
+    "question_text": "See the bigger picture",
+    "audio_transcript": "Effective managers help their teams see the bigger picture rather than getting bogged down in minutiae.",
     "indonesian_meaning": "Melihat konteks luas menyeluruh ketimbang hal detail kecil",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 189,
-    "question_text": "go the extra mile",
-    "audio_transcript": "To make more effort than is expected or required of you.",
+    "question_text": "Go the extra mile",
+    "audio_transcript": "Our homestay host went the extra mile to make us feel welcome during our trip.",
     "indonesian_meaning": "Melakukan usaha lebih dari yang diwajibkan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 190,
-    "question_text": "cut corners",
-    "audio_transcript": "To do something perfunctorily or cheaply so as to save time or money.",
+    "question_text": "Cut corners",
+    "audio_transcript": "Construction firms must never cut corners on structural safety materials.",
     "indonesian_meaning": "Mengambil jalan pintas yang mengorbankan mutu atau keselamatan",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 191,
-    "question_text": "back to square one",
-    "audio_transcript": "Having to start all over again from the beginning.",
+    "question_text": "Back to square one",
+    "audio_transcript": "When the hard drive crashed without a cloud backup, our team was back to square one.",
     "indonesian_meaning": "Kembali ke titik awal mula tanpa hasil",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 192,
-    "question_text": "throw in the towel",
-    "audio_transcript": "To admit defeat or quit trying to accomplish a difficult task.",
+    "question_text": "Throw in the towel",
+    "audio_transcript": "Despite the grueling programming obstacles, she refused to throw in the towel.",
     "indonesian_meaning": "Menyerah kalah dan berhenti mencoba",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 193,
-    "question_text": "kill two birds with one stone",
-    "audio_transcript": "To accomplish two different things at the exact same time with one single action.",
+    "question_text": "Kill two birds with one stone",
+    "audio_transcript": "Cycling to the office kills two birds with one stone: getting daily exercise and saving commute costs.",
     "indonesian_meaning": "Menuntaskan dua urusan sekaligus dalam satu tindakan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 194,
-    "question_text": "under the weather",
-    "audio_transcript": "Slightly unwell or in low spirits.",
+    "question_text": "Under the weather",
+    "audio_transcript": "I felt a bit under the weather yesterday, so I rested at home.",
     "indonesian_meaning": "Merasa kurang enak badan atau sakit ringan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 195,
-    "question_text": "off the beaten track",
-    "audio_transcript": "In or into isolated places where few people travel or live.",
+    "question_text": "Off the beaten track",
+    "audio_transcript": "When travelling, I prefer exploring tranquil mountain trails off the beaten track.",
     "indonesian_meaning": "Lokasi terpencil yang jarang dikunjungi kerumunan wisatawan",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 196,
-    "question_text": "hustle and bustle",
-    "audio_transcript": "Busy, noisy, and active activity of a city center.",
+    "question_text": "Hustle and bustle",
+    "audio_transcript": "Escaping the hustle and bustle of city life on weekends helps recharge my mental batteries.",
     "indonesian_meaning": "Hiruk pikuk kesibukan kota yang ramai",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 197,
-    "question_text": "a breath of fresh air",
-    "audio_transcript": "A welcome change that feels new and pleasantly refreshing.",
+    "question_text": "A breath of fresh air",
+    "audio_transcript": "Her creative approach to teaching mathematics was a breath of fresh air for struggling students.",
     "indonesian_meaning": "Hal baru yang menyegarkan dan menyenangkan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 198,
-    "question_text": "in the long run",
-    "audio_transcript": "Over or after a long period of time; eventually.",
+    "question_text": "In the long run",
+    "audio_transcript": "Investing in healthy eating habits saves enormous medical costs in the long run.",
     "indonesian_meaning": "Dalam jangka panjang setelah masa depan bergulir",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 199,
-    "question_text": "play devil's advocate",
-    "audio_transcript": "To pretend to disagree with someone in order to stimulate a deeper intellectual discussion.",
+    "question_text": "Play devil's advocate",
+    "audio_transcript": "Allow me to play devil's advocate: what if artificial intelligence eliminates more jobs than it creates?",
     "indonesian_meaning": "Berpura-pura menentang argumen demi menguji kebenarannya",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 200,
-    "question_text": "give the benefit of the doubt",
-    "audio_transcript": "To accept that someone is telling the truth or innocent even when there is doubt.",
+    "question_text": "Give the benefit of the doubt",
+    "audio_transcript": "Although he arrived late, the manager gave him the benefit of the doubt due to rail cancellations.",
     "indonesian_meaning": "Berprasangka baik dan mempercayai perkataannya terlebih dahulu",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 201,
-    "question_text": "hit the books",
-    "audio_transcript": "To begin studying hard, especially for an exam.",
+    "question_text": "Hit the books",
+    "audio_transcript": "I need to hit the books tonight if I intend to master all the IELTS vocabulary list.",
     "indonesian_meaning": "Belajar tekun dengan membaca buku-buku pelajaran",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 202,
-    "question_text": "cut to the chase",
-    "audio_transcript": "To focus on the most important points without wasting time on preamble.",
+    "question_text": "Cut to the chase",
+    "audio_transcript": "Let me cut to the chase: the primary limitation of the proposal is the budgetary deficit.",
     "indonesian_meaning": "Langsung ke inti pokok masalah tanpa bertele-tele",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 203,
-    "question_text": "get the hang of it",
-    "audio_transcript": "To learn the technique of doing something unfamiliar.",
+    "question_text": "Get the hang of it",
+    "audio_transcript": "Programming in Flutter was bewildering initially, but I quickly got the hang of it.",
     "indonesian_meaning": "Mulai terbiasa dan memahami cara kerjanya",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 204,
-    "question_text": "on the spur of the moment",
-    "audio_transcript": "Done spontaneously and impulsively without any prior planning.",
+    "question_text": "On the spur of the moment",
+    "audio_transcript": "On the spur of the moment, we booked train tickets for a spontaneous weekend trip.",
     "indonesian_meaning": "Spontan tanpa rencana matang sebelumnya",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 205,
-    "question_text": "leave no stone unturned",
-    "audio_transcript": "To try every possible course of action in order to achieve something.",
+    "question_text": "Leave no stone unturned",
+    "audio_transcript": "Researchers left no stone unturned in their quest to identify the viral source.",
     "indonesian_meaning": "Mengerahkan segala upaya tanpa melewatkan satu celah pun",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 206,
-    "question_text": "make ends meet",
-    "audio_transcript": "To earn just enough money to pay for the things that you need.",
+    "question_text": "Make ends meet",
+    "audio_transcript": "With soaring inflation, low-wage households are struggling to make ends meet.",
     "indonesian_meaning": "Mencukupi kebutuhan hidup sehari-hari dengan penghasilan pas-pasan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 207,
-    "question_text": "on the same page",
-    "audio_transcript": "In agreement with others regarding plans or viewpoints.",
+    "question_text": "On the same page",
+    "audio_transcript": "Regular meetings ensure that all project team members remain on the same page.",
     "indonesian_meaning": "Sepemikiran dan sepaham dalam pandangan",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 208,
-    "question_text": "the tip of the iceberg",
-    "audio_transcript": "Only a small visible fraction of a much larger, concealed problem.",
+    "question_text": "The tip of the iceberg",
+    "audio_transcript": "Reported cybercrimes are merely the tip of the iceberg, as countless victims remain silent.",
     "indonesian_meaning": "Hanya sebagian kecil dari masalah raksasa yang sebenarnya",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 209,
-    "question_text": "touch base with",
-    "audio_transcript": "To briefly make contact or communicate with someone to check status.",
+    "question_text": "Touch base with",
+    "audio_transcript": "I will touch base with my academic tutor next Monday to review the dissertation draft.",
     "indonesian_meaning": "Menghubungi kembali untuk koordinasi singkat",
     "context_location": "Part 1-3",
     "level": "A1"
   },
   {
     "id": 210,
-    "question_text": "skyrocket",
-    "audio_transcript": "To increase very rapidly and steeply.",
+    "question_text": "Skyrocket",
+    "audio_transcript": "Housing rents skyrocketed by nearly forty percent over the two-year observation period.",
     "indonesian_meaning": "Meroket naik sangat tajam dalam tempo singkat",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 211,
-    "question_text": "escalate steadily",
-    "audio_transcript": "To increase continuously at a steady and reliable pace.",
+    "question_text": "Escalate steadily",
+    "audio_transcript": "Car ownership escalated steadily throughout the early 2000s.",
     "indonesian_meaning": "Meningkat secara bertahap dan konsisten",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 212,
-    "question_text": "dip slightly",
-    "audio_transcript": "To go down briefly and marginally before recovering.",
+    "question_text": "Dip slightly",
+    "audio_transcript": "Export values dipped slightly in April before resuming their robust upward climb.",
     "indonesian_meaning": "Mengalami penurunan tipis sesaat",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 213,
-    "question_text": "reach an all-time high",
-    "audio_transcript": "To attain the highest quantitative level ever recorded.",
+    "question_text": "Reach an all-time high",
+    "audio_transcript": "Renewable electricity generation reached an all-time high of 4,000 gigawatts in 2024.",
     "indonesian_meaning": "Mencapai rekor angka tertinggi sepanjang masa",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 214,
-    "question_text": "hit rock bottom",
-    "audio_transcript": "To reach the absolute lowest point possible.",
+    "question_text": "Hit rock bottom",
+    "audio_transcript": "Factory production hit rock bottom in 2009 amid the global financial crash.",
     "indonesian_meaning": "Menyentuh titik nadir paling dasar / terendah",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 215,
-    "question_text": "level off at",
-    "audio_transcript": "To stop rising or falling and stay at a consistent plateau level.",
+    "question_text": "Level off at",
+    "audio_transcript": "The birth rate leveled off at approximately 1.5 children per female citizen.",
     "indonesian_meaning": "Mendatar setelah fase kenaikan atau penurunan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 216,
-    "question_text": "remain virtually unchanged",
-    "audio_transcript": "To stay practically the same with barely noticeable variation.",
+    "question_text": "Remain virtually unchanged",
+    "audio_transcript": "The proportion of domestic rail passengers remained virtually unchanged across the decade.",
     "indonesian_meaning": "Hampir tidak mengalami perubahan sama sekali sepanjang kurun waktu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 217,
-    "question_text": "outstrip",
-    "audio_transcript": "Move faster than and overtake, or exceed in quantity.",
+    "question_text": "Outstrip",
+    "audio_transcript": "Demand for clean water is projected to outstrip supply in arid jurisdictions by 2030.",
     "indonesian_meaning": "Melampaui laju pertumbuhan atau jumlah hal lain",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 218,
-    "question_text": "account for approximately",
-    "audio_transcript": "To form or supply a specified proportion of a whole.",
+    "question_text": "Account for approximately",
+    "audio_transcript": "Coal combustion accounts for approximately one-third of total greenhouse emissions.",
     "indonesian_meaning": "Menyumbang porsi sebesar kisaran angka tertentu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 219,
-    "question_text": "comprise the largest share",
-    "audio_transcript": "To constitute the biggest single segment of a total quantity.",
+    "question_text": "Comprise the largest share",
+    "audio_transcript": "Agriculture comprised the largest share of national water usage at 68%.",
     "indonesian_meaning": "Menempati bagian atau porsi pangsa terbesar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 220,
-    "question_text": "make up roughly one-third",
-    "audio_transcript": "To constitute around 33 percent of a designated whole.",
+    "question_text": "Make up roughly one-third",
+    "audio_transcript": "Transport costs make up roughly one-third of overall household monthly expenditures.",
     "indonesian_meaning": "Membentuk kira-kira sepertiga bagian dari keseluruhan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 221,
-    "question_text": "hover around",
-    "audio_transcript": "To stay close to a specific level, fluctuating slightly without large jumps.",
+    "question_text": "Hover around",
+    "audio_transcript": "Youth unemployment rates hovered around twenty percent throughout the five-year survey.",
     "indonesian_meaning": "Bertahan dan berfluktuasi tipis di kisaran angka tertentu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 222,
-    "question_text": "undergo significant transformation",
-    "audio_transcript": "To experience large and noticeable changes in form, nature, or character.",
+    "question_text": "Undergo significant transformation",
+    "audio_transcript": "The coastal docklands underwent significant transformation into a tech hub between 1995 and 2020.",
     "indonesian_meaning": "Mengalami transformasi perubahan yang sangat signifikan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 223,
-    "question_text": "subsequently",
-    "audio_transcript": "After a particular thing has happened; afterwards.",
+    "question_text": "Subsequently",
+    "audio_transcript": "The raw materials are crushed and subsequently heated in a high-temperature kiln.",
     "indonesian_meaning": "Setelah itu / kemudian pada tahap berikutnya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 224,
-    "question_text": "prior to the extraction",
-    "audio_transcript": "Before the removal or harvesting step is carried out.",
+    "question_text": "Prior to the extraction",
+    "audio_transcript": "Prior to the extraction of essential oils, plant petals are dried in ventilated racks.",
     "indonesian_meaning": "Sebelum tahap ekstraksi dilaksanakan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 225,
-    "question_text": "furthermore",
-    "audio_transcript": "In addition; moreover (used to introduce a fresh reinforcing point).",
+    "question_text": "Furthermore",
+    "audio_transcript": "Exercise improves mood; furthermore, it lowers the long-term risk of chronic illnesses.",
     "indonesian_meaning": "Terlebih lagi / lagipula sebagai penguat argumen",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 226,
-    "question_text": "nevertheless",
-    "audio_transcript": "In spite of that; however.",
+    "question_text": "Nevertheless",
+    "audio_transcript": "The surgery entails inherent risks; nevertheless, it represents the patient's best hope.",
     "indonesian_meaning": "Walaupun demikian / namun terlepas dari hal itu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 227,
-    "question_text": "consequently",
-    "audio_transcript": "As a result of something mentioned earlier.",
+    "question_text": "Consequently",
+    "audio_transcript": "Public funding was cut; consequently, library opening hours were severely curtailed.",
     "indonesian_meaning": "Sebagai konsekuensi atau akibat logis langsungnya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 228,
-    "question_text": "in light of the above",
-    "audio_transcript": "Taking the previously stated factors and evidence into consideration.",
+    "question_text": "In light of the above",
+    "audio_transcript": "In light of the above evidence, the government ought to subsidize eco-friendly insulation.",
     "indonesian_meaning": "Mempertimbangkan seluruh paparan fakta di atas",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 229,
-    "question_text": "all things considered",
-    "audio_transcript": "Taking all circumstances and sides into account.",
+    "question_text": "All things considered",
+    "audio_transcript": "All things considered, the advantages of remote working far outweigh the minor drawbacks.",
     "indonesian_meaning": "Setelah menimbang seluruh faktor secara komprehensif",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 230,
-    "question_text": "acquire knowledge",
-    "audio_transcript": "To gain information, skills, or competence through experience or education.",
+    "question_text": "Acquire knowledge",
+    "audio_transcript": "Interactive classrooms empower pupils to acquire knowledge independently.",
     "indonesian_meaning": "Memperoleh dan menyerap ilmu pengetahuan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 231,
-    "question_text": "allocate resources",
-    "audio_transcript": "To distribute financial or physical assets for a specific designated purpose.",
+    "question_text": "Allocate resources",
+    "audio_transcript": "Municipalities must allocate adequate resources to sewage and waste recycling.",
     "indonesian_meaning": "Mengalokasikan sumber daya secara tepat guna",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 232,
-    "question_text": "ambiguous meaning",
-    "audio_transcript": "Open to more than one interpretation; unclear or inexact.",
+    "question_text": "Ambiguous meaning",
+    "audio_transcript": "Legal contracts should avoid ambiguous phrasing that invites conflicting disputes.",
     "indonesian_meaning": "Makna yang ambigu dan menimbulkan keraguan multitafsir",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 233,
-    "question_text": "coincide with",
-    "audio_transcript": "Occur at or during the same time.",
+    "question_text": "Coincide with",
+    "audio_transcript": "The graduation ceremony will coincide with the university's centenary celebrations.",
     "indonesian_meaning": "Bertepatan secara bersamaan dengan peristiwa lain",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 234,
-    "question_text": "constitute a threat",
-    "audio_transcript": "To form or establish a hazard, danger, or risk to something.",
+    "question_text": "Constitute a threat",
+    "audio_transcript": "Persistent coastal pollution constitutes a severe threat to local fishing communities.",
     "indonesian_meaning": "Menimbulkan atau menjadi ancaman nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 235,
-    "question_text": "deduce conclusions",
-    "audio_transcript": "To reach an understanding by logical reasoning from observed evidence.",
+    "question_text": "Deduce conclusions",
+    "audio_transcript": "From historical demographic records, historians deduced several insightful conclusions.",
     "indonesian_meaning": "Menarik kesimpulan logis berdasarkan premis yang ada",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 236,
-    "question_text": "deviate from norms",
-    "audio_transcript": "Depart from an established course, accepted standard, or rule.",
+    "question_text": "Deviate from norms",
+    "audio_transcript": "Contemporary architecture frequently deviates from conventional geometric design norms.",
     "indonesian_meaning": "Menyimpang dari aturan atau kebiasaan baku",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 237,
-    "question_text": "diminish importance",
-    "audio_transcript": "Make or become less valuable or significant.",
+    "question_text": "Diminish importance",
+    "audio_transcript": "The advent of automation does not diminish the enduring importance of human empathy.",
     "indonesian_meaning": "Mengurangi nilai atau kadar kepentingan suatu hal",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 238,
-    "question_text": "enhance productivity",
-    "audio_transcript": "To increase the rate of output or efficiency in a process.",
+    "question_text": "Enhance productivity",
+    "audio_transcript": "Ergonomic office equipment has been proven to enhance employee productivity.",
     "indonesian_meaning": "Meningkatkan produktivitas dan efisiensi kerja",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 239,
-    "question_text": "equate with",
-    "audio_transcript": "Consider (one thing) to be the same as or equivalent to another.",
+    "question_text": "Equate with",
+    "audio_transcript": "Society should not naively equate material consumption with genuine personal happiness.",
     "indonesian_meaning": "Menyamakan suatu hal dengan hal lainnya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 240,
-    "question_text": "incorporate elements",
-    "audio_transcript": "Take in or contain (something) as part of a whole; include.",
+    "question_text": "Incorporate elements",
+    "audio_transcript": "Modern architecture successfully incorporates elements of historic heritage.",
     "indonesian_meaning": "Menggabungkan berbagai elemen menjadi kesatuan terpadu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 241,
-    "question_text": "inherent danger",
-    "audio_transcript": "An intrinsic, existing risk as an inseparable part of something.",
+    "question_text": "Inherent danger",
+    "audio_transcript": "Deep-sea drilling carries an inherent danger of catastrophic ecological spills.",
     "indonesian_meaning": "Bahaya laten yang melekat secara alami",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 242,
-    "question_text": "inhibit growth",
-    "audio_transcript": "Hinder, restrain, or prevent an action or developmental process.",
+    "question_text": "Inhibit growth",
+    "audio_transcript": "Excessive bureaucratic regulation can inhibit economic growth in developing countries.",
     "indonesian_meaning": "Menghambat laju pertumbuhan atau perkembangan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 243,
-    "question_text": "justify actions",
-    "audio_transcript": "Show or prove that decisions or conduct are right or reasonable.",
+    "question_text": "Justify actions",
+    "audio_transcript": "Corporations must justify their actions when exploiting shared public natural reserves.",
     "indonesian_meaning": "Membenarkan tindakan dengan alasan rasional dan etis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 244,
-    "question_text": "manifest itself",
-    "audio_transcript": "Become apparent through the appearance of symptoms, signs, or evidence.",
+    "question_text": "Manifest itself",
+    "audio_transcript": "Workplace stress frequently manifests itself in physical exhaustion and diminished focus.",
     "indonesian_meaning": "Mewujudkan diri / tampak nyata ke permukaan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 245,
-    "question_text": "negate benefits",
-    "audio_transcript": "Nullify; make ineffective; deny the truth or validity of.",
+    "question_text": "Negate benefits",
+    "audio_transcript": "High carbon emissions from goods transport can negate the benefits of buying organic produce.",
     "indonesian_meaning": "Meniadakan atau menghapus manfaat yang telah didapat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 246,
-    "question_text": "obtain consent",
-    "audio_transcript": "To acquire formal permission for something to happen or agreement to do something.",
+    "question_text": "Obtain consent",
+    "audio_transcript": "Medical researchers must obtain informed consent from every clinical participant.",
     "indonesian_meaning": "Memperoleh persetujuan atau izin resmi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 247,
-    "question_text": "perceive reality",
-    "audio_transcript": "To interpret or become aware of real situations through the senses and intellect.",
+    "question_text": "Perceive reality",
+    "audio_transcript": "Social media filters drastically distort how adolescents perceive reality and body image.",
     "indonesian_meaning": "Mempersepsikan dan memandang realitas kenyataan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 248,
-    "question_text": "refine techniques",
-    "audio_transcript": "Improve something by making small changes, in order to make it more effective.",
+    "question_text": "Refine techniques",
+    "audio_transcript": "Athletes spend years refining their techniques in preparation for international contests.",
     "indonesian_meaning": "Menyempurnakan dan memperhalus teknik atau keterampilan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 249,
-    "question_text": "reinforce notions",
-    "audio_transcript": "Strengthen or support an existing idea, belief, or feeling.",
+    "question_text": "Reinforce notions",
+    "audio_transcript": "Biased media coverage can reinforce harmful stereotypes about marginalized groups.",
     "indonesian_meaning": "Memperkuat gagasan atau pandangan tertentu di masyarakat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 250,
-    "question_text": "restrain impulses",
-    "audio_transcript": "Prevent oneself from displaying or acting on sudden, unreflective urges.",
+    "question_text": "Restrain impulses",
+    "audio_transcript": "Self-discipline involves learning to restrain short-term impulses in pursuit of long-term goals.",
     "indonesian_meaning": "Menahan dorongan atau keinginan impulsif",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 251,
-    "question_text": "trigger reactions",
-    "audio_transcript": "To cause a prompt event or feeling to happen or exist.",
+    "question_text": "Trigger reactions",
+    "audio_transcript": "Sudden economic policy announcements can trigger volatile market reactions.",
     "indonesian_meaning": "Memicu dan memantik timbulnya reaksi cepat",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 252,
-    "question_text": "empirical evidence",
-    "audio_transcript": "Information acquired by observation or experimentation rather than pure theory.",
+    "question_text": "Empirical evidence",
+    "audio_transcript": "A lack of empirical evidence led scientists to reject the contested medical theory.",
     "indonesian_meaning": "Bukti nyata berdasarkan pengamatan dan eksperimen langsung",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 253,
-    "question_text": "skeptical attitude",
-    "audio_transcript": "An inclination towards questioning or doubt regarding claims.",
+    "question_text": "Skeptical attitude",
+    "audio_transcript": "Consumers should maintain a skeptical attitude towards exaggerated product claims in advertising.",
     "indonesian_meaning": "Sikap kritis dan tidak mudah percaya tanpa bukti",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 254,
-    "question_text": "incontrovertible proof",
-    "audio_transcript": "Evidence that is impossible to dispute or question; conclusive.",
+    "question_text": "Incontrovertible proof",
+    "audio_transcript": "Satellite imagery provides incontrovertible proof of accelerating polar ice retreat.",
     "indonesian_meaning": "Bukti otentik mutlak yang tidak terbantahkan lagi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 255,
-    "question_text": "sustainable agriculture",
-    "audio_transcript": "Farming in sustainable ways meeting societys present food needs without compromising future generations.",
+    "question_text": "Sustainable agriculture",
+    "audio_transcript": "Sustainable agriculture minimizes chemical pesticides and safeguards groundwater quality.",
     "indonesian_meaning": "Pertanian berkelanjutan yang ramah lingkungan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 256,
-    "question_text": "renewable energy transition",
-    "audio_transcript": "The shift from fossil-based systems of energy production to renewable energy sources like wind and solar.",
+    "question_text": "Renewable energy transition",
+    "audio_transcript": "The renewable energy transition requires colossal investments in battery storage infrastructure.",
     "indonesian_meaning": "Transisi menuju energi baru terbarukan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 257,
-    "question_text": "overcrowded classrooms",
-    "audio_transcript": "Classrooms containing more students than is desirable, reducing individualized attention.",
+    "question_text": "Overcrowded classrooms",
+    "audio_transcript": "Overcrowded classrooms hinder effective teacher-student interaction and individual feedback.",
     "indonesian_meaning": "Ruang kelas yang melebihi kapasitas siswa",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 258,
-    "question_text": "standardized testing",
-    "audio_transcript": "Tests that require all test takers to answer the same questions, scored in a consistent manner.",
+    "question_text": "Standardized testing",
+    "audio_transcript": "Critics argue that standardized testing encourages rote memorization rather than creative thought.",
     "indonesian_meaning": "Ujian terstandarisasi berskala nasional/global",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 259,
-    "question_text": "vocational training",
-    "audio_transcript": "Education that prepares trainees for jobs that are based on manual or practical activities.",
+    "question_text": "Vocational training",
+    "audio_transcript": "Governments should allocate equal funding to university degrees and practical vocational training.",
     "indonesian_meaning": "Pelatihan kejuruan dan keterampilan praktis",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 260,
-    "question_text": "curriculum design",
-    "audio_transcript": "The deliberate, systematic, and intentional planning of learning in the educational context.",
+    "question_text": "Curriculum design",
+    "audio_transcript": "Modern curriculum design ought to integrate digital literacy and coding from primary school.",
     "indonesian_meaning": "Perancangan dan penyusunan kurikulum belajar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 261,
-    "question_text": "academic dishonesty",
-    "audio_transcript": "Any type of cheating that occurs in relation to a formal academic exercise.",
+    "question_text": "Academic dishonesty",
+    "audio_transcript": "Universities enforce a zero-tolerance policy towards all forms of academic dishonesty.",
     "indonesian_meaning": "Kecurangan dalam lingkungan akademis atau ujian",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 262,
-    "question_text": "distance learning",
-    "audio_transcript": "A way of learning remotely without being in regular face-to-face contact with a teacher in the classroom.",
+    "question_text": "Distance learning",
+    "audio_transcript": "Distance learning offers invaluable flexibility for working professionals seeking higher qualifications.",
     "indonesian_meaning": "Pembelajaran jarak jauh secara daring / online",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 263,
-    "question_text": "tuition fees",
-    "audio_transcript": "The charge or fee for instruction at a university or private school.",
+    "question_text": "Tuition fees",
+    "audio_transcript": "Skyrocketing tuition fees place an immense financial strain on low-income families.",
     "indonesian_meaning": "Biaya kuliah / SPP pendidikan tinggi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 264,
-    "question_text": "extracurricular activities",
-    "audio_transcript": "Activities pursued in addition to the normal course of study, such as athletics or student societies.",
+    "question_text": "Extracurricular activities",
+    "audio_transcript": "Participation in extracurricular activities fosters teamwork and interpersonal leadership skills.",
     "indonesian_meaning": "Kegiatan ekstrakurikuler di luar jam pelajaran",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 265,
-    "question_text": "theoretical framework",
-    "audio_transcript": "The structure that can hold or support a theory of a research study.",
+    "question_text": "Theoretical framework",
+    "audio_transcript": "The dissertation rests on a robust theoretical framework drawn from behavioural economics.",
     "indonesian_meaning": "Kerangka teori landasan riset akademis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 266,
-    "question_text": "quantitative research",
-    "audio_transcript": "Research based on numerical data analyzed through mathematical and statistical methods.",
+    "question_text": "Quantitative research",
+    "audio_transcript": "Quantitative research provides measurable statistical data across broad population cohorts.",
     "indonesian_meaning": "Penelitian kuantitatif berbasis angka statistik",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 267,
-    "question_text": "qualitative research",
-    "audio_transcript": "Research based on non-numerical data like words, video, or audio to understand concepts.",
+    "question_text": "Qualitative research",
+    "audio_transcript": "In-depth qualitative research uncovers personal perspectives and subtle human emotions.",
     "indonesian_meaning": "Penelitian kualitatif berbasis wawancara dan narasi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 268,
-    "question_text": "statistical significance",
-    "audio_transcript": "A determination that a relationship between two or more variables is caused by something other than chance.",
+    "question_text": "Statistical significance",
+    "audio_transcript": "The experimental trial reached statistical significance with a ninety-nine percent confidence interval.",
     "indonesian_meaning": "Signifikansi statistik yang membuktikan bukan faktor kebetulan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 269,
-    "question_text": "correlation vs causation",
-    "audio_transcript": "The logical principle that a mutual relationship between two variables does not automatically establish direct cause.",
+    "question_text": "Correlation vs causation",
+    "audio_transcript": "Researchers must be vigilant in distinguishing between correlation and causation in survey data.",
     "indonesian_meaning": "Korelasi hubungan tidak selalu berarti sebab-akibat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 270,
-    "question_text": "peer collaboration",
-    "audio_transcript": "Working jointly with peers to solve challenges and produce scholarly outcomes.",
+    "question_text": "Peer collaboration",
+    "audio_transcript": "Peer collaboration in group assignments enhances communication and conflict-resolution skills.",
     "indonesian_meaning": "Kolaborasi dan kerjasama sesama rekan sebaya",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 271,
-    "question_text": "interdisciplinary approach",
-    "audio_transcript": "An approach combining two or more academic fields of study into one single activity.",
+    "question_text": "Interdisciplinary approach",
+    "audio_transcript": "Tackling global pandemics demands an interdisciplinary approach blending virology, economics, and sociology.",
     "indonesian_meaning": "Pendekatan lintas disiplin ilmu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 272,
-    "question_text": "longitudinal study",
-    "audio_transcript": "An observational research method in which data is gathered for the same subjects repeatedly over a period of time.",
+    "question_text": "Longitudinal study",
+    "audio_transcript": "A thirty-year longitudinal study revealed the profound health benefits of Mediterranean diets.",
     "indonesian_meaning": "Studi jangka panjang yang mengamati subjek selama bertahun-tahun",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 273,
-    "question_text": "control group",
-    "audio_transcript": "A benchmark group in an experiment that receives no experimental treatment to serve as comparison.",
+    "question_text": "Control group",
+    "audio_transcript": "Patients in the control group were administered an inert placebo rather than the experimental drug.",
     "indonesian_meaning": "Kelompok kontrol pembanding dalam eksperimen ilmiah",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 274,
-    "question_text": "synthesize findings",
-    "audio_transcript": "To combine and harmonize multiple separate research results into a coherent whole.",
+    "question_text": "Synthesize findings",
+    "audio_transcript": "The concluding chapter synthesizes findings from five separate empirical case studies.",
     "indonesian_meaning": "Memadukan berbagai temuan riset menjadi kesimpulan terpadu",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 275,
-    "question_text": "highlight disparities",
-    "audio_transcript": "To draw special attention to noticeable differences or inequalities.",
+    "question_text": "Highlight disparities",
+    "audio_transcript": "Recent economic reports highlight disparities in regional healthcare funding.",
     "indonesian_meaning": "Menyoroti kesenjangan perbedaan secara tegas",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 276,
-    "question_text": "substantiate arguments",
-    "audio_transcript": "To back up opinions and claims with factual proof and logic.",
+    "question_text": "Substantiate arguments",
+    "audio_transcript": "Candidates must substantiate arguments in Writing Task 2 using credible concrete illustrations.",
     "indonesian_meaning": "Memperkuat dan membuktikan argumen dengan bukti nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 277,
-    "question_text": "refute opposing views",
-    "audio_transcript": "To prove that counter-claims are incorrect, illogical, or flawed.",
+    "question_text": "Refute opposing views",
+    "audio_transcript": "The author systematically refutes opposing views by analyzing statistical discrepancies.",
     "indonesian_meaning": "Menyangkal pandangan lawan dengan penalaran kuat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 278,
-    "question_text": "address root causes",
-    "audio_transcript": "To deal directly with the fundamental origin of a crisis rather than superficial symptoms.",
+    "question_text": "Address root causes",
+    "audio_transcript": "Rehabilitative programs aim to address root causes of criminal recidivism such as poverty.",
     "indonesian_meaning": "Menangani akar penyebab masalah secara mendasar",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 279,
-    "question_text": "take preemptive measures",
-    "audio_transcript": "To act beforehand in order to prevent an anticipated danger or disaster from occurring.",
+    "question_text": "Take preemptive measures",
+    "audio_transcript": "Coastal cities must take preemptive measures against storm surges by reinforcing seawalls.",
     "indonesian_meaning": "Mengambil langkah antisipasi pencegahan sejak dini",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 280,
-    "question_text": "bridge the divide",
-    "audio_transcript": "To reduce differences or disagreements between two contrasting groups.",
+    "question_text": "Bridge the divide",
+    "audio_transcript": "Community mentoring programs help bridge the digital divide for underprivileged youth.",
     "indonesian_meaning": "Menjembatani jurang pemisah perbedaan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 281,
-    "question_text": "pave the way for",
-    "audio_transcript": "To create a situation in which something can more easily happen.",
+    "question_text": "Pave the way for",
+    "audio_transcript": "Groundbreaking discoveries in battery chemistry paved the way for mass-market electric vehicles.",
     "indonesian_meaning": "Membuka jalan lebar bagi perkembangan di masa depan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 282,
-    "question_text": "raise public awareness",
-    "audio_transcript": "To educate and inform the general population regarding an urgent issue.",
+    "question_text": "Raise public awareness",
+    "audio_transcript": "Public service broadcasts can raise public awareness about the perils of plastic contamination.",
     "indonesian_meaning": "Meningkatkan kesadaran masyarakat luas",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 283,
-    "question_text": "shift the burden",
-    "audio_transcript": "To transfer responsibility or financial cost to another party unfairly.",
+    "question_text": "Shift the burden",
+    "audio_transcript": "Subsidies should not simply shift the burden of environmental cleanup onto future taxpayers.",
     "indonesian_meaning": "Mengalihkan beban tanggung jawab ke pihak lain",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 284,
-    "question_text": "spur economic growth",
-    "audio_transcript": "To give an incentive or stimulus to economic expansion and prosperity.",
+    "question_text": "Spur economic growth",
+    "audio_transcript": "Tax incentives for high-tech start-ups spur economic growth and job creation.",
     "indonesian_meaning": "Mendorong dan memicu pertumbuhan ekonomi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 285,
-    "question_text": "drive innovation",
-    "audio_transcript": "To force or motivate the development of new methods, ideas, or products.",
+    "question_text": "Drive innovation",
+    "audio_transcript": "Fierce market competition drives innovation in consumer electronics.",
     "indonesian_meaning": "Mendorong timbulnya inovasi terobosan baru",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 286,
-    "question_text": "reap the benefits",
-    "audio_transcript": "To receive something good as a result of ones own hard efforts.",
+    "question_text": "Reap the benefits",
+    "audio_transcript": "Societies that invest heavily in early education reap the benefits in reduced crime rates decades later.",
     "indonesian_meaning": "Memetik dan menikmati buah hasil manfaat yang nyata",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 287,
-    "question_text": "bear the consequences",
-    "audio_transcript": "To accept responsibility and negative outcomes resulting from an action.",
+    "question_text": "Bear the consequences",
+    "audio_transcript": "Future generations will bear the consequences of our current inaction on fossil emissions.",
     "indonesian_meaning": "Menanggung konsekuensi dampak buruk dari suatu tindakan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 288,
-    "question_text": "curb emissions",
-    "audio_transcript": "To restrain or keep carbon and toxic gas outputs within strict bounds.",
+    "question_text": "Curb emissions",
+    "audio_transcript": "Transitioning to hydrogen-powered trucks will help curb emissions in freight logistics.",
     "indonesian_meaning": "Menahan dan membatasi jumlah emisi gas beracun",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 289,
-    "question_text": "phase out fossil fuels",
-    "audio_transcript": "To discontinue the use of coal, petroleum, and gas through planned gradual steps.",
+    "question_text": "Phase out fossil fuels",
+    "audio_transcript": "Dozens of nations pledged to phase out fossil fuels by the mid-century mark.",
     "indonesian_meaning": "Menghentikan pemakaian bahan bakar fosil secara bertahap",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 290,
-    "question_text": "impose strict regulations",
-    "audio_transcript": "To establish official rules that must be strictly adhered to.",
+    "question_text": "Impose strict regulations",
+    "audio_transcript": "Authorities must impose strict regulations on hazardous chemical waste disposal.",
     "indonesian_meaning": "Memberlakukan regulasi dan aturan yang sangat ketat",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 291,
-    "question_text": "levy heavy taxes",
-    "audio_transcript": "To impose substantial tax duties on specific goods or corporate earnings.",
+    "question_text": "Levy heavy taxes",
+    "audio_transcript": "Governments should levy heavy taxes on sugary beverages to curb childhood obesity.",
     "indonesian_meaning": "Membebankan pungutan pajak yang tinggi",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 292,
-    "question_text": "enforce compliance",
-    "audio_transcript": "To compel adherence to a law, specification, or policy standard.",
+    "question_text": "Enforce compliance",
+    "audio_transcript": "Environmental inspectors must carry out unannounced audits to enforce compliance with emissions caps.",
     "indonesian_meaning": "Menegakkan kepatuhan hukum secara tegas",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 293,
-    "question_text": "provide financial incentives",
-    "audio_transcript": "To offer monetary rewards or rebates to encourage desirable behaviors.",
+    "question_text": "Provide financial incentives",
+    "audio_transcript": "Providing financial incentives for solar rooftop installations stimulated broad residential adoption.",
     "indonesian_meaning": "Memberikan insentif finansial pendorong",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 294,
-    "question_text": "safeguard public interests",
-    "audio_transcript": "To protect the welfare, rights, and well-being of the wider community.",
+    "question_text": "Safeguard public interests",
+    "audio_transcript": "Independent regulatory agencies exist to safeguard public interests against monopolies.",
     "indonesian_meaning": "Melindungi dan menjaga kepentingan masyarakat umum",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 295,
-    "question_text": "ensure accountability",
-    "audio_transcript": "To make certain that individuals or organizations take responsibility for their conduct.",
+    "question_text": "Ensure accountability",
+    "audio_transcript": "Independent anti-corruption watchdogs are essential to ensure accountability in public spending.",
     "indonesian_meaning": "Memastikan pertanggungjawaban yang jelas dan transparan",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 296,
-    "question_text": "foster international cooperation",
-    "audio_transcript": "To encourage and nurture collaborative partnership among multiple nations.",
+    "question_text": "Foster international cooperation",
+    "audio_transcript": "Global crises like pandemics require leaders to foster international cooperation rather than isolationism.",
     "indonesian_meaning": "Memupuk dan mempererat kerja sama lintas negara",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 297,
-    "question_text": "tackle global challenges",
-    "audio_transcript": "To make determined efforts to deal with and resolve worldwide problems.",
+    "question_text": "Tackle global challenges",
+    "audio_transcript": "Cross-border scientific alliances are pivotal to tackle global challenges such as antibiotic resistance.",
     "indonesian_meaning": "Mengatasi dan menuntaskan tantangan-tantangan dunia",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 298,
-    "question_text": "combat climate change",
-    "audio_transcript": "To take collective, aggressive measures against the warming of the planet.",
+    "question_text": "Combat climate change",
+    "audio_transcript": "Reforestation and renewable energy are two of the most cost-effective strategies to combat climate change.",
     "indonesian_meaning": "Memerangi dan menekan laju krisis perubahan iklim",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 299,
-    "question_text": "stem the flow of",
-    "audio_transcript": "To restrict or stop an unwanted influx or stream of something undesirable.",
+    "question_text": "Stem the flow of",
+    "audio_transcript": "Tighter financial regulations aim to stem the flow of illicit money into overseas tax havens.",
     "indonesian_meaning": "Membendung dan menghentikan arus aliran hal yang buruk",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 300,
-    "question_text": "tip the scales in favor of",
-    "audio_transcript": "To make one outcome much more likely to succeed than another.",
+    "question_text": "Tip the scales in favor of",
+    "audio_transcript": "Acquiring a high IELTS score can tip the scales in favor of winning an international scholarship.",
     "indonesian_meaning": "Mengubah perimbangan keadaan menjadi menguntungkan suatu pihak",
     "context_location": "Part 1-3",
     "level": "B2"
   },
   {
     "id": 301,
-    "question_text": "academic attainment",
-    "audio_transcript": "The degree of educational success attained by an individual as demonstrated by qualifications.",
+    "question_text": "Academic attainment",
+    "audio_transcript": "Parental engagement directly correlates with higher levels of academic attainment among pupils.",
     "indonesian_meaning": "Pencapaian dan prestasi di bidang akademis",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 302,
-    "question_text": "cognitive development",
-    "audio_transcript": "The construction of thought processes, including remembering, problem solving, and decision-making.",
+    "question_text": "Cognitive development",
+    "audio_transcript": "Interactive play in early childhood is pivotal for healthy cognitive development.",
     "indonesian_meaning": "Perkembangan daya pikir dan nalar anak",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 303,
-    "question_text": "emotional intelligence",
-    "audio_transcript": "The capacity to be aware of, control, and express ones emotions, and to handle interpersonal relationships judiciously.",
+    "question_text": "Emotional intelligence",
+    "audio_transcript": "Employers increasingly prioritize emotional intelligence alongside technical credentials.",
     "indonesian_meaning": "Kecerdasan emosional dalam mengelola perasaan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 304,
-    "question_text": "lifelong learning",
-    "audio_transcript": "The ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.",
+    "question_text": "Lifelong learning",
+    "audio_transcript": "The rapid pace of technological change necessitates a mindset of continuous lifelong learning.",
     "indonesian_meaning": "Belajar seumur hidup tanpa henti",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 305,
-    "question_text": "urbanization",
-    "audio_transcript": "The process of making an area more urban; the progressive movement of populations into cities.",
+    "question_text": "Urbanization",
+    "audio_transcript": "Uncontrolled urbanization often outpaces municipal capacity to deliver sanitation and clean water.",
     "indonesian_meaning": "Proses migrasi penduduk dan pemekaran daerah perkotaan",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 306,
-    "question_text": "urban sprawl",
-    "audio_transcript": "The uncontrolled expansion of urban areas into surrounding agricultural lands and natural habitats.",
+    "question_text": "Urban sprawl",
+    "audio_transcript": "Urban sprawl consumes fertile agricultural farmland and exacerbates commuter traffic.",
     "indonesian_meaning": "Pemekaran wilayah kota yang melebar tanpa kendali teratur",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 307,
-    "question_text": "civic engagement",
-    "audio_transcript": "Individual and collective actions designed to identify and address issues of public concern.",
+    "question_text": "Civic engagement",
+    "audio_transcript": "Volunteering for local neighborhood charities stimulates healthy civic engagement.",
     "indonesian_meaning": "Keterlibatan aktif warga dalam kehidupan sosial masyarakat",
     "context_location": "Task 2",
     "level": "B2"
   },
   {
     "id": 308,
-    "question_text": "consumer culture",
-    "audio_transcript": "A form of material culture facilitated by the market, which creates a particular relationship between the consumer and the goods.",
+    "question_text": "Consumer culture",
+    "audio_transcript": "Pervasive social media advertising fuels a relentless consumer culture among youth.",
     "indonesian_meaning": "Budaya konsumtif yang mementingkan kepemilikan materi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 309,
-    "question_text": "materialistic society",
-    "audio_transcript": "A society in which people attach excessive value to possessions and physical comfort over spiritual or moral values.",
+    "question_text": "Materialistic society",
+    "audio_transcript": "In an increasingly materialistic society, social status is frequently judged by conspicuous wealth.",
     "indonesian_meaning": "Masyarakat materialistis yang mengukur segala hal dari materi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 310,
-    "question_text": "gender equality",
-    "audio_transcript": "The state of equal ease of access to resources and opportunities regardless of gender.",
+    "question_text": "Gender equality",
+    "audio_transcript": "Gender equality in corporate boardrooms enhances financial resilience and strategic decision-making.",
     "indonesian_meaning": "Kesetaraan hak dan peluang antara perempuan dan laki-laki",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 311,
-    "question_text": "generational gap",
-    "audio_transcript": "A difference in opinions, values, and behaviors between people of different generations.",
+    "question_text": "Generational gap",
+    "audio_transcript": "Differing attitudes towards remote work highlight a growing generational gap in corporate offices.",
     "indonesian_meaning": "Kesenjangan perbedaan pemikiran antargenerasi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 312,
-    "question_text": "mental wellbeing",
-    "audio_transcript": "The state of thriving mentally, emotionally, and socially.",
+    "question_text": "Mental wellbeing",
+    "audio_transcript": "Workplace cultures that discourage overtime work directly safeguard employee mental wellbeing.",
     "indonesian_meaning": "Kesejahteraan dan kesehatan mental emosional",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 313,
-    "question_text": "work-life balance",
-    "audio_transcript": "The division of ones time and focus between working and family or leisure activities.",
+    "question_text": "Work-life balance",
+    "audio_transcript": "Flexible remote work options enable parents to maintain a healthy work-life balance.",
     "indonesian_meaning": "Keseimbangan harmonis antara urusan kerja dan kehidupan pribadi",
     "context_location": "Task 2",
     "level": "A1"
   },
   {
     "id": 314,
-    "question_text": "sedentary lifestyle",
-    "audio_transcript": "A lifestyle characterized by sitting down for long periods with little physical exercise.",
+    "question_text": "Sedentary lifestyle",
+    "audio_transcript": "Adopting a sedentary lifestyle dramatically increases the likelihood of cardiovascular ailments.",
     "indonesian_meaning": "Pola hidup kurang gerak dan pasif fisik",
     "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 315,
+    "question_text": "Chair",
+    "audio_transcript": "Please pull up a wooden chair and sit near the registration desk.",
+    "indonesian_meaning": "Kursi",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 316,
+    "question_text": "Armchair",
+    "audio_transcript": "The hotel lounge features a cozy armchair right beside the fireplace.",
+    "indonesian_meaning": "Kursi berlengan empuk",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 317,
+    "question_text": "Bench",
+    "audio_transcript": "We agreed to meet at the memorial bench near the botanical garden entrance.",
+    "indonesian_meaning": "Bangku panjang",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 318,
+    "question_text": "Stool",
+    "audio_transcript": "Laboratory students were instructed to sit on an adjustable high stool.",
+    "indonesian_meaning": "Bangku tanpa sandaran",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 319,
+    "question_text": "Drawer",
+    "audio_transcript": "Extra stationery and room keys are stored in the top desk drawer.",
+    "indonesian_meaning": "Laci",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 320,
+    "question_text": "Cupboard",
+    "audio_transcript": "Clean cutlery and plates are kept inside the kitchen cupboard.",
+    "indonesian_meaning": "Lemari berpintu (piring / perabot)",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 321,
+    "question_text": "Shelf",
+    "audio_transcript": "The library catalogue books are arranged alphabetically on the bottom shelf.",
+    "indonesian_meaning": "Rak dinding / rak buku",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 322,
+    "question_text": "Curtain",
+    "audio_transcript": "She pulled the heavy blackout curtain shut to block the midday glare.",
+    "indonesian_meaning": "Tirai / gorden jendela",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 323,
+    "question_text": "Tap",
+    "audio_transcript": "The tenant reported a dripping tap in the shared bathroom to maintenance.",
+    "indonesian_meaning": "Keran air",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 324,
+    "question_text": "Pipe",
+    "audio_transcript": "An underground burst pipe caused a temporary interruption to the water supply.",
+    "indonesian_meaning": "Pipa saluran air / gas",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 325,
+    "question_text": "Ceiling",
+    "audio_transcript": "The seminar room features high acoustic tiles across the whole ceiling.",
+    "indonesian_meaning": "Langit-langit ruangan / plafon",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 326,
+    "question_text": "Appliance",
+    "audio_transcript": "Modern kitchens are equipped with energy-efficient electrical appliances.",
+    "indonesian_meaning": "Peralatan elektronik rumah tangga",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 327,
+    "question_text": "Cutlery",
+    "audio_transcript": "Please ensure that stainless steel cutlery is set on every banquet table.",
+    "indonesian_meaning": "Peralatan makan (sendok, garpu, pisau)",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 328,
+    "question_text": "Basin",
+    "audio_transcript": "The ensuite guest bedroom includes a private wash basin and shower cubicle.",
+    "indonesian_meaning": "Wastafel / bak cuci tangan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 329,
+    "question_text": "Blanket",
+    "audio_transcript": "Extra woollen blankets are provided in the guest wardrobe upon request.",
+    "indonesian_meaning": "Selimut tebal",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 330,
+    "question_text": "Water",
+    "audio_transcript": "Access to clean drinking water is vital for preventing waterborne diseases.",
+    "indonesian_meaning": "Air",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 331,
+    "question_text": "Moisture",
+    "audio_transcript": "The dense forest canopy retains high levels of ground moisture during dry months.",
+    "indonesian_meaning": "Kelembapan / kandungan uap air",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "question_text": "Droplet",
+    "audio_transcript": "Morning mist formed tiny water droplets on the surface of plant leaves.",
+    "indonesian_meaning": "Tetesan air kecil",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "question_text": "Stream",
+    "audio_transcript": "Hikers followed a clear freshwater stream flowing down from the alpine ridge.",
+    "indonesian_meaning": "Anak sungai / aliran air kecil",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 334,
+    "question_text": "Wind",
+    "audio_transcript": "Offshore wind turbines harness ocean wind to generate sustainable electricity.",
+    "indonesian_meaning": "Angin",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 335,
+    "question_text": "Breeze",
+    "audio_transcript": "A cool coastal breeze kept the beach campsite remarkably comfortable all afternoon.",
+    "indonesian_meaning": "Angin sepoi-sepoi yang sejuk",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 336,
+    "question_text": "Gust",
+    "audio_transcript": "Sudden gusts of wind caused temporary flight cancellations at the airport.",
+    "indonesian_meaning": "Hembusan angin kencang mendadak",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "question_text": "Gale",
+    "audio_transcript": "A gale-force storm battered the western coastline, uprooting several ancient trees.",
+    "indonesian_meaning": "Angin ribut / badai kencang",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "question_text": "Drizzle",
+    "audio_transcript": "Despite the persistent drizzle, the guided walking tour proceeded as scheduled.",
+    "indonesian_meaning": "Hujan gerimis rintik-rintik",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 339,
+    "question_text": "Drought",
+    "audio_transcript": "A multi-year drought severely crippled regional crop yields and livestock farming.",
+    "indonesian_meaning": "Kekeringan / kemarau panjang",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "question_text": "Humidity",
+    "audio_transcript": "High relative humidity in tropical rainforests accelerates organic decomposition.",
+    "indonesian_meaning": "Kelembapan udara",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "question_text": "Precipitation",
+    "audio_transcript": "Annual precipitation in the mountainous basin exceeds two thousand millimeters.",
+    "indonesian_meaning": "Curah hujan / presipitasi atmosfer",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "question_text": "Wing",
+    "audio_transcript": "The albatross has an immense wingspan that allows it to glide effortlessly over ocean waves.",
+    "indonesian_meaning": "Sayap",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 343,
+    "question_text": "Beak",
+    "audio_transcript": "The finch has evolved a stout beak adapted for cracking open tough seeds.",
+    "indonesian_meaning": "Paruh burung",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 344,
+    "question_text": "Claw",
+    "audio_transcript": "Eagles use their sharp curved claws to seize slippery fish from the river surface.",
+    "indonesian_meaning": "Cakar hewan / cakar burung",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 345,
+    "question_text": "Fur",
+    "audio_transcript": "Polar bears possess dense water-repellent fur that traps heat in sub-zero temperatures.",
+    "indonesian_meaning": "Bulu halus dan tebal pada mamalia",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 346,
+    "question_text": "Feather",
+    "audio_transcript": "Waterfowl coat their outer feathers with natural oil to stay buoyant.",
+    "indonesian_meaning": "Bulu helai pada unggas / burung",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 347,
+    "question_text": "Plumage",
+    "audio_transcript": "Male peacocks display brilliant iridescent plumage to attract potential mates.",
+    "indonesian_meaning": "Rangkaian bulu indah burung",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "question_text": "Scales",
+    "audio_transcript": "Reptilian scales minimize water loss in arid desert environments.",
+    "indonesian_meaning": "Sisik ikan / sisik reptil",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 349,
+    "question_text": "Gills",
+    "audio_transcript": "Water passes across the delicate gill filaments where dissolved oxygen enters the bloodstream.",
+    "indonesian_meaning": "Insang ikan untuk bernapas",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 350,
+    "question_text": "Tail",
+    "audio_transcript": "Kangaroos rely on a muscular tail to maintain balance while hopping at high speeds.",
+    "indonesian_meaning": "Ekor hewan",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 351,
+    "question_text": "Predator",
+    "audio_transcript": "Wolves operate as apex predators, keeping deer populations at sustainable levels.",
+    "indonesian_meaning": "Hewan pemangsa",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "question_text": "Prey",
+    "audio_transcript": "Camouflaged insects avoid falling prey to insect-eating songbirds.",
+    "indonesian_meaning": "Hewan mangsa / buruan",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "question_text": "Mammal",
+    "audio_transcript": "Whales and dolphins are marine mammals that breathe atmospheric air through blowholes.",
+    "indonesian_meaning": "Mamalia / hewan menyusui",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 354,
+    "question_text": "Reptile",
+    "audio_transcript": "Unlike amphibians, reptiles produce amniotic eggs with tough protective shells.",
+    "indonesian_meaning": "Reptil / hewan melata",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 355,
+    "question_text": "Hibernate",
+    "audio_transcript": "Bears hibernate in insulated dens to conserve metabolic energy through freezing winters.",
+    "indonesian_meaning": "Melakukan hibernasi (tidur musim dingin)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "question_text": "Migrate",
+    "audio_transcript": "Thousands of migratory geese fly south along coastal flyways ahead of winter frost.",
+    "indonesian_meaning": "Bermigrasi / berpindah musiman",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "question_text": "Camouflage",
+    "audio_transcript": "The chameleon alters its skin pigmentation as effective camouflage against tree bark.",
+    "indonesian_meaning": "Kamuflase / menyamar dengan alam",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "question_text": "Nocturnal",
+    "audio_transcript": "Owls possess acute hearing and large pupils suited for their nocturnal hunting habits.",
+    "indonesian_meaning": "Aktif di malam hari (nokturnal)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "question_text": "Burrow",
+    "audio_transcript": "Rabbits quickly retreated into their underground burrow when an eagle circled overhead.",
+    "indonesian_meaning": "Liang / lubang tanah tempat tinggal hewan",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "question_text": "Nest",
+    "audio_transcript": "Swallows construct a mud nest beneath the protective eaves of the farmhouse.",
+    "indonesian_meaning": "Sarang burung atau serangga",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 361,
+    "question_text": "Crispy",
+    "audio_transcript": "The bakery is famous for its artisanal baguettes with a golden crispy crust.",
+    "indonesian_meaning": "Renyah dan garing",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "question_text": "Crunchy",
+    "audio_transcript": "Fresh raw carrots and bell peppers provide a satisfying crunchy salad texture.",
+    "indonesian_meaning": "Garing berbunyi saat dikunyah",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "question_text": "Tender",
+    "audio_transcript": "Slow cooking the beef stew for three hours produced tender and succulent meat.",
+    "indonesian_meaning": "Empuk dan lembut (mudah dikunyah)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "question_text": "Fluffy",
+    "audio_transcript": "She prepared a plate of warm fluffy pancakes drizzled with pure maple syrup.",
+    "indonesian_meaning": "Ringan, mengembang lembut berpori",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "question_text": "Creamy",
+    "audio_transcript": "The pasta was served in a rich creamy mushroom sauce garnished with parsley.",
+    "indonesian_meaning": "Lembut kental gurih (seperti krim)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "question_text": "Savoury",
+    "audio_transcript": "After eating sugary desserts, I prefer balancing my palate with savoury pastries.",
+    "indonesian_meaning": "Gurih / sedap (tidak manis)",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 367,
+    "question_text": "Sour",
+    "audio_transcript": "Unripe green apples have an intensely sour taste that puckers your mouth.",
+    "indonesian_meaning": "Asam (seperti lemon atau cuka)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "question_text": "Bitter",
+    "audio_transcript": "Dark chocolate contains less sugar and retains a rich, slightly bitter flavor profile.",
+    "indonesian_meaning": "Pahit",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "question_text": "Bland",
+    "audio_transcript": "Hospital porridge tasted rather bland because no salt or herbs had been added.",
+    "indonesian_meaning": "Hambar / kurang rasa dan bumbu",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 370,
+    "question_text": "Chewy",
+    "audio_transcript": "Traditional chocolate chip cookies should be slightly crunchy outside yet chewy inside.",
+    "indonesian_meaning": "Kenyal dan butuh banyak kunyahan",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "question_text": "Tough",
+    "audio_transcript": "The overcooked steak became dry and tough to chew.",
+    "indonesian_meaning": "Alot / keras dan susah dikunyah",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "question_text": "Stale",
+    "audio_transcript": "Do not throw away stale sourdough bread; you can toast it into salad croutons.",
+    "indonesian_meaning": "Basi / apek / tidak segar (untuk roti/makanan)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "question_text": "Spicy",
+    "audio_transcript": "Southeast Asian cuisine is renowned globally for its fragrant and spicy street curries.",
+    "indonesian_meaning": "Pedas berbumbu",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "question_text": "Ripe",
+    "audio_transcript": "Sweet fragrant mangos are best harvested when fully ripe on the tree.",
+    "indonesian_meaning": "Matang (untuk buah-buahan)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "question_text": "Juicy",
+    "audio_transcript": "Watermelons and oranges provide a refreshing, juicy snack during hot summer days.",
+    "indonesian_meaning": "Berair segar dan manis ketika digigit",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "question_text": "Nutrient",
+    "audio_transcript": "Steaming vegetables rather than boiling them helps preserve vital micronutrients.",
+    "indonesian_meaning": "Zat gizi penting bagi tubuh",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 377,
+    "question_text": "Dietary fiber",
+    "audio_transcript": "Dietitians emphasize consuming whole grains to ensure adequate daily dietary fiber.",
+    "indonesian_meaning": "Serat pangan untuk pencernaan",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 378,
+    "question_text": "Preservative",
+    "audio_transcript": "Consumers increasingly seek organic groceries produced without synthetic chemical preservatives.",
+    "indonesian_meaning": "Bahan pengawet makanan",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 379,
+    "question_text": "Forest",
+    "audio_transcript": "Temperate forests play an indispensable role in sequestering carbon dioxide globally.",
+    "indonesian_meaning": "Hutan lebat",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "question_text": "Canopy",
+    "audio_transcript": "Many specialized primates and tree frogs spend their entire lifetimes within the jungle canopy.",
+    "indonesian_meaning": "Kanopi tajuk daun paling atas hutan",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 381,
+    "question_text": "Foliage",
+    "audio_transcript": "In autumn, the maple foliage turns magnificent shades of amber, scarlet, and gold.",
+    "indonesian_meaning": "Dedaunan rimbun pada pohon",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 382,
+    "question_text": "Woodland",
+    "audio_transcript": "The community charity restored twenty hectares of native oak woodland for public walking trails.",
+    "indonesian_meaning": "Hutan terbuka berpohon renggang",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "question_text": "Undergrowth",
+    "audio_transcript": "Wild boars search through the thick undergrowth for fallen nuts and fungal tubers.",
+    "indonesian_meaning": "Semak belukar di lantai hutan",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 384,
+    "question_text": "Timber",
+    "audio_transcript": "Sustainable timber harvesting ensures that new saplings are replanted for every felled tree.",
+    "indonesian_meaning": "Kayu olahan / kayu gelondongan bangunan",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 385,
+    "question_text": "Logging",
+    "audio_transcript": "Uncontrolled illegal logging threatens the ancestral habitat of critically endangered orangutans.",
+    "indonesian_meaning": "Penebangan pohon komersial",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 386,
+    "question_text": "Trunk",
+    "audio_transcript": "Ancient redwood trunks can span upwards of nine meters in diameter.",
+    "indonesian_meaning": "Batang pohon utama",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "question_text": "Bark",
+    "audio_transcript": "Aspirin was historically synthesized from salicylic acid discovered in willow bark.",
+    "indonesian_meaning": "Kulit luar batang pohon",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "question_text": "Branch",
+    "audio_transcript": "Monkeys leap swiftly between sturdy tree branches across the forest canopy.",
+    "indonesian_meaning": "Cabang / dahan pohon",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "question_text": "Twig",
+    "audio_transcript": "Magpies gather dry twigs and moss to weave sturdy outdoor nests.",
+    "indonesian_meaning": "Ranting pohon kecil",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "question_text": "Root",
+    "audio_transcript": "Mangrove roots form an intricate tangled barrier that prevents coastal soil erosion.",
+    "indonesian_meaning": "Akar tanaman / pohon",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "question_text": "Moss",
+    "audio_transcript": "Soft green moss covered the damp limestone boulders beside the waterfall.",
+    "indonesian_meaning": "Lumut hijau",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 392,
+    "question_text": "Biodiversity",
+    "audio_transcript": "Tropical wetlands sustain exceptional biodiversity crucial for ecological equilibrium.",
+    "indonesian_meaning": "Keanekaragaman hayati makhluk hidup",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 393,
+    "question_text": "Curriculum",
+    "audio_transcript": "Educational authorities revised the secondary school curriculum to include practical digital skills.",
+    "indonesian_meaning": "Kurikulum rencana pembelajaran",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 394,
+    "question_text": "Tuition",
+    "audio_transcript": "Soaring university tuition fees have sparked intense parliamentary debate over student debt.",
+    "indonesian_meaning": "Biaya kuliah / biaya pengajaran",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 395,
+    "question_text": "Scholarship",
+    "audio_transcript": "She won a prestigious full scholarship covering postgraduate study at Oxford.",
+    "indonesian_meaning": "Beasiswa bantuan dana pendidikan",
+    "context_location": "Education",
+    "level": "A1"
+  },
+  {
+    "id": 396,
+    "question_text": "Lecture",
+    "audio_transcript": "Professor Higgins delivered a fascinating introductory lecture on quantum physics.",
+    "indonesian_meaning": "Kuliah tatap muka / ceramah ilmiah",
+    "context_location": "Education",
+    "level": "A1"
+  },
+  {
+    "id": 397,
+    "question_text": "Tutorial",
+    "audio_transcript": "Weekly tutorials encourage undergraduate students to debate and defend their essay hypotheses.",
+    "indonesian_meaning": "Kelas bimbingan diskusi kelompok kecil",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 398,
+    "question_text": "Dormitory",
+    "audio_transcript": "First-year foreign students are guaranteed accommodation in the on-campus dormitory.",
+    "indonesian_meaning": "Asrama mahasiswa",
+    "context_location": "Education",
+    "level": "A1"
+  },
+  {
+    "id": 399,
+    "question_text": "Dissertation",
+    "audio_transcript": "Final-year master's students must submit an eight-thousand-word dissertation by May.",
+    "indonesian_meaning": "Disertasi / tesis penelitian akhir",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 400,
+    "question_text": "Literacy",
+    "audio_transcript": "Community night classes substantially improved adult literacy rates across the rural district.",
+    "indonesian_meaning": "Kemampuan melek huruf / literasi",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 401,
+    "question_text": "Syllabus",
+    "audio_transcript": "The syllabus clearly states reading assignments, lab deadlines, and grading criteria.",
+    "indonesian_meaning": "Silabus ringkasan rencana mata kuliah",
+    "context_location": "Education",
+    "level": "B2"
+  },
+  {
+    "id": 402,
+    "question_text": "Community",
+    "audio_transcript": "The local community rallied together to convert the abandoned railway into a public park.",
+    "indonesian_meaning": "Masyarakat lokal / komunitas",
+    "context_location": "Society",
+    "level": "A1"
+  },
+  {
+    "id": 403,
+    "question_text": "Citizen",
+    "audio_transcript": "Every law-abiding citizen has a civic duty to participate in municipal elections.",
+    "indonesian_meaning": "Warga negara yang sah",
+    "context_location": "Society",
+    "level": "A1"
+  },
+  {
+    "id": 404,
+    "question_text": "Demographic",
+    "audio_transcript": "An ageing demographic has placed severe logistical strain on elderly social care services.",
+    "indonesian_meaning": "Demografi / data kependudukan",
+    "context_location": "Society",
+    "level": "B2"
+  },
+  {
+    "id": 405,
+    "question_text": "Welfare",
+    "audio_transcript": "The government launched a comprehensive welfare package supporting low-income families.",
+    "indonesian_meaning": "Kesejahteraan sosial / bantuan masyarakat",
+    "context_location": "Society",
+    "level": "B2"
+  },
+  {
+    "id": 406,
+    "question_text": "Volunteer",
+    "audio_transcript": "Medical volunteers provided free health screenings to hundreds of flood victims.",
+    "indonesian_meaning": "Sukarelawan / bekerja sukarela",
+    "context_location": "Society",
+    "level": "A1"
+  },
+  {
+    "id": 407,
+    "question_text": "Inequality",
+    "audio_transcript": "Income inequality between metropolitan centers and rural villages continues to widen.",
+    "indonesian_meaning": "Ketimpangan / kesenjangan sosial",
+    "context_location": "Society",
+    "level": "B2"
+  },
+  {
+    "id": 408,
+    "question_text": "Diversity",
+    "audio_transcript": "Cultural diversity on modern university campuses enriches student perspectives immensely.",
+    "indonesian_meaning": "Keberagaman latar belakang",
+    "context_location": "Society",
+    "level": "B2"
+  },
+  {
+    "id": 409,
+    "question_text": "Symptom",
+    "audio_transcript": "Patients presenting with persistent coughing and mild fever should get tested immediately.",
+    "indonesian_meaning": "Gejala penyakit yang dirasakan",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 410,
+    "question_text": "Diagnosis",
+    "audio_transcript": "Early diagnosis significantly boosts recovery chances for cardiovascular conditions.",
+    "indonesian_meaning": "Diagnosis penetapan penyakit",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 411,
+    "question_text": "Prescription",
+    "audio_transcript": "You need to show a signed doctor's prescription to collect antibiotics at the chemist.",
+    "indonesian_meaning": "Resep obat tertulis dari dokter",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 412,
+    "question_text": "Treatment",
+    "audio_transcript": "Physiotherapy treatment alleviated his chronic lumbar spinal stiffness.",
+    "indonesian_meaning": "Pengobatan / perawatan medis",
+    "context_location": "Health",
+    "level": "A1"
+  },
+  {
+    "id": 413,
+    "question_text": "Immunity",
+    "audio_transcript": "Childhood vaccinations confer long-lasting immunity against contagious measles.",
+    "indonesian_meaning": "Daya tahan tubuh / kekebalan",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 414,
+    "question_text": "Sedentary",
+    "audio_transcript": "A sedentary desk-bound lifestyle sharply elevates the lifetime risk of cardiovascular disorders.",
+    "indonesian_meaning": "Kurang bergerak / pasif (gaya hidup)",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 415,
+    "question_text": "Fatigue",
+    "audio_transcript": "Chronic fatigue and concentration loss are classic symptoms of severe sleep deprivation.",
+    "indonesian_meaning": "Kelelahan luar biasa fisik/mental",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 416,
+    "question_text": "Hygiene",
+    "audio_transcript": "Rigorous kitchen hygiene prevents pathogenic cross-contamination in commercial catering.",
+    "indonesian_meaning": "Kebersihan diri dan sanitasi",
+    "context_location": "Health",
+    "level": "B2"
+  },
+  {
+    "id": 417,
+    "question_text": "Itinerary",
+    "audio_transcript": "Our seven-day holiday itinerary includes guided visits to museums and historic castles.",
+    "indonesian_meaning": "Jadwal rencana perjalanan terperinci",
+    "context_location": "Travel & Transport",
+    "level": "B2"
+  },
+  {
+    "id": 418,
+    "question_text": "Commute",
+    "audio_transcript": "Expanding high-speed metro lines has halved the daily commute time for suburban workers.",
+    "indonesian_meaning": "Perjalanan rutin rumah ke kantor",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 419,
+    "question_text": "Destination",
+    "audio_transcript": "Bali remains one of Southeast Asia's most coveted tropical holiday destinations.",
+    "indonesian_meaning": "Tempat tujuan akhir perjalanan",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 420,
+    "question_text": "Fare",
+    "audio_transcript": "Students and pensioners are entitled to concessionary half-price bus fares.",
+    "indonesian_meaning": "Tarif ongkos tiket angkutan umum",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 421,
+    "question_text": "Congestion",
+    "audio_transcript": "Introducing an inner-city congestion charge discouraged private car usage during rush hours.",
+    "indonesian_meaning": "Kemacetan padat lalu lintas jalan raya",
+    "context_location": "Travel & Transport",
+    "level": "B2"
+  },
+  {
+    "id": 422,
+    "question_text": "Baggage",
+    "audio_transcript": "Passengers were reminded not to leave unattended baggage in the departures terminal.",
+    "indonesian_meaning": "Barang bawaan / koper pelancong",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 423,
+    "question_text": "Departure",
+    "audio_transcript": "The departure board indicated that our express train to Edinburgh was on schedule.",
+    "indonesian_meaning": "Keberangkatan",
+    "context_location": "Travel & Transport",
+    "level": "A1"
+  },
+  {
+    "id": 424,
+    "question_text": "Occupation",
+    "audio_transcript": "Applicants must state their primary occupation and current annual earnings on the visa form.",
+    "indonesian_meaning": "Profesi / jenis pekerjaan tetap",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 425,
+    "question_text": "Colleague",
+    "audio_transcript": "I collaborated closely with senior engineering colleagues to design the safety protocol.",
+    "indonesian_meaning": "Rekan kerja sekantor",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 426,
+    "question_text": "Promotion",
+    "audio_transcript": "Her exceptional leadership skills earned her a well-deserved promotion to department director.",
+    "indonesian_meaning": "Kenaikan jabatan / promosi karir",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 427,
+    "question_text": "Resignation",
+    "audio_transcript": "The managing director tendered his formal letter of resignation at the board meeting.",
+    "indonesian_meaning": "Pengunduran diri resmi dari pekerjaan",
+    "context_location": "Work & Career",
+    "level": "B2"
+  },
+  {
+    "id": 428,
+    "question_text": "Overtime",
+    "audio_transcript": "Employees working voluntary weekend overtime receive time-and-a-half compensation.",
+    "indonesian_meaning": "Kerja lembur di luar jam kerja",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 429,
+    "question_text": "Freelance",
+    "audio_transcript": "Many graphic designers and translators thrive under a flexible freelance working model.",
+    "indonesian_meaning": "Pekerja lepas independen (tanpa ikatan kontrak)",
+    "context_location": "Work & Career",
+    "level": "A1"
+  },
+  {
+    "id": 430,
+    "question_text": "Pension",
+    "audio_transcript": "Financial advisors urge young professionals to contribute early to private occupational pension plans.",
+    "indonesian_meaning": "Dana pensiun hari tua",
+    "context_location": "Work & Career",
+    "level": "B2"
+  },
+  {
+    "id": 431,
+    "question_text": "Workforce",
+    "audio_transcript": "Automation will require retraining a substantial proportion of the manufacturing workforce.",
+    "indonesian_meaning": "Angkatan kerja / seluruh tenaga kerja",
+    "context_location": "Work & Career",
+    "level": "B2"
+  },
+  {
+    "id": 432,
+    "question_text": "Automated",
+    "audio_transcript": "The warehouse uses fully automated guided vehicles to sort and dispatch packages.",
+    "indonesian_meaning": "Otomatis / bekerja dengan kendali mesin",
+    "context_location": "Technology",
+    "level": "B2"
+  },
+  {
+    "id": 433,
+    "question_text": "Device",
+    "audio_transcript": "Mobile handheld devices have revolutionized access to educational resources worldwide.",
+    "indonesian_meaning": "Perangkat keras / gawai elektronik",
+    "context_location": "Technology",
+    "level": "A1"
+  },
+  {
+    "id": 434,
+    "question_text": "Breakthrough",
+    "audio_transcript": "Scientists hailed the novel gene-editing technique as a monumental medical breakthrough.",
+    "indonesian_meaning": "Terobosan besar penemuan baru",
+    "context_location": "Technology",
+    "level": "B2"
+  },
+  {
+    "id": 435,
+    "question_text": "Wireless",
+    "audio_transcript": "Campus libraries provide ultra-fast wireless internet access across all study zones.",
+    "indonesian_meaning": "Nirkabel / tanpa sambungan kabel",
+    "context_location": "Technology",
+    "level": "A1"
+  },
+  {
+    "id": 436,
+    "question_text": "Pillow",
+    "audio_transcript": "The hotel receptionist kindly provided an extra ergonomic feather pillow.",
+    "indonesian_meaning": "Bantal kepala untuk tidur",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 437,
+    "question_text": "Cushion",
+    "audio_transcript": "Velvet decorative cushions were neatly arranged along the living room sofa.",
+    "indonesian_meaning": "Bantal sofa / bantalan duduk empuk",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 438,
+    "question_text": "Mirror",
+    "audio_transcript": "A large illuminated mirror is mounted above the twin bathroom sinks.",
+    "indonesian_meaning": "Cermin pantul",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 439,
+    "question_text": "Wardrobe",
+    "audio_transcript": "The master bedroom features a spacious fitted wardrobe with sliding mirror doors.",
+    "indonesian_meaning": "Lemari gantungan pakaian",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 440,
+    "question_text": "Carpet",
+    "audio_transcript": "The conference auditorium is fitted with sound-absorbing woollen carpet.",
+    "indonesian_meaning": "Karpet penutup lantai tebal",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 441,
+    "question_text": "Socket",
+    "audio_transcript": "Every study cubicle in the campus library has an individual power socket for laptops.",
+    "indonesian_meaning": "Stopkontak colokan listrik",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 442,
+    "question_text": "Balcony",
+    "audio_transcript": "Guests can enjoy panoramic ocean views directly from their private hotel balcony.",
+    "indonesian_meaning": "Balkon teras atas",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 443,
+    "question_text": "Basement",
+    "audio_transcript": "The sports center includes a heated swimming pool located on the basement level.",
+    "indonesian_meaning": "Ruang bawah tanah gedung",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 444,
+    "question_text": "Utensil",
+    "audio_transcript": "Wooden cooking utensils are gentle on non-stick frying pans and prevent scratches.",
+    "indonesian_meaning": "Peralatan dapur / peranti masak",
+    "context_location": "Daily Objects",
+    "level": "B2"
+  },
+  {
+    "id": 445,
+    "question_text": "Talon",
+    "audio_transcript": "The osprey extended its razor-sharp talons as it dove towards the water surface.",
+    "indonesian_meaning": "Kuku cakar burung pemangsa",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 446,
+    "question_text": "Antler",
+    "audio_transcript": "Male red deer shed and regrow their massive branched antlers each spring.",
+    "indonesian_meaning": "Tanduk bercabang pada rusa",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 447,
+    "question_text": "Snout",
+    "audio_transcript": "Bloodhounds have an elongated snout equipped with millions of olfactory receptors.",
+    "indonesian_meaning": "Moncong hidung hewan yang menonjol",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 448,
+    "question_text": "Paw",
+    "audio_transcript": "The snow leopard has wide furry paws that distribute its body weight over soft snow.",
+    "indonesian_meaning": "Kaki bercakar/berbantalan pada hewan berbulu",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 449,
+    "question_text": "Fin",
+    "audio_transcript": "Sharks utilize their prominent dorsal fin to maintain directional stability while swimming.",
+    "indonesian_meaning": "Sirip ikan untuk berenang",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 450,
+    "question_text": "Shell",
+    "audio_transcript": "Tortoises can retract their limbs completely inside their thick bony shell.",
+    "indonesian_meaning": "Cangkang keras pelindung",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 451,
+    "question_text": "Rodent",
+    "audio_transcript": "Rodents possess continuously growing incisors that require constant gnawing to wear down.",
+    "indonesian_meaning": "Hewan pengerat (tikus, tupai, berang-berang)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "question_text": "Amphibian",
+    "audio_transcript": "Amphibian populations are especially vulnerable to pesticides because of their permeable skin.",
+    "indonesian_meaning": "Hewan amfibi (hidup di darat dan air)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "question_text": "Herbivore",
+    "audio_transcript": "Large savannah herbivores like zebras and antelopes graze on tall dry grasses.",
+    "indonesian_meaning": "Hewan pemakan tumbuhan (herbivora)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "question_text": "Sanctuary",
+    "audio_transcript": "The marine sanctuary protects vulnerable coral reefs from commercial trawling.",
+    "indonesian_meaning": "Kawasan suaka margasatwa / cagar alam",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "question_text": "Velvety",
+    "audio_transcript": "The chef blended the pumpkin soup until it achieved a silky, velvety consistency.",
+    "indonesian_meaning": "Sangat lembut dan halus (seperti kain beludru)",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "question_text": "Pungent",
+    "audio_transcript": "Raw crushed garlic gives off an unmistakable, pungent aroma.",
+    "indonesian_meaning": "Beraroma / berasa sangat tajam menusuk",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "question_text": "Tart",
+    "audio_transcript": "Cranberry sauce provides a delightfully tart contrast to roast poultry.",
+    "indonesian_meaning": "Asam segar sedikit sepat",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "question_text": "Raw",
+    "audio_transcript": "Sushi traditionally pairs thinly sliced raw fish with seasoned vinegared rice.",
+    "indonesian_meaning": "Mentah / belum dimasak",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 459,
+    "question_text": "Seasoning",
+    "audio_transcript": "Taste the soup before serving and adjust the seasoning with freshly cracked pepper.",
+    "indonesian_meaning": "Bumbu penyedap masakan (garam, rempah)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 460,
+    "question_text": "Cuisine",
+    "audio_transcript": "Italian cuisine relies on fresh basil, extra virgin olive oil, and ripe tomatoes.",
+    "indonesian_meaning": "Gaya atau tradisi masakan khas suatu wilayah",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "question_text": "Palatable",
+    "audio_transcript": "Adding honey made the bitter herbal remedy significantly more palatable.",
+    "indonesian_meaning": "Lezat dan enak disantap",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "question_text": "Beverage",
+    "audio_transcript": "Hot caffeinated beverages like tea and espresso are served in the conference foyer.",
+    "indonesian_meaning": "Minuman (selain air putih)",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "question_text": "Edible",
+    "audio_transcript": "Foragers must exercise extreme caution to identify strictly edible wild mushroom varieties.",
+    "indonesian_meaning": "Dapat dimakan / aman dikonsumsi",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "question_text": "Rainforest",
+    "audio_transcript": "The Amazon rainforest produces substantial oxygen and stabilizes global atmospheric currents.",
+    "indonesian_meaning": "Hutan hujan tropis yang lebat dan basah",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 465,
+    "question_text": "Shrub",
+    "audio_transcript": "Desert shrubs develop deep taproots to tap into subterranean water aquifers.",
+    "indonesian_meaning": "Semak / perdu berkayu rendah",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 466,
+    "question_text": "Sapling",
+    "audio_transcript": "Volunteers planted hundreds of native oak saplings across the clear-felled hillside.",
+    "indonesian_meaning": "Bibit pohon muda yang sedang bertumbuh",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "question_text": "Wilderness",
+    "audio_transcript": "The national park preserves vast tracts of pristine Arctic wilderness.",
+    "indonesian_meaning": "Alam liar yang belum terjamah manusia",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "question_text": "Ecosystem",
+    "audio_transcript": "Coral bleaching disrupts the delicate balance of the entire marine ecosystem.",
+    "indonesian_meaning": "Ekosistem hubungan timbal balik makhluk hidup",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "question_text": "Soil",
+    "audio_transcript": "Overgrazing by cattle stripped the protective ground cover and degraded top soil quality.",
+    "indonesian_meaning": "Tanah lapisan atas tempat tanaman tumbuh",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 470,
+    "question_text": "Pond",
+    "audio_transcript": "Ducks and dragonflies inhabit the tranquil lotus pond in the center of the park.",
+    "indonesian_meaning": "Kolam air tenang",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 471,
+    "question_text": "Torrential rain",
+    "audio_transcript": "Torrential rain triggered sudden flash floods across low-lying coastal districts.",
+    "indonesian_meaning": "Hujan sangat lebat seperti dicurahkan",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "question_text": "Frost",
+    "audio_transcript": "An unseasonal late spring frost damaged delicate fruit blossom throughout the valley.",
+    "indonesian_meaning": "Lapisan es beku tipis / embun beku",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "question_text": "Tide",
+    "audio_transcript": "Explorers must consult coastal tide tables to avoid getting trapped on the sandbar.",
+    "indonesian_meaning": "Pasang surut air laut",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 474,
+    "question_text": "Evaporate",
+    "audio_transcript": "Surface moisture quickly evaporates under intense equatorial sunlight.",
+    "indonesian_meaning": "Menguap menjadi uap air",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "question_text": "Smog",
+    "audio_transcript": "Heavy industrial emissions enveloped the metropolis in a hazardous blanket of smog.",
+    "indonesian_meaning": "Kabut asap tebal polusi udara",
+    "context_location": "Weather & Climate",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "question_text": "Kettle",
+    "audio_transcript": "Complimentary tea bags and an electric kettle are placed in every hotel room.",
+    "indonesian_meaning": "Teko pemanas air listrik",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 477,
+    "question_text": "Towel",
+    "audio_transcript": "Fresh fluffy bath towels are replaced daily by the housekeeping team.",
+    "indonesian_meaning": "Handuk mandi / handuk tangan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 478,
+    "question_text": "Corridor",
+    "audio_transcript": "The computer laboratory is located at the far end of the second-floor corridor.",
+    "indonesian_meaning": "Lorong koridor jalan dalam gedung",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 479,
+    "question_text": "Lobby",
+    "audio_transcript": "Please assemble in the central hotel lobby fifteen minutes before departure.",
+    "indonesian_meaning": "Ruang tunggu depan / lobi utama",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 480,
+    "question_text": "Fence",
+    "audio_transcript": "A protective wooden fence keeps deer from entering the botanical nursery.",
+    "indonesian_meaning": "Pagar pembatas pekarangan/lahan",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 481,
+    "question_text": "Gate",
+    "audio_transcript": "The south entrance gate to the campus closes promptly at ten in the evening.",
+    "indonesian_meaning": "Pintu gerbang masuk",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "question_text": "Lock",
+    "audio_transcript": "Residents should verify that the electronic keypad lock has securely engaged.",
+    "indonesian_meaning": "Kunci gembok / pengait pintu",
+    "context_location": "Daily Objects",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "question_text": "Thermostat",
+    "audio_transcript": "Adjusting the room thermostat down by two degrees lowers heating expenditure.",
+    "indonesian_meaning": "Pengatur suhu ruangan otomatis",
+    "context_location": "Daily Objects",
+    "level": "B2"
+  },
+  {
+    "id": 484,
+    "question_text": "Habitat",
+    "audio_transcript": "Wetland drainage directly degrades the natural nesting habitat of waterbirds.",
+    "indonesian_meaning": "Habitat alami tempat hidup hewan/tanaman",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 485,
+    "question_text": "Flock",
+    "audio_transcript": "A huge flock of starlings formed hypnotic aerial patterns in the twilight sky.",
+    "indonesian_meaning": "Kawanan burung / domba",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "question_text": "Herd",
+    "audio_transcript": "The documentary tracked a migrating herd of wild wildebeest across the river.",
+    "indonesian_meaning": "Kawanan hewan berkaki empat (sapi, gajah, rusa)",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "question_text": "Swarm",
+    "audio_transcript": "A dense swarm of locusts devastated hectares of ripening grain crops within hours.",
+    "indonesian_meaning": "Kawanan besar serangga terbang (lebah, belalang)",
+    "context_location": "Animals & Wildlife",
+    "level": "B2"
+  },
+  {
+    "id": 488,
+    "question_text": "Marine",
+    "audio_transcript": "Plastic debris inflicts severe physiological harm on vulnerable marine organisms.",
+    "indonesian_meaning": "Kelautan / berhubungan dengan laut",
+    "context_location": "Animals & Wildlife",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "question_text": "Crust",
+    "audio_transcript": "Artisan sourdough bread is prized for its thick, crackling dark crust.",
+    "indonesian_meaning": "Kerak luar yang keras (pada roti atau bumi)",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "question_text": "Zesty",
+    "audio_transcript": "A splash of fresh lime juice gave the grilled fish tacos a delightfully zesty punch.",
+    "indonesian_meaning": "Segar menggigit dengan aroma sitrus yang kuat",
+    "context_location": "Food & Taste",
+    "level": "B2"
+  },
+  {
+    "id": 491,
+    "question_text": "Nutritious",
+    "audio_transcript": "Schools should guarantee that every child receives a hot, balanced, and nutritious lunch.",
+    "indonesian_meaning": "Bergizi tinggi dan menyehatkan tubuh",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "question_text": "Appetite",
+    "audio_transcript": "A brisk morning hike through mountain pine trails really works up an appetite.",
+    "indonesian_meaning": "Selera atau nafsu makan",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "question_text": "Ingredient",
+    "audio_transcript": "Locally sourced seasonal ingredients are the cornerstone of sustainable culinary practice.",
+    "indonesian_meaning": "Bahan baku racikan masakan",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "question_text": "Recipe",
+    "audio_transcript": "She followed her grandmother's handwritten recipe to bake the holiday apple pie.",
+    "indonesian_meaning": "Resep panduan memasak",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "question_text": "Allergy",
+    "audio_transcript": "Customers are asked to notify staff regarding severe peanut or gluten allergies.",
+    "indonesian_meaning": "Alergi terhadap makanan atau zat tertentu",
+    "context_location": "Food & Taste",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "question_text": "Terrain",
+    "audio_transcript": "Four-wheel-drive vehicles are indispensable for navigating rocky alpine terrain.",
+    "indonesian_meaning": "Medan kontur bentang tanah",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 497,
+    "question_text": "Fertile",
+    "audio_transcript": "Volcanic ash deposition created exceptionally fertile soil along the river basin.",
+    "indonesian_meaning": "Subur (untuk tanah atau lahan pertanian)",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 498,
+    "question_text": "Erosion",
+    "audio_transcript": "Planting deep-rooted vetiver grass prevents hillside topsoil erosion during the monsoon.",
+    "indonesian_meaning": "Erosi pengikisan tanah oleh air atau angin",
+    "context_location": "Nature & Forestry",
+    "level": "B2"
+  },
+  {
+    "id": 499,
+    "question_text": "Landscape",
+    "audio_transcript": "Glacial retreat over thousands of years carved the dramatic fjord landscape.",
+    "indonesian_meaning": "Bentang pemandangan alam",
+    "context_location": "Nature & Forestry",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "question_text": "Atmosphere",
+    "audio_transcript": "The family-run restaurant boasts a warm, inviting, and intimate dining atmosphere.",
+    "indonesian_meaning": "Atmosfer udara / suasana tempat",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "question_text": "Thunderstorm",
+    "audio_transcript": "A severe late afternoon thunderstorm prompted flight delays across the airport.",
+    "indonesian_meaning": "Badai petir disertai guntur dan kilat",
+    "context_location": "Weather & Climate",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "question_text": "Blizzard",
+    "audio_transcript": "An unrelenting Arctic blizzard buried highway mountain passes beneath deep snowdrifts.",
+    "indonesian_meaning": "Badai salju dahsyat disertai angin kencang",
+    "context_location": "Weather & Climate",
     "level": "B2"
   }
 ]

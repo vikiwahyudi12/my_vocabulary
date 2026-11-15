@@ -17,16 +17,22 @@ class AppConstants {
 
   // Default IELTS Topics
   static const List<String> defaultTopics = [
+    'Daily Objects',
+    'Animals & Wildlife',
+    'Food & Taste',
+    'Nature & Forestry',
+    'Weather & Climate',
     'Education',
-    'Environment',
-    'Technology',
     'Society',
     'Health',
+    'Travel & Transport',
+    'Work & Career',
+    'Technology',
     'Economy',
-    'Crime',
-    'Work',
-    'Culture',
+    'Environment',
     'Government',
+    'Culture',
+    'Crime',
     'Other',
   ];
 

@@ -60,7 +60,7 @@ void main() {
     expect(find.text('Semua'), findsOneWidget);
     expect(find.text('Speaking'), findsWidgets);
     expect(find.text('Writing'), findsWidgets);
-    expect(find.text('Favorit'), findsOneWidget);
+    expect(find.text('Favorit'), findsWidgets);
 
     // Initial list has the seeded words
     expect(find.text('In a nutshell'), findsOneWidget);

@@ -1,13 +1,130 @@
 {
   "app": "IELTS Vocabulary Notebook",
   "version": 1,
-  "exported_at": "2026-11-15T14:48:00.000Z",
-  "total_words": 15,
+  "exported_at": "2026-11-15T15:50:00.000Z",
+  "total_words": 100,
   "custom_topics": [
     "IELTS Listening",
+    "Task 2",
+    "Part 1-3",
+    "Environment",
+    "Technology",
+    "Society",
+    "Economy",
+    "Health",
+    "Education",
+    "Government",
     "Distractors & Traps"
   ],
   "vocabularies": [
+    {
+      "word": "In a nutshell",
+      "meaning": "Singkatnya / kesimpulannya",
+      "level": "Advance",
+      "phonetic": "/ɪn ə 'nʌt.ʃɛl/",
+      "definition": "In a few words; summarized concisely.",
+      "example": "In a few words; summarized concisely into the main takeaway.",
+      "exampleTranslation": "Singkatnya, terangkum secara ringkas menjadi poin utama.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3",
+        "General"
+      ],
+      "notes": "💡 Advance idiom for IELTS Speaking Part 3 when summarizing a viewpoint.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Mitigate",
+      "meaning": "Mengurangi / meredakan dampak",
+      "level": "Advance",
+      "phonetic": "/'mɪt.ɪ.ɡeɪt/",
+      "definition": "To make something less severe, serious, or painful.",
+      "example": "To make something bad or harmful less severe, serious, or painful.",
+      "exampleTranslation": "Membuat sesuatu yang buruk atau berbahaya menjadi tidak terlalu parah.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment"
+      ],
+      "notes": "💡 Advance equivalent of 'Reduce / Lessen'. Collocations: mitigate climate change, mitigate risks.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Ubiquitous",
+      "meaning": "Ada di mana-mana / merajalela",
+      "level": "Advance",
+      "phonetic": "/juː'bɪk.wɪ.təs/",
+      "definition": "Present, appearing, or found everywhere at the same time.",
+      "example": "Smartphones have become ubiquitous in modern daily life.",
+      "exampleTranslation": "Ponsel pintar telah menjadi hal yang ada di mana-mana dalam kehidupan sehari-hari modern.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "General"
+      ],
+      "topics": [
+        "Technology",
+        "Society"
+      ],
+      "notes": "💡 Advance equivalent of 'Everywhere / Common'. Band 8+ vocabulary to describe trends.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Detrimental",
+      "meaning": "Merugikan / berdampak buruk",
+      "level": "Advance",
+      "phonetic": "/ˌdet.rɪ'men.təl/",
+      "definition": "Causing harm or damage; having a harmful effect.",
+      "example": "Excessive screen time can have a detrimental effect on children's eyesight.",
+      "exampleTranslation": "Waktu layar yang berlebihan dapat memiliki efek merugikan pada penglihatan anak-anak.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Health",
+        "Education"
+      ],
+      "notes": "💡 Advance equivalent of 'Harmful / Bad'. Highly recommended for IELTS Task 2 essays.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Harmful",
+      "meaning": "Berbahaya / merusak",
+      "level": "Basic",
+      "phonetic": "/'hɑːm.fəl/",
+      "definition": "Causing or likely to cause harm.",
+      "example": "Pollution is harmful to the environment.",
+      "exampleTranslation": "Polusi berbahaya bagi lingkungan.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "General",
+        "Speaking"
+      ],
+      "topics": [
+        "Environment",
+        "Health"
+      ],
+      "notes": "📌 Basic word (Band 5-6). Upgrade to 'Detrimental' or 'Damaging' for Band 7+ writing.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
     {
       "word": "Free admission",
       "meaning": "Masuk gratis / tanpa biaya masuk",
@@ -17,12 +134,16 @@
       "example": "There is free admission to the museum on weekdays.",
       "exampleTranslation": "Masuk museum gratis pada hari kerja biasa.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Local Museum (Part 2). Jebakan IELTS: kata 'donations' sering membuat peserta ragu apakah gratis atau berbayar.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Local Museum (Part 2). Sering menjebak: kata 'donations' bukan berarti wajib bayar tiket.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Created by students",
@@ -33,12 +154,16 @@
       "example": "The artwork was created by students from the local college.",
       "exampleTranslation": "Karya seni tersebut dibuat oleh para siswa dari perguruan tinggi setempat.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Art Gallery (Part 2). 'Students' diparafrase menjadi 'young people who attended the course/workshop'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Art Gallery (Part 2). 'Students' diparafrase menjadi 'young people who attended the course'.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Closed on Mondays",
@@ -49,12 +174,16 @@
       "example": "The city library is closed on Mondays for staff maintenance.",
       "exampleTranslation": "Perpustakaan kota tutup pada hari Senin untuk pemeliharaan staf.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: City Library (Part 2). Jebakan 'except at the very start of the week' = closed on Mondays.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: City Library (Part 2). Jebakan 'except at the very start of the week'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Mandatory meeting",
@@ -65,12 +194,17 @@
       "example": "Attendance at the orientation session is mandatory for all freshmen.",
       "exampleTranslation": "Kehadiran pada sesi orientasi bersifat wajib bagi semua mahasiswa baru.",
       "partOfSpeech": "noun",
-      "usageCategories": ["General", "Speaking"],
-      "topics": ["IELTS Listening"],
+      "usageCategories": [
+        "General",
+        "Speaking"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
       "notes": "Context: Campus Facility (Part 3). Sinonim: mandatory = compulsory = required = obliged to attend.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Recently renovated",
@@ -81,12 +215,16 @@
       "example": "The sports centre was recently renovated with modern gym equipment.",
       "exampleTranslation": "Pusat olahraga baru saja direnovasi dengan peralatan gym modern.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
       "notes": "Context: Sports Centre (Part 2). 'Renovated' diparafrase menjadi 'refurbished / modernised'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Limited parking space",
@@ -97,12 +235,16 @@
       "example": "Visitors are advised to take public transit due to limited parking space.",
       "exampleTranslation": "Pengunjung disarankan menggunakan angkutan umum karena tempat parkir yang terbatas.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Town Hall / Event Venue (Part 2). 'Limited' sering diparafrase: 'only a handful of', 'restricted number of'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Town Hall (Part 2). 'Limited' diparafrase: 'only a handful of', 'restricted number'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Buy tickets in advance",
@@ -113,12 +255,16 @@
       "example": "You should buy tickets in advance to secure a seat for the concert.",
       "exampleTranslation": "Anda sebaiknya membeli tiket di muka untuk mengamankan kursi konser.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
       "notes": "Context: Theatre Box Office (Part 2). 'In advance' = 'ahead of time' = 'prior to arrival'.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Suitable for beginners",
@@ -129,12 +275,16 @@
       "example": "This yoga class is suitable for beginners of all ages.",
       "exampleTranslation": "Kelas yoga ini cocok untuk pemula dari segala usia.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Community Sports Club (Part 2). Sering menjadi opsi benar melawan opsi jebakan 'for advanced athletes'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Community Sports Club (Part 2). Menghadapi opsi jebakan 'for advanced athletes'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Reduced price for groups",
@@ -145,12 +295,16 @@
       "example": "The museum offers a reduced price for school groups.",
       "exampleTranslation": "Museum menawarkan potongan harga khusus untuk rombongan sekolah.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Heritage Castle (Part 2). 'Groups' sering diparafrase menjadi 'parties of [number] or more'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Heritage Castle (Part 2). 'Groups' sering diparafrase menjadi 'parties of [x] or more'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Postponed until next month",
@@ -161,12 +315,16 @@
       "example": "The public lecture has been postponed until next month.",
       "exampleTranslation": "Kuliah umum telah ditunda hingga bulan depan.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: University Lecture Hall (Part 2/3). Distractor waktu: pembicara menyebut 'this week' lalu meralat 'put off / delayed'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: University Lecture Hall (Part 2/3). Distraktor waktu: 'put off / delayed'.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Eating is not permitted",
@@ -177,12 +335,16 @@
       "example": "Eating is not permitted in the computer lab.",
       "exampleTranslation": "Makan tidak diizinkan di dalam lab komputer.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Science Exhibition (Part 2). 'Not permitted' = 'strictly forbidden' = 'must refrain from'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Science Exhibition (Part 2). 'Not permitted' = 'must refrain from'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Located next to reception",
@@ -193,12 +355,16 @@
       "example": "The cloakroom is located next to the reception counter.",
       "exampleTranslation": "Ruang penitipan barang terletak di sebelah meja resepsionis.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Campus Information Desk (Part 2 Map Labelling). 'Next to' = 'adjacent to' = 'right beside'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Campus Information Desk (Part 2 Map). 'Next to' = 'adjacent to' = 'right beside'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Bring your own equipment",
@@ -209,28 +375,37 @@
       "example": "You are required to bring your own equipment to the tennis workshop.",
       "exampleTranslation": "Anda diwajibkan membawa peralatan sendiri ke lokakarya tenis.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Recreation Centre (Part 2). Jebakan: pembicara menyebut 'we have spares for rent', namun opsi resmi tetap 'bring own gear'.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Recreation Centre (Part 2). 'Supply own gear'.",
       "isFavorite": 0,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Change of topic",
       "meaning": "Perubahan topik tugas / penelitian",
       "level": "Basic",
       "phonetic": "/tʃeɪndʒ ɒv ˈtɒp.ɪk/",
-      "definition": "IELTS Paraphrase: 'We originally chose solar power, but we decided to switch to plastic recycling.'",
+      "definition": "IELTS Paraphrase: 'We initially chose solar power, but we decided to switch to plastic recycling.'",
       "example": "The tutor approved our change of topic for the final presentation.",
       "exampleTranslation": "Dosen pembimbing menyetujui perubahan topik kami untuk presentasi akhir.",
       "partOfSpeech": "noun",
-      "usageCategories": ["General", "Speaking"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: Tutor Consultation (Part 3). Pola klasik Part 3: Ide pertama disebut panjang lebar hanya sebagai distraktor sebelum sepakat berubah pikiran.",
+      "usageCategories": [
+        "General",
+        "Speaking"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Tutor Consultation (Part 3). Pola diskusi: ide awal disebut lalu sepakat berubah.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     },
     {
       "word": "Available on weekdays only",
@@ -241,12 +416,1730 @@
       "example": "The library reference room is available on weekdays only.",
       "exampleTranslation": "Ruang referensi perpustakaan hanya tersedia pada hari kerja.",
       "partOfSpeech": "phrase",
-      "usageCategories": ["General"],
-      "topics": ["IELTS Listening"],
-      "notes": "Context: University Facility (Part 2). Sering digunakan untuk menjebak siswa yang mengira hari Sabtu buka setengah hari.",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: University Facility (Part 2). 'Monday through Friday, not over the weekend'.",
       "isFavorite": 1,
-      "created_at": "2026-11-15T14:48:00.000Z",
-      "updated_at": "2026-11-15T14:48:00.000Z"
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Adjacent to the cafeteria",
+      "meaning": "Bersebelahan dengan kafetaria",
+      "level": "Advance",
+      "phonetic": "/əˈdʒeɪ.sənt tuː ðə ˌkæf.əˈtɪə.ri.ə/",
+      "definition": "IELTS Paraphrase: 'Situated directly adjoining the main dining hall on the ground floor.'",
+      "example": "The student lounge is located adjacent to the cafeteria.",
+      "exampleTranslation": "Ruang santai mahasiswa terletak bersebelahan dengan kafetaria.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Campus Map (Part 2). 'Adjacent to' sering menggantikan 'next to / alongside'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Fully booked",
+      "meaning": "Penuh dipesan / tidak ada sisa tempat",
+      "level": "Basic",
+      "phonetic": "/ˈfʊl.i bʊkt/",
+      "definition": "IELTS Paraphrase: 'There are no vacancies remaining as every slot has been reserved.'",
+      "example": "The evening seminar is fully booked, but morning sessions remain open.",
+      "exampleTranslation": "Seminar malam sudah penuh dipesan, tetapi sesi pagi masih terbuka.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Conference Registration (Part 1/2). Jebakan ketersediaan tiket/tempat.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Complimentary refreshment",
+      "meaning": "Makanan / minuman ringan gratis",
+      "level": "Advance",
+      "phonetic": "/ˌkɒm.plɪˈmen.tər.i rɪˈfreʃ.mənt/",
+      "definition": "IELTS Paraphrase: 'Tea, coffee, and biscuits will be provided at no extra cost.'",
+      "example": "Guests can enjoy complimentary refreshments in the lobby before the show.",
+      "exampleTranslation": "Para tamu dapat menikmati makanan ringan gratis di lobi sebelum pertunjukan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "General"
+      ],
+      "topics": [
+        "IELTS Listening"
+      ],
+      "notes": "Context: Hotel / Event (Part 2). 'Complimentary' = 'free of charge'.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Preliminary findings",
+      "meaning": "Temuan awal penelitian",
+      "level": "Advance",
+      "phonetic": "/prɪˈlɪm.ɪ.nər.i ˈfaɪn.dɪŋz/",
+      "definition": "IELTS Paraphrase: 'The initial data gathered before comprehensive laboratory testing was completed.'",
+      "example": "The preliminary findings indicate a positive response to the new therapy.",
+      "exampleTranslation": "Temuan awal menunjukkan respons positif terhadap terapi baru tersebut.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "IELTS Listening",
+        "Task 2"
+      ],
+      "notes": "Context: Academic Tutorial (Part 3/4). 'Preliminary' = 'initial / provisional'.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Unanimous decision",
+      "meaning": "Keputusan bulat / disepakati semua pihak",
+      "level": "Advance",
+      "phonetic": "/juːˈnæn.ɪ.məs dɪˈsɪʒ.ən/",
+      "definition": "IELTS Paraphrase: 'Every member of the committee was in total accord and voted in favor.'",
+      "example": "The committee reached a unanimous decision to expand the scholarship fund.",
+      "exampleTranslation": "Komite mencapai keputusan bulat untuk memperluas dana beasiswa.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "IELTS Listening",
+        "Task 2"
+      ],
+      "notes": "Context: Meeting Debrief (Part 3). Lawan kata: 'divided opinion / conflicting views'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Exacerbate",
+      "meaning": "Memperburuk / memperparah situasi",
+      "level": "Advance",
+      "phonetic": "/ɪɡˈzæs.ə.beɪt/",
+      "definition": "To make a problem, bad situation, or negative feeling worse.",
+      "example": "Unplanned urbanization can exacerbate traffic congestion and air pollution.",
+      "exampleTranslation": "Urbanisasi yang tidak terencana dapat memperparah kemacetan lalu lintas dan polusi udara.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Society"
+      ],
+      "notes": "Band 8.0 verb. Upgrade from 'make worse / worsen'. Collocations: exacerbate poverty, exacerbate inequality.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Proliferation",
+      "meaning": "Perkembangan pesat / lonjakan jumlah cepat",
+      "level": "Advance",
+      "phonetic": "/prəˌlɪf.əˈreɪ.ʃən/",
+      "definition": "Rapid increase in the number or amount of something.",
+      "example": "The rapid proliferation of social media platforms has revolutionized communication.",
+      "exampleTranslation": "Penyebaran pesat platform media sosial telah merevolusi cara komunikasi.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Society"
+      ],
+      "notes": "Band 8.0 noun. Collocations: proliferation of digital media, nuclear proliferation.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Disparity",
+      "meaning": "Kesenjangan / ketimpangan mencolok",
+      "level": "Advance",
+      "phonetic": "/dɪˈspær.ə.ti/",
+      "definition": "A noticeable and usually unfair difference between people or things.",
+      "example": "Growing economic disparity between rural and urban regions requires policy intervention.",
+      "exampleTranslation": "Kesenjangan ekonomi yang meningkat antara pedesaan dan perkotaan membutuhkan intervensi kebijakan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society",
+        "Economy"
+      ],
+      "notes": "Band 7.5+ word. Upgrade from 'gap / difference'. Collocations: income disparity, gender disparity.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Indispensable",
+      "meaning": "Sangat penting / mutlak diperlukan",
+      "level": "Advance",
+      "phonetic": "/ˌɪn.dɪˈspen.sə.bəl/",
+      "definition": "Absolutely necessary; essential.",
+      "example": "Critical thinking skills are indispensable in the modern knowledge-based economy.",
+      "exampleTranslation": "Keterampilan berpikir kritis sangat diperlukan dalam ekonomi berbasis pengetahuan modern.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education",
+        "Technology"
+      ],
+      "notes": "Band 8.0 adjective. Upgrade from 'very important / essential'. Collocation: play an indispensable role.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Substantiate",
+      "meaning": "Membuktikan dengan fakta / bukti kuat",
+      "level": "Advance",
+      "phonetic": "/səbˈstæn.ʃi.eɪt/",
+      "definition": "To provide evidence to support or prove the truth of an assertion.",
+      "example": "Researchers must substantiate their hypotheses with rigorous empirical data.",
+      "exampleTranslation": "Para peneliti harus membuktikan hipotesis mereka dengan data empiris yang ketat.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Education"
+      ],
+      "notes": "Band 8.5 academic verb. Upgrade from 'prove / back up'. Collocations: substantiate a claim/finding.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Imperative",
+      "meaning": "Sangat mendesak / wajib diprioritaskan",
+      "level": "Advance",
+      "phonetic": "/ɪmˈper.ə.tɪv/",
+      "definition": "Of vital importance; crucial.",
+      "example": "It is imperative that world leaders reach a binding agreement on carbon reduction.",
+      "exampleTranslation": "Sangat mendesak bagi para pemimpin dunia untuk mencapai perjanjian yang mengikat mengenai pengurangan karbon.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Government"
+      ],
+      "notes": "Sentence pattern: 'It is imperative that [subject] + [infinitive]'.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Conceivable",
+      "meaning": "Masuk akal / dapat dibayangkan atau dipikirkan",
+      "level": "Advance",
+      "phonetic": "/kənˈsiː.və.bəl/",
+      "definition": "Capable of being imagined or grasped mentally; plausible.",
+      "example": "Scientists have proposed several conceivable solutions to clean plastic debris from oceans.",
+      "exampleTranslation": "Para ilmuwan telah mengajukan beberapa solusi masuk akal untuk membersihkan sampah plastik dari lautan.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Science",
+        "Environment"
+      ],
+      "notes": "Band 7.5+ word. Upgrade from 'imaginable / believable'. Collocations: conceivable alternative, conceivable explanation.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Comprehensive",
+      "meaning": "Menyeluruh / lengkap mencakup semua aspek",
+      "level": "Advance",
+      "phonetic": "/ˌkɒm.prɪˈhen.sɪv/",
+      "definition": "Complete; including all or nearly all elements or aspects of something.",
+      "example": "A comprehensive educational reform must address curriculum design and teacher training.",
+      "exampleTranslation": "Reformasi pendidikan yang komprehensif harus mencakup perancangan kurikulum dan pelatihan guru.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Education",
+        "Government"
+      ],
+      "notes": "Band 7.5+ adjective. Collocations: comprehensive strategy, comprehensive study.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Prevalent",
+      "meaning": "Lazim / umum tersebar di masyarakat",
+      "level": "Advance",
+      "phonetic": "/ˈprev.əl.ənt/",
+      "definition": "Widespread in a particular area or at a particular time.",
+      "example": "Sedentary lifestyles are increasingly prevalent among office workers.",
+      "exampleTranslation": "Gaya hidup kurang gerak semakin lazim terjadi di kalangan pekerja kantoran.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Health",
+        "Society"
+      ],
+      "notes": "Band 7.5+ word. Upgrade from 'common / widespread'. Collocation: widely prevalent.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Discrepancy",
+      "meaning": "Ketidaksesuaian / selisih perbedaan data",
+      "level": "Advance",
+      "phonetic": "/dɪˈskrep.ən.si/",
+      "definition": "A lack of compatibility or similarity between two or more facts.",
+      "example": "There is a noticeable discrepancy between reported corporate profits and tax payments.",
+      "exampleTranslation": "Ada ketidakcocokan mencolok antara laba perusahaan yang dilaporkan dan pembayaran pajak.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Band 8.0 noun. Frequently tested in Academic Reading & Task 1 comparisons.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Commence",
+      "meaning": "Memulai / mengawali",
+      "level": "Advance",
+      "phonetic": "/kəˈmens/",
+      "definition": "To begin or start something formal or official.",
+      "example": "Construction on the new public transit network is scheduled to commence next spring.",
+      "exampleTranslation": "Pembangunan jaringan transportasi umum baru dijadwalkan akan dimulai musim semi mendatang.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society"
+      ],
+      "notes": "Formal register equivalent of 'start / begin'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Implement",
+      "meaning": "Menerapkan / melaksanakan kebijakan",
+      "level": "Basic",
+      "phonetic": "/ˈɪm.plɪ.ment/",
+      "definition": "Put a decision, plan, agreement, etc. into effect.",
+      "example": "Governments must implement stricter penalties for illegal logging.",
+      "exampleTranslation": "Pemerintah harus menerapkan hukuman yang lebih berat bagi pembalakan liar.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Government",
+        "Environment"
+      ],
+      "notes": "Band 7.0 standard academic verb. Collocations: implement policy, implement measures.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Adverse",
+      "meaning": "Merugikan / tidak menguntungkan",
+      "level": "Advance",
+      "phonetic": "/ˈæd.vɜːs/",
+      "definition": "Preventing success or development; harmful; unfavorable.",
+      "example": "Severe droughts can have adverse effects on national agricultural yields.",
+      "exampleTranslation": "Kekeringan parah dapat menimbulkan efek merugikan pada hasil panen pertanian nasional.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Health"
+      ],
+      "notes": "Band 7.5+ word. Collocations: adverse impact, adverse weather conditions.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Sustainable",
+      "meaning": "Berkelanjutan / ramah jangka panjang",
+      "level": "Basic",
+      "phonetic": "/səˈsteɪ.nə.bəl/",
+      "definition": "Able to be maintained at a certain rate or level without exhausting natural resources.",
+      "example": "Investing in renewable energy is essential for sustainable economic growth.",
+      "exampleTranslation": "Berinvestasi pada energi terbarukan sangat penting untuk pertumbuhan ekonomi yang berkelanjutan.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Economy"
+      ],
+      "notes": "Essential IELTS vocabulary for all Environmental topics. Collocations: sustainable development, sustainable practices.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Substantial",
+      "meaning": "Signifikan / dalam jumlah besar",
+      "level": "Advance",
+      "phonetic": "/səbˈstæn.ʃəl/",
+      "definition": "Of considerable importance, size, or worth.",
+      "example": "There was a substantial rise in consumer spending following the tax reduction.",
+      "exampleTranslation": "Terdapat kenaikan signifikan dalam pengeluaran konsumen setelah pemotongan pajak.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Key Task 1 & Task 2 descriptor. Upgrade from 'big / a lot'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Controversy",
+      "meaning": "Perdebatan sengit / kontroversi publik",
+      "level": "Advance",
+      "phonetic": "/ˈkɒn.trə.vɜː.si/",
+      "definition": "Disagreement, typically when prolonged, public, and heated.",
+      "example": "The introduction of artificial intelligence in grading has sparked considerable controversy.",
+      "exampleTranslation": "Penerapan kecerdasan buatan dalam penilaian ujian telah memicu kontroversi besar.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Education"
+      ],
+      "notes": "Ideal for Writing Task 2 introductions: 'The issue of ... has ignited intense controversy.'",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Divergent",
+      "meaning": "Berbeda haluan / bertentangan",
+      "level": "Advance",
+      "phonetic": "/daɪˈvɜː.dʒənt/",
+      "definition": "Tending to be different or develop in different directions.",
+      "example": "Economists hold divergent opinions on the long-term benefits of globalization.",
+      "exampleTranslation": "Para ekonom memiliki pandangan yang berbeda mengenai manfaat jangka panjang globalisasi.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy",
+        "Society"
+      ],
+      "notes": "Band 8.0 adjective. Collocations: divergent views, divergent paths.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Crucial",
+      "meaning": "Sangat penting dan menentukan",
+      "level": "Basic",
+      "phonetic": "/ˈkruː.ʃəl/",
+      "definition": "Decisive or critical, especially in the success or failure of something.",
+      "example": "Early childhood education plays a crucial role in cognitive development.",
+      "exampleTranslation": "Pendidikan anak usia dini memainkan peran krusial dalam perkembangan kognitif.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education"
+      ],
+      "notes": "Band 7.0 upgrade from 'important'. Collocation: play a crucial role in.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Feasible",
+      "meaning": "Layak / memungkinkan untuk direalisasikan",
+      "level": "Advance",
+      "phonetic": "/ˈfiː.zə.bəl/",
+      "definition": "Possible to do easily or conveniently; practical.",
+      "example": "Solar power is now a commercially feasible alternative to fossil fuels.",
+      "exampleTranslation": "Tenaga surya kini menjadi alternatif yang layak secara komersial terhadap bahan bakar fosil.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Environment"
+      ],
+      "notes": "Collocations: economically feasible, practically feasible.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Praktis / berdasarkan kenyataan logis",
+      "level": "Advance",
+      "phonetic": "/præɡˈmæt.ɪk/",
+      "definition": "Dealing with things sensibly and realistically based on practical considerations.",
+      "example": "Policymakers need to take a pragmatic approach rather than relying solely on idealistic models.",
+      "exampleTranslation": "Pembuat kebijakan perlu mengambil pendekatan pragmatis daripada hanya mengandalkan model idealis.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Government"
+      ],
+      "notes": "Band 8.0 word. Collocation: adopt a pragmatic approach.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Unprecedented",
+      "meaning": "Belum pernah terjadi sebelumnya",
+      "level": "Advance",
+      "phonetic": "/ʌnˈpres.ɪ.den.tɪd/",
+      "definition": "Never done or known before.",
+      "example": "The healthcare sector faced unprecedented pressure during the global pandemic.",
+      "exampleTranslation": "Sektor kesehatan menghadapi tekanan yang belum pernah terjadi sebelumnya selama pandemi global.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Health",
+        "Society"
+      ],
+      "notes": "Band 8.0 adjective. Collocations: unprecedented growth, unprecedented crisis.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Catastrophic",
+      "meaning": "Sangat dahsyat / menghancurkan",
+      "level": "Advance",
+      "phonetic": "/ˌkæt.əˈstrɒf.ɪk/",
+      "definition": "Involving or causing sudden great damage or suffering.",
+      "example": "Failure to address climate change could result in catastrophic sea-level rise.",
+      "exampleTranslation": "Kegagalan mengatasi perubahan iklim dapat mengakibatkan kenaikan permukaan air laut yang membawa malapetaka.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment"
+      ],
+      "notes": "Band 7.5+ word. Upgrade from 'very terrible / disastrous'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Deteriorate",
+      "meaning": "Memburuk / mengalami penurunan mutu",
+      "level": "Advance",
+      "phonetic": "/dɪˈtɪə.ri.ə.reɪt/",
+      "definition": "Become progressively worse.",
+      "example": "Air quality in major metropolitan areas continues to deteriorate year by year.",
+      "exampleTranslation": "Kualitas udara di wilayah metropolitan utama terus memburuk dari tahun ke tahun.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Health"
+      ],
+      "notes": "Band 7.5+ verb. Upgrade from 'get worse'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Foster",
+      "meaning": "Mendorong / menumbuhkan hal positif",
+      "level": "Advance",
+      "phonetic": "/ˈfɒs.tər/",
+      "definition": "Encourage the development of something, especially something desirable.",
+      "example": "Schools should foster an environment that encourages independent inquiry and creativity.",
+      "exampleTranslation": "Sekolah harus membina lingkungan yang mendorong penyelidikan mandiri dan kreativitas.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education",
+        "Society"
+      ],
+      "notes": "Band 7.5+ verb. Collocations: foster innovation, foster cooperation.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Predecessor",
+      "meaning": "Pendahulu / versi sebelumnya",
+      "level": "Advance",
+      "phonetic": "/ˈpriː.dɪˌses.ər/",
+      "definition": "A person or thing that held a job or office before the current holder, or an earlier model.",
+      "example": "The latest electric vehicle model has double the driving range of its predecessor.",
+      "exampleTranslation": "Model kendaraan listrik terbaru memiliki jarak tempuh dua kali lipat dibanding pendahulunya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology"
+      ],
+      "notes": "Band 8.0 academic noun.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "A double-edged sword",
+      "meaning": "Pedang bermata dua / ada plus minusnya",
+      "level": "Advance",
+      "phonetic": "/ə ˌdʌb.əl.edʒd ˈsɔːd/",
+      "definition": "Something that has both advantages and disadvantages.",
+      "example": "Social media is a double-edged sword; it connects people globally but also fuels anxiety.",
+      "exampleTranslation": "Media sosial adalah pedang bermata dua; menghubungkan orang secara global tetapi juga memicu kecemasan.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking",
+        "Writing"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Technology",
+        "Society"
+      ],
+      "notes": "Very versatile idiom for IELTS Speaking Part 3 and Writing Task 2.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Every cloud has a silver lining",
+      "meaning": "Selalu ada hikmah di balik setiap musibah",
+      "level": "Advance",
+      "phonetic": "/ˈev.ri klaʊd hæz ə ˈsɪl.vər ˈlaɪ.nɪŋ/",
+      "definition": "Every difficult or sad situation has a positive aspect to it.",
+      "example": "Losing that job was stressful, but every cloud has a silver lining as it led to my own business.",
+      "exampleTranslation": "Kehilangan pekerjaan itu menegangkan, tetapi selalu ada hikmahnya karena menuntun saya mendirikan bisnis sendiri.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Perfect for Speaking Part 2 stories about overcoming a challenge.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Once in a blue moon",
+      "meaning": "Sangat jarang sekali terjadi",
+      "level": "Basic",
+      "phonetic": "/wʌns ɪn ə bluː muːn/",
+      "definition": "Very rarely; almost never.",
+      "example": "Because I live so far from my hometown, I only get to visit my relatives once in a blue moon.",
+      "exampleTranslation": "Karena saya tinggal sangat jauh dari kampung halaman, saya hanya jarang sekali bisa mengunjungi kerabat.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Natural frequency idiom to replace 'rarely' in Speaking Part 1.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Down in the dumps",
+      "meaning": "Merasa sedih / tertekan",
+      "level": "Advance",
+      "phonetic": "/daʊn ɪn ðə dʌmps/",
+      "definition": "Feeling unhappy, depressed, or gloomy.",
+      "example": "He was down in the dumps after failing his driving test on the first attempt.",
+      "exampleTranslation": "Dia merasa sedih setelah gagal dalam tes mengemudi pada percobaan pertama.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Idiom for expressing mood and feelings in Speaking.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Cost an arm and a leg",
+      "meaning": "Sangat mahal harganya",
+      "level": "Basic",
+      "phonetic": "/kɒst ən ɑːm ænd ə leɡ/",
+      "definition": "To be extremely expensive.",
+      "example": "Renting a modern apartment in the city center costs an arm and a leg nowadays.",
+      "exampleTranslation": "Menyewa apartemen modern di pusat kota sangat mahal harganya saat ini.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Society"
+      ],
+      "notes": "Natural colloquial idiom for money, housing, and shopping topics.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Hit the nail on the head",
+      "meaning": "Tepat sasaran / sangat akurat analisisnya",
+      "level": "Advance",
+      "phonetic": "/hɪt ðə neɪl ɒn ðə hed/",
+      "definition": "To state the exact truth; to describe precisely what is causing a situation.",
+      "example": "My professor hit the nail on the head when she analyzed the root cause of the market crash.",
+      "exampleTranslation": "Dosen saya tepat sasaran ketika menganalisis akar penyebab anjloknya pasar.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Use when agreeing with a statement in Speaking Part 3.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Burn the midnight oil",
+      "meaning": "Belajar atau bekerja hingga larut malam",
+      "level": "Basic",
+      "phonetic": "/bɜːn ðə ˈmɪd.naɪt ɔɪl/",
+      "definition": "To work or study late into the night.",
+      "example": "I had to burn the midnight oil for several weeks before sitting for my IELTS examination.",
+      "exampleTranslation": "Saya harus belajar lembur hingga larut malam selama beberapa minggu sebelum mengikuti ujian IELTS.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Education"
+      ],
+      "notes": "Very common in student & study experience questions.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Over the moon",
+      "meaning": "Sangat gembira dan bahagia",
+      "level": "Basic",
+      "phonetic": "/ˈəʊ.vər ðə muːn/",
+      "definition": "Extremely pleased, happy, and thrilled.",
+      "example": "She was over the moon when she discovered she had attained a Band 8.5 overall.",
+      "exampleTranslation": "Dia sangat gembira ketika mengetahui bahwa dia meraih skor Band 8.5 secara keseluruhan.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Great for describing personal achievements in Part 2.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "At the crossroads",
+      "meaning": "Berada di persimpangan keputusan penting",
+      "level": "Advance",
+      "phonetic": "/æt ðə ˈkrɒs.rəʊdz/",
+      "definition": "At a point where an important decision must be made.",
+      "example": "After graduation, I felt at the crossroads between pursuing a master's degree and starting a job.",
+      "exampleTranslation": "Setelah lulus, saya merasa di persimpangan antara melanjutkan S2 atau mulai bekerja.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Education"
+      ],
+      "notes": "Great for life transitions and decisions in Part 2.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Take it with a grain of salt",
+      "meaning": "Tidak langsung percaya begitu saja / skeptis sehat",
+      "level": "Advance",
+      "phonetic": "/teɪk ɪt wɪð ə ɡreɪn ɒv sɔːlt/",
+      "definition": "To understand that something is likely to be untrue or exaggerated.",
+      "example": "You should take consumer reviews on internet forums with a grain of salt.",
+      "exampleTranslation": "Anda sebaiknya tidak langsung mempercayai ulasan konsumen di forum internet begitu saja.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking",
+        "Writing"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Technology"
+      ],
+      "notes": "Demonstrates critical thinking in Speaking Part 3 questions about advertising and media.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "See eye to eye",
+      "meaning": "Sependapat / sevisi dengan orang lain",
+      "level": "Basic",
+      "phonetic": "/siː aɪ tuː aɪ/",
+      "definition": "To agree fully with someone on an issue.",
+      "example": "My business partner and I rarely saw eye to eye regarding marketing strategies.",
+      "exampleTranslation": "Rekan bisnis saya dan saya jarang sependapat mengenai strategi pemasaran.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Common in teamwork and conflict resolution topics.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Broaden one's horizons",
+      "meaning": "Memperluas wawasan dan sudut pandang",
+      "level": "Advance",
+      "phonetic": "/ˈbrɔː.dən wʌnz həˈraɪ.zənz/",
+      "definition": "To expand one's knowledge, experience, or perspective.",
+      "example": "Studying abroad allows young adults to broaden their horizons and encounter diverse cultures.",
+      "exampleTranslation": "Kuliah di luar negeri memungkinkan generasi muda memperluas wawasan mereka dan mengenal beragam budaya.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Speaking",
+        "Writing"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Education",
+        "Society"
+      ],
+      "notes": "Essential collocation for travel, education, and foreign language topics.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Step out of one's comfort zone",
+      "meaning": "Keluar dari zona nyaman demi perkembangan diri",
+      "level": "Advance",
+      "phonetic": "/step aʊt ɒv wʌnz ˈkʌm.fət zəʊn/",
+      "definition": "To do things that you do not feel comfortable doing or that are unfamiliar.",
+      "example": "Public speaking forced me to step out of my comfort zone and gain immense self-confidence.",
+      "exampleTranslation": "Berbicara di depan umum memaksa saya keluar dari zona nyaman dan mendapatkan rasa percaya diri yang besar.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "High-scoring phrase for personal growth and challenges in Part 2.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Out of the blue",
+      "meaning": "Tiba-tiba tanpa aba-aba atau peringatan",
+      "level": "Basic",
+      "phonetic": "/aʊt ɒv ðə bluː/",
+      "definition": "Completely unexpectedly; without prior notice.",
+      "example": "Out of the blue, my childhood friend called me to announce his wedding.",
+      "exampleTranslation": "Tiba-tiba tanpa diduga, sahabat masa kecil saya menelepon untuk mengabarkan pernikahannya.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Excellent narrative transition for Speaking Part 2 storytelling.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "A blessing in disguise",
+      "meaning": "Berkah tersembunyi di balik musibah",
+      "level": "Advance",
+      "phonetic": "/ə ˈbles.ɪŋ ɪn dɪsˈɡaɪz/",
+      "definition": "An apparent misfortune that eventually has good results.",
+      "example": "Failing to secure the scholarship initially turned out to be a blessing in disguise.",
+      "exampleTranslation": "Gagal mendapatkan beasiswa pada awalnya ternyata merupakan berkah tersembunyi.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Classic idiom for reflections and lessons learned.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Through thick and thin",
+      "meaning": "Dalam suka maupun duka / setia selalu",
+      "level": "Advance",
+      "phonetic": "/θruː θɪk ænd θɪn/",
+      "definition": "Under all conditions, no matter how challenging or difficult.",
+      "example": "True friends will stand by you through thick and thin.",
+      "exampleTranslation": "Sahabat sejati akan selalu berdiri di sampingmu dalam suka maupun duka.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Ideal for describing friendship, family, and relationships.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Food for thought",
+      "meaning": "Bahan perenungan mendalam",
+      "level": "Advance",
+      "phonetic": "/fuːd fɔː θɔːt/",
+      "definition": "Something that warrants serious consideration or reflection.",
+      "example": "The documentary on marine conservation provided plenty of food for thought.",
+      "exampleTranslation": "Dokumenter tentang konservasi laut tersebut memberikan banyak bahan renungan mendalam.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3",
+        "Environment"
+      ],
+      "notes": "Great for concluding Speaking Part 3 answers.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Bite the bullet",
+      "meaning": "Mengambil keputusan sulit dengan berani",
+      "level": "Advance",
+      "phonetic": "/baɪt ðə ˈbʊl.ɪt/",
+      "definition": "To force yourself to do something unpleasant or difficult that you have been hesitating to do.",
+      "example": "I decided to bite the bullet and invest my savings into learning web development.",
+      "exampleTranslation": "Saya memutuskan untuk memberanikan diri dan menginvestasikan tabungan saya untuk belajar pengembangan web.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Action-oriented idiom showing determination.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Keep fingers crossed",
+      "meaning": "Berharap yang terbaik / semoga beruntung",
+      "level": "Basic",
+      "phonetic": "/kiːp ˈfɪŋ.ɡəz krɒst/",
+      "definition": "To hope that someone will be successful or that something good will happen.",
+      "example": "We submitted our university applications and are keeping our fingers crossed.",
+      "exampleTranslation": "Kami telah mengirimkan pendaftaran universitas dan berharap mendapatkan hasil yang terbaik.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Friendly conversational idiom for hopes and future outcomes.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Up in the air",
+      "meaning": "Belum ada kepastian / masih mengambang",
+      "level": "Basic",
+      "phonetic": "/ʌp ɪn ði eər/",
+      "definition": "Uncertain or unresolved; not yet decided.",
+      "example": "My vacation plans are still up in the air until my flight booking is confirmed.",
+      "exampleTranslation": "Rencana liburan saya masih belum pasti sampai pemesanan tiket penerbangan dikonfirmasi.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Great for questions about upcoming plans or schedules.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Break the ice",
+      "meaning": "Mencairkan suasana yang kaku",
+      "level": "Basic",
+      "phonetic": "/breɪk ði aɪs/",
+      "definition": "To do or say something that makes people feel more relaxed and comfortable in a social setting.",
+      "example": "Sharing a light joke is an effective way to break the ice with new colleagues.",
+      "exampleTranslation": "Berbagi lelucon ringan adalah cara ampuh untuk mencairkan suasana dengan rekan kerja baru.",
+      "partOfSpeech": "idiom",
+      "usageCategories": [
+        "Speaking"
+      ],
+      "topics": [
+        "Part 1-3"
+      ],
+      "notes": "Social skills and workplace topics.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Surge dramatically",
+      "meaning": "Melonjak tajam dalam waktu singkat",
+      "level": "Advance",
+      "phonetic": "/sɜːdʒ drəˈmæt.ɪ.kəl.i/",
+      "definition": "To experience a sudden, very steep and large increase.",
+      "example": "Online retail sales surged dramatically over the holiday quarter.",
+      "exampleTranslation": "Penjualan ritel online melonjak drastis sepanjang kuartal liburan.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Crucial Task 1 trend verb-adverb collocation. Upgrade from 'increase quickly'.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Plummet sharply",
+      "meaning": "Anjlok secara drastis",
+      "level": "Advance",
+      "phonetic": "/ˈplʌm.ɪt ˈʃɑːp.li/",
+      "definition": "To fall or drop very rapidly from a high level.",
+      "example": "International tourist arrivals plummeted sharply during the pandemic lockdowns.",
+      "exampleTranslation": "Kedatangan turis internasional anjlok drastis selama masa karantina wilayah pandemi.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Crucial Task 1 downward trend collocation. Upgrade from 'decrease a lot'.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Fluctuate wildly",
+      "meaning": "Berfluktuasi tidak menentu",
+      "level": "Advance",
+      "phonetic": "/ˈflʌk.tʃu.eɪt ˈwaɪld.li/",
+      "definition": "To change continually and irregularly with wide oscillations.",
+      "example": "Crude oil prices fluctuated wildly between January and August.",
+      "exampleTranslation": "Harga minyak mentah berfluktuasi tidak menentu antara bulan Januari dan Agustus.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Essential Task 1 trend descriptor for erratic graphs.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Plateau at",
+      "meaning": "Mencapai titik stabil / mendatar",
+      "level": "Advance",
+      "phonetic": "/ˈplæt.əʊ æt/",
+      "definition": "To reach a state or level where there is little or no further change.",
+      "example": "Renewable energy production is projected to plateau at 45% by 2035.",
+      "exampleTranslation": "Produksi energi terbarukan diproyeksikan akan mendatar di angka 45% pada tahun 2035.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2"
+      ],
+      "notes": "Task 1 leveling-off verb.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "In stark contrast to",
+      "meaning": "Sangat berbanding terbalik dengan",
+      "level": "Advance",
+      "phonetic": "/ɪn stɑːk ˈkɒn.trɑːst tuː/",
+      "definition": "Used to emphasize how completely different one thing is from another.",
+      "example": "In stark contrast to male counterparts, female participation in engineering remained below 15%.",
+      "exampleTranslation": "Sangat berbanding terbalik dengan rekan pria, partisipasi wanita di bidang teknik tetap di bawah 15%.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society"
+      ],
+      "notes": "Band 8.0 comparative transition for Writing Task 1 and Task 2.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "The vast majority",
+      "meaning": "Mayoritas mutlak / sebagian besar",
+      "level": "Basic",
+      "phonetic": "/ðə vɑːst məˈdʒɒr.ə.ti/",
+      "definition": "An overwhelming proportion (usually greater than 75-80%).",
+      "example": "The vast majority of survey respondents favored flexible remote work arrangements.",
+      "exampleTranslation": "Mayoritas mutlak responden survei mendukung pengaturan kerja jarak jauh yang fleksibel.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society"
+      ],
+      "notes": "Task 1 & Task 2 proportion phrase.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "A negligible fraction",
+      "meaning": "Sebagian kecil yang sangat tidak signifikan",
+      "level": "Advance",
+      "phonetic": "/ə ˈneɡ.lɪ.dʒə.bəl ˈfræk.ʃən/",
+      "definition": "A very tiny proportion that is unimportant and can be disregarded.",
+      "example": "Public expenditure on artistic cultural heritage accounts for a negligible fraction of the budget.",
+      "exampleTranslation": "Pengeluaran publik untuk warisan budaya seni hanya mencakup sebagian kecil yang tidak signifikan dari anggaran.",
+      "partOfSpeech": "phrase",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Band 8.0 academic proportion phrase for Task 1 & Task 2.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Conversely",
+      "meaning": "Sebaliknya / berbanding terbalik",
+      "level": "Advance",
+      "phonetic": "/ˈkɒn.vɜːs.li/",
+      "definition": "Introducing a statement or idea that reverses or contrasts with one that has just been made.",
+      "example": "High levels of physical activity improve cardiovascular health; conversely, prolonged inactivity degrades it.",
+      "exampleTranslation": "Tingkat aktivitas fisik yang tinggi meningkatkan kesehatan kardiovaskular; sebaliknya, kurang bergerak yang berkepanjangan memperburuknya.",
+      "partOfSpeech": "adverb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Health"
+      ],
+      "notes": "High-scoring transitional linker for paragraph balance.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Notwithstanding",
+      "meaning": "Meskipun demikian / terlepas dari",
+      "level": "Advance",
+      "phonetic": "/ˌnɒt.wɪðˈstæn.dɪŋ/",
+      "definition": "In spite of; despite.",
+      "example": "Notwithstanding the economic slowdown, consumer confidence stayed resilient.",
+      "exampleTranslation": "Terlepas dari perlambatan ekonomi, kepercayaan konsumen tetap bertahan tangguh.",
+      "partOfSpeech": "prep",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Economy"
+      ],
+      "notes": "Band 8.5 preposition and linker. Formal equivalent of 'despite'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Profound implication",
+      "meaning": "Konsekuensi / dampak yang sangat mendalam",
+      "level": "Advance",
+      "phonetic": "/prəˈfaʊnd ˌɪm.plɪˈkeɪ.ʃən/",
+      "definition": "Deep, far-reaching effects or consequences.",
+      "example": "The widespread automation of factory work carries profound implications for the labor market.",
+      "exampleTranslation": "Otomatisasi pabrik yang meluas membawa dampak yang sangat mendalam bagi pasar tenaga kerja.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Economy"
+      ],
+      "notes": "Powerful collocation for essay conclusions in Writing Task 2.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Viable alternative",
+      "meaning": "Alternatif pilihan yang realistis dan efektif",
+      "level": "Advance",
+      "phonetic": "/ˈvaɪ.ə.bəl ɔːlˈtɜː.nə.tɪv/",
+      "definition": "A practical and capable option that can succeed.",
+      "example": "High-speed rail is considered the most viable alternative to short-haul domestic flights.",
+      "exampleTranslation": "Kereta cepat dianggap sebagai alternatif paling layak pengganti penerbangan domestik jarak pendek.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment",
+        "Technology"
+      ],
+      "notes": "High-yield solution phrase in problem-solution essays.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Mounting pressure",
+      "meaning": "Tekanan yang semakin meningkat tajam",
+      "level": "Advance",
+      "phonetic": "/ˈmaʊn.tɪŋ ˈpreʃ.ər/",
+      "definition": "Increasing force or burden that builds up steadily.",
+      "example": "Hospitals are under mounting pressure due to an aging population and staff shortages.",
+      "exampleTranslation": "Rumah sakit berada di bawah tekanan yang semakin meningkat akibat populasi lansia dan kekurangan staf.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Health",
+        "Society"
+      ],
+      "notes": "Descriptive collocation for social, economic, and medical challenges.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Pivotal turning point",
+      "meaning": "Titik balik yang sangat krusial",
+      "level": "Advance",
+      "phonetic": "/ˈpɪv.ə.təl ˈtɜː.nɪŋ pɔɪnt/",
+      "definition": "A critical moment of decision or change with lasting historical effects.",
+      "example": "The invention of the internet marked a pivotal turning point in human civilization.",
+      "exampleTranslation": "Penemuan internet menandai titik balik krusial dalam peradaban manusia.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Society"
+      ],
+      "notes": "High-impact phrase for essay bodies.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Holistic perspective",
+      "meaning": "Sudut pandang menyeluruh dari semua sisi",
+      "level": "Advance",
+      "phonetic": "/həʊˈlɪs.tɪk pəˈspek.tɪv/",
+      "definition": "Viewing something by considering whole systems rather than just individual parts.",
+      "example": "Urban planners must adopt a holistic perspective that integrates transport, green spaces, and affordable housing.",
+      "exampleTranslation": "Perencana kota harus mengambil sudut pandang holistik yang mengintegrasikan transportasi, ruang hijau, dan perumahan terjangkau.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society",
+        "Environment"
+      ],
+      "notes": "Band 8.5 phrase for concluding discussion and recommendation essays.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Paradigm shift",
+      "meaning": "Pergeseran paradigma / perubahan pola pikir mendasar",
+      "level": "Advance",
+      "phonetic": "/ˈpær.ə.daɪm ʃɪft/",
+      "definition": "A fundamental change in approach or underlying assumptions.",
+      "example": "The transition to electric mobility represents a profound paradigm shift in the automotive industry.",
+      "exampleTranslation": "Transisi menuju mobilitas listrik mencerminkan pergeseran paradigma mendalam dalam industri otomotif.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Environment"
+      ],
+      "notes": "Band 8.5 phrase. Collocation: represent a paradigm shift.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Cognitive ability",
+      "meaning": "Kemampuan kognitif / daya pikir dan nalar",
+      "level": "Advance",
+      "phonetic": "/ˈkɒɡ.nə.tɪv əˈbɪl.ə.ti/",
+      "definition": "Mental capabilities including reasoning, memory, problem-solving, and attention.",
+      "example": "Bilingualism has been shown to enhance cognitive ability throughout a person's lifespan.",
+      "exampleTranslation": "Kemampuan dwibahasa telah terbukti meningkatkan kemampuan kognitif sepanjang hidup seseorang.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education",
+        "Health"
+      ],
+      "notes": "Essential academic topic collocation for psychology and education essays.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Intrinsic motivation",
+      "meaning": "Motivasi dari dalam diri / minat murni",
+      "level": "Advance",
+      "phonetic": "/ɪnˈtrɪn.zɪk ˌməʊ.tɪˈveɪ.ʃən/",
+      "definition": "Behavior driven by internal rewards rather than external incentives.",
+      "example": "Students who cultivate intrinsic motivation tend to achieve greater academic longevity.",
+      "exampleTranslation": "Siswa yang menumbuhkan motivasi dari dalam diri cenderung mencapai keberhasilan akademis yang lebih tahan lama.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education"
+      ],
+      "notes": "Opposite: 'extrinsic motivation' (money, grades).",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Biodiversity conservation",
+      "meaning": "Pelestarian keanekaragaman hayati",
+      "level": "Advance",
+      "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti ˌkɒn.səˈveɪ.ʃən/",
+      "definition": "The protection and management of species and biological ecosystems.",
+      "example": "Biodiversity conservation is critical to maintaining global ecological equilibrium.",
+      "exampleTranslation": "Pelestarian keanekaragaman hayati sangat penting untuk menjaga keseimbangan ekologis global.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment"
+      ],
+      "notes": "High-scoring phrase for Environmental Task 2 essays.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Carbon footprint",
+      "meaning": "Jejak karbon / jumlah emisi gas rumah kaca",
+      "level": "Basic",
+      "phonetic": "/ˌkɑː.bən ˈfʊt.prɪnt/",
+      "definition": "The total amount of greenhouse gases generated by human actions and lifestyle.",
+      "example": "Individuals can shrink their carbon footprint by adopting plant-based diets and carpooling.",
+      "exampleTranslation": "Individu dapat memperkecil jejak karbon mereka dengan menerapkan pola makan nabati dan berbagi tumpangan kendaraan.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Environment"
+      ],
+      "notes": "Collocations: reduce/shrink carbon footprint.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Social cohesion",
+      "meaning": "Kerekatan sosial / keharmonisan masyarakat",
+      "level": "Advance",
+      "phonetic": "/ˌsəʊ.ʃəl kəʊˈhiː.ʒən/",
+      "definition": "The strength of relationships and the sense of solidarity among members of a community.",
+      "example": "Community centers play a vital role in strengthening social cohesion in diverse neighborhoods.",
+      "exampleTranslation": "Pusat kegiatan masyarakat memainkan peran penting dalam memperkuat kerekatan sosial di lingkungan yang majemuk.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society"
+      ],
+      "notes": "Band 8.0 sociological term for community and harmony essays.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Cultural heritage",
+      "meaning": "Warisan budaya leluhur",
+      "level": "Basic",
+      "phonetic": "/ˌkʌl.tʃər.əl ˈher.ɪ.tɪdʒ/",
+      "definition": "The traditions, monuments, objects, and culture inherited from past generations.",
+      "example": "Governments have a moral duty to preserve ancient architectural monuments as cultural heritage.",
+      "exampleTranslation": "Pemerintah memiliki kewajiban moral untuk melestarikan monumen arsitektur kuno sebagai warisan budaya.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Society"
+      ],
+      "notes": "Key topic in tourism, globalization, and history questions.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Exponential growth",
+      "meaning": "Pertumbuhan berlipat ganda / luar biasa pesat",
+      "level": "Advance",
+      "phonetic": "/ˌek.spəˈnen.ʃəl ɡrəʊθ/",
+      "definition": "Extremely rapid increase in size or extent.",
+      "example": "The artificial intelligence sector has experienced exponential growth over the past decade.",
+      "exampleTranslation": "Sektor kecerdasan buatan telah mengalami pertumbuhan luar biasa pesat selama dekade terakhir.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Technology",
+        "Economy"
+      ],
+      "notes": "Collocation: undergo/experience exponential growth.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Socioeconomic status",
+      "meaning": "Status sosial dan ekonomi seseorang",
+      "level": "Advance",
+      "phonetic": "/ˌsəʊ.si.əʊ.iː.kəˈnɒm.ɪk ˈsteɪ.təs/",
+      "definition": "An economic and sociological combined total measure of a person's work experience and economic position.",
+      "example": "Children from lower socioeconomic status backgrounds often face systemic educational hurdles.",
+      "exampleTranslation": "Anak-anak dari latar belakang status sosial ekonomi rendah sering menghadapi rintangan pendidikan sistemis.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society",
+        "Education"
+      ],
+      "notes": "Formal academic term replacing 'poor / rich background'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Incentivize",
+      "meaning": "Memberikan insentif / dorongan nyata",
+      "level": "Advance",
+      "phonetic": "/ɪnˈsen.tɪ.vaɪz/",
+      "definition": "To motivate or encourage someone to do something, typically with financial or tangible rewards.",
+      "example": "Tax rebates can effectively incentivize companies to invest in clean energy technology.",
+      "exampleTranslation": "Keringanan pajak dapat secara efektif mendorong perusahaan untuk berinvestasi pada teknologi energi bersih.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Government",
+        "Economy"
+      ],
+      "notes": "High-scoring verb for policy solutions.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Empirical research",
+      "meaning": "Penelitian berbasis fakta dan bukti nyata",
+      "level": "Advance",
+      "phonetic": "/ɪmˈpɪr.ɪ.kəl rɪˈsɜːtʃ/",
+      "definition": "Research based on observed and measured phenomena and derives knowledge from actual experience rather than theory.",
+      "example": "Policy recommendations must be anchored in empirical research rather than political ideology.",
+      "exampleTranslation": "Rekomendasi kebijakan harus didasarkan pada penelitian empiris alih-alih ideologi politik.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Education"
+      ],
+      "notes": "Band 8.0 academic collocation.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Subsidize",
+      "meaning": "Memberikan subsidi / bantuan dana",
+      "level": "Advance",
+      "phonetic": "/ˈsʌb.sɪ.daɪz/",
+      "definition": "Support financially, typically by paying part of the cost from public funds.",
+      "example": "Many experts argue that the state should heavily subsidize public transport to curb urban traffic.",
+      "exampleTranslation": "Banyak pakar berpendapat bahwa negara harus memberikan subsidi besar untuk transportasi umum guna menekan kemacetan kota.",
+      "partOfSpeech": "verb",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Government",
+        "Economy"
+      ],
+      "notes": "Essential government action verb.",
+      "isFavorite": 1,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Pervasive",
+      "meaning": "Meresap luas / merambah ke segala lini",
+      "level": "Advance",
+      "phonetic": "/pəˈveɪ.sɪv/",
+      "definition": "Spreading widely throughout an area or a group of people, especially of an unwelcome influence.",
+      "example": "The pervasive influence of consumer advertising shapes dietary habits from an early age.",
+      "exampleTranslation": "Pengaruh luas dari iklan konsumen membentuk kebiasaan makan sejak usia dini.",
+      "partOfSpeech": "adj",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society",
+        "Technology"
+      ],
+      "notes": "Band 8.0 adjective. Collocations: pervasive influence, pervasive problem.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Mitigating circumstances",
+      "meaning": "Keadaan yang meringankan kesalahan atau sanksi",
+      "level": "Advance",
+      "phonetic": "/ˈmɪt.ɪ.ɡeɪ.tɪŋ ˈsɜː.kəm.stæn.sɪz/",
+      "definition": "Conditions or happenings which do not excuse an offense, but which may be considered as reasons for reducing punishment.",
+      "example": "The judge took into account several mitigating circumstances before determining the final verdict.",
+      "exampleTranslation": "Hakim mempertimbangkan beberapa keadaan yang meringankan sebelum menentukan putusan akhir.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing"
+      ],
+      "topics": [
+        "Task 2",
+        "Society",
+        "Government"
+      ],
+      "notes": "Legal and crime essay collocation.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
+    },
+    {
+      "word": "Compulsory education",
+      "meaning": "Pendidikan wajib belajar bagi anak-anak",
+      "level": "Basic",
+      "phonetic": "/kəmˈpʌl.sər.i ˌedʒ.ʊˈkeɪ.ʃən/",
+      "definition": "A period of education that is required of all people and is imposed by government law.",
+      "example": "Extending compulsory education to the age of eighteen has contributed to lower juvenile crime rates.",
+      "exampleTranslation": "Memperpanjang wajib belajar hingga usia delapan belas tahun telah berkontribusi pada penurunan tingkat kejahatan remaja.",
+      "partOfSpeech": "noun",
+      "usageCategories": [
+        "Writing",
+        "Speaking"
+      ],
+      "topics": [
+        "Task 2",
+        "Education",
+        "Government"
+      ],
+      "notes": "Basic topic keyword. Synonym of 'mandatory schooling'.",
+      "isFavorite": 0,
+      "created_at": "2026-11-15T15:50:00.000Z",
+      "updated_at": "2026-11-15T15:50:00.000Z"
     }
   ]
 }

@@ -1,122 +1,802 @@
 [
   {
     "id": 1,
-    "question_text": "free admission",
-    "audio_transcript": "there is no charge for entry, although donations are welcomed",
-    "indonesian_meaning": "masuk gratis / tanpa biaya masuk",
-    "context_location": "Local Museum",
-    "level": "A1"
+    "question_text": "in a nutshell",
+    "audio_transcript": "In a few words; summarized concisely.",
+    "indonesian_meaning": "Singkatnya / kesimpulannya",
+    "context_location": "Part 1-3",
+    "level": "B2"
   },
   {
     "id": 2,
-    "question_text": "created by students",
-    "audio_transcript": "designed entirely by young people who attended the summer workshop",
-    "indonesian_meaning": "dibuat / dirancang oleh siswa",
-    "context_location": "Art Gallery",
-    "level": "A1"
+    "question_text": "mitigate",
+    "audio_transcript": "To make something less severe, serious, or painful.",
+    "indonesian_meaning": "Mengurangi / meredakan dampak",
+    "context_location": "Task 2",
+    "level": "B2"
   },
   {
     "id": 3,
-    "question_text": "closed on Mondays",
-    "audio_transcript": "open every day of the week except at the very start",
-    "indonesian_meaning": "tutup pada hari Senin",
-    "context_location": "City Library",
-    "level": "A1"
+    "question_text": "ubiquitous",
+    "audio_transcript": "Present, appearing, or found everywhere at the same time.",
+    "indonesian_meaning": "Ada di mana-mana / merajalela",
+    "context_location": "Technology",
+    "level": "B2"
   },
   {
     "id": 4,
-    "question_text": "mandatory meeting",
-    "audio_transcript": "all new members are strictly required to attend",
-    "indonesian_meaning": "pertemuan wajib dihadiri",
-    "context_location": "Campus Facility",
-    "level": "A1"
+    "question_text": "detrimental",
+    "audio_transcript": "Causing harm or damage; having a harmful effect.",
+    "indonesian_meaning": "Merugikan / berdampak buruk",
+    "context_location": "Health",
+    "level": "B2"
   },
   {
     "id": 5,
-    "question_text": "recently renovated",
-    "audio_transcript": "the interior was fully refurbished and updated only last month",
-    "indonesian_meaning": "baru saja direnovasi / diperbarui",
-    "context_location": "Sports Centre",
+    "question_text": "harmful",
+    "audio_transcript": "Causing or likely to cause harm.",
+    "indonesian_meaning": "Berbahaya / merusak",
+    "context_location": "Environment",
     "level": "A1"
   },
   {
     "id": 6,
-    "question_text": "limited parking space",
-    "audio_transcript": "there are only a handful of car spots available for visitors",
-    "indonesian_meaning": "tempat parkir terbatas",
-    "context_location": "Town Hall",
+    "question_text": "free admission",
+    "audio_transcript": "There is no charge for entry, although donations are welcomed.",
+    "indonesian_meaning": "Masuk gratis / tanpa biaya masuk",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 7,
-    "question_text": "buy tickets in advance",
-    "audio_transcript": "you need to book your place online ahead of time",
-    "indonesian_meaning": "membeli tiket terlebih dahulu / di muka",
-    "context_location": "Theatre Box Office",
+    "question_text": "created by students",
+    "audio_transcript": "Designed entirely by young people who attended the summer workshop.",
+    "indonesian_meaning": "Dibuat / dirancang oleh siswa",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 8,
-    "question_text": "suitable for beginners",
-    "audio_transcript": "ideal if you have never tried this sport before",
-    "indonesian_meaning": "cocok untuk pemula",
-    "context_location": "Community Sports Club",
+    "question_text": "closed on mondays",
+    "audio_transcript": "Open every day of the week except at the very start.",
+    "indonesian_meaning": "Tutup pada hari Senin",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 9,
-    "question_text": "reduced price for groups",
-    "audio_transcript": "parties of ten or more will receive a special discount",
-    "indonesian_meaning": "harga diskon / potongan untuk rombongan",
-    "context_location": "Heritage Castle",
+    "question_text": "mandatory meeting",
+    "audio_transcript": "All new members are strictly required to attend.",
+    "indonesian_meaning": "Pertemuan wajib dihadiri",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 10,
-    "question_text": "postponed until next month",
-    "audio_transcript": "we originally hoped to start this week, but it has been put off until December",
-    "indonesian_meaning": "ditunda hingga bulan depan",
-    "context_location": "University Lecture Hall",
+    "question_text": "recently renovated",
+    "audio_transcript": "The interior was fully refurbished and updated only last month.",
+    "indonesian_meaning": "Baru saja direnovasi / diperbarui",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 11,
-    "question_text": "eating is not permitted",
-    "audio_transcript": "visitors must refrain from consuming any snacks or drinks inside",
-    "indonesian_meaning": "dilarang makan dan minum",
-    "context_location": "Science Exhibition",
+    "question_text": "limited parking space",
+    "audio_transcript": "There are only a handful of car spots available for visitors.",
+    "indonesian_meaning": "Tempat parkir terbatas",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 12,
-    "question_text": "located next to reception",
-    "audio_transcript": "right beside the main welcome desk as you walk through the doors",
-    "indonesian_meaning": "terletak di sebelah resepsionis",
-    "context_location": "Campus Information Desk",
+    "question_text": "buy tickets in advance",
+    "audio_transcript": "You need to book your place online ahead of time.",
+    "indonesian_meaning": "Membeli tiket terlebih dahulu / di muka",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 13,
-    "question_text": "bring your own equipment",
-    "audio_transcript": "participants are expected to supply their own tennis rackets",
-    "indonesian_meaning": "membawa peralatan sendiri",
-    "context_location": "Recreation Centre",
+    "question_text": "suitable for beginners",
+    "audio_transcript": "Ideal if you have never tried this activity before.",
+    "indonesian_meaning": "Cocok untuk pemula",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 14,
-    "question_text": "change of topic",
-    "audio_transcript": "we initially chose solar power, but we decided to switch to plastic recycling",
-    "indonesian_meaning": "perubahan topik tugas / penelitian",
-    "context_location": "Tutor Consultation Room",
+    "question_text": "reduced price for groups",
+    "audio_transcript": "Parties of ten or more will receive a special discount.",
+    "indonesian_meaning": "Harga diskon / potongan untuk rombongan",
+    "context_location": "IELTS Listening",
     "level": "A1"
   },
   {
     "id": 15,
+    "question_text": "postponed until next month",
+    "audio_transcript": "We initially planned to start this week, but it has been put off until December.",
+    "indonesian_meaning": "Ditunda hingga bulan depan",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "question_text": "eating is not permitted",
+    "audio_transcript": "Visitors must refrain from consuming snacks or drinks inside.",
+    "indonesian_meaning": "Dilarang makan dan minum",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "question_text": "located next to reception",
+    "audio_transcript": "Right beside the main welcome desk as you walk through the doors.",
+    "indonesian_meaning": "Terletak di sebelah resepsionis",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "question_text": "bring your own equipment",
+    "audio_transcript": "Participants are expected to supply their own sports gear.",
+    "indonesian_meaning": "Membawa peralatan sendiri",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "question_text": "change of topic",
+    "audio_transcript": "We initially chose solar power, but we decided to switch to plastic recycling.",
+    "indonesian_meaning": "Perubahan topik tugas / penelitian",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 20,
     "question_text": "available on weekdays only",
-    "audio_transcript": "the shuttle bus operates Monday through Friday, not over the weekend",
-    "indonesian_meaning": "hanya tersedia pada hari kerja",
-    "context_location": "University Bus Terminal",
+    "audio_transcript": "The campus shuttle operates Monday through Friday, not over the weekend.",
+    "indonesian_meaning": "Hanya tersedia pada hari kerja",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "question_text": "adjacent to the cafeteria",
+    "audio_transcript": "Situated directly adjoining the main dining hall on the ground floor.",
+    "indonesian_meaning": "Bersebelahan dengan kafetaria",
+    "context_location": "IELTS Listening",
+    "level": "B2"
+  },
+  {
+    "id": 22,
+    "question_text": "fully booked",
+    "audio_transcript": "There are no vacancies remaining as every slot has been reserved.",
+    "indonesian_meaning": "Penuh dipesan / tidak ada sisa tempat",
+    "context_location": "IELTS Listening",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "question_text": "complimentary refreshment",
+    "audio_transcript": "Tea, coffee, and biscuits will be provided at no extra cost.",
+    "indonesian_meaning": "Makanan / minuman ringan gratis",
+    "context_location": "IELTS Listening",
+    "level": "B2"
+  },
+  {
+    "id": 24,
+    "question_text": "preliminary findings",
+    "audio_transcript": "The initial data gathered before comprehensive laboratory testing was completed.",
+    "indonesian_meaning": "Temuan awal penelitian",
+    "context_location": "IELTS Listening",
+    "level": "B2"
+  },
+  {
+    "id": 25,
+    "question_text": "unanimous decision",
+    "audio_transcript": "Every member of the committee was in total accord and voted in favor.",
+    "indonesian_meaning": "Keputusan bulat / disepakati semua pihak",
+    "context_location": "IELTS Listening",
+    "level": "B2"
+  },
+  {
+    "id": 26,
+    "question_text": "exacerbate",
+    "audio_transcript": "To make a problem, bad situation, or negative feeling worse.",
+    "indonesian_meaning": "Memperburuk / memperparah situasi",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 27,
+    "question_text": "proliferation",
+    "audio_transcript": "Rapid increase in the number or amount of something.",
+    "indonesian_meaning": "Perkembangan pesat / lonjakan jumlah cepat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 28,
+    "question_text": "disparity",
+    "audio_transcript": "A noticeable and usually unfair difference between people or things.",
+    "indonesian_meaning": "Kesenjangan / ketimpangan mencolok",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 29,
+    "question_text": "indispensable",
+    "audio_transcript": "Absolutely necessary; essential.",
+    "indonesian_meaning": "Sangat penting / mutlak diperlukan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 30,
+    "question_text": "substantiate",
+    "audio_transcript": "To provide evidence to support or prove the truth of an assertion.",
+    "indonesian_meaning": "Membuktikan dengan fakta / bukti kuat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 31,
+    "question_text": "imperative",
+    "audio_transcript": "Of vital importance; crucial.",
+    "indonesian_meaning": "Sangat mendesak / wajib diprioritaskan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 32,
+    "question_text": "conceivable",
+    "audio_transcript": "Capable of being imagined or grasped mentally; plausible.",
+    "indonesian_meaning": "Masuk akal / dapat dibayangkan atau dipikirkan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 33,
+    "question_text": "comprehensive",
+    "audio_transcript": "Complete; including all or nearly all elements or aspects of something.",
+    "indonesian_meaning": "Menyeluruh / lengkap mencakup semua aspek",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 34,
+    "question_text": "prevalent",
+    "audio_transcript": "Widespread in a particular area or at a particular time.",
+    "indonesian_meaning": "Lazim / umum tersebar di masyarakat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 35,
+    "question_text": "discrepancy",
+    "audio_transcript": "A lack of compatibility or similarity between two or more facts.",
+    "indonesian_meaning": "Ketidaksesuaian / selisih perbedaan data",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 36,
+    "question_text": "commence",
+    "audio_transcript": "To begin or start something formal or official.",
+    "indonesian_meaning": "Memulai / mengawali",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 37,
+    "question_text": "implement",
+    "audio_transcript": "Put a decision, plan, agreement, etc. into effect.",
+    "indonesian_meaning": "Menerapkan / melaksanakan kebijakan",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 38,
+    "question_text": "adverse",
+    "audio_transcript": "Preventing success or development; harmful; unfavorable.",
+    "indonesian_meaning": "Merugikan / tidak menguntungkan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 39,
+    "question_text": "sustainable",
+    "audio_transcript": "Able to be maintained at a certain rate or level without exhausting natural resources.",
+    "indonesian_meaning": "Berkelanjutan / ramah jangka panjang",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 40,
+    "question_text": "substantial",
+    "audio_transcript": "Of considerable importance, size, or worth.",
+    "indonesian_meaning": "Signifikan / dalam jumlah besar",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 41,
+    "question_text": "controversy",
+    "audio_transcript": "Disagreement, typically when prolonged, public, and heated.",
+    "indonesian_meaning": "Perdebatan sengit / kontroversi publik",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 42,
+    "question_text": "divergent",
+    "audio_transcript": "Tending to be different or develop in different directions.",
+    "indonesian_meaning": "Berbeda haluan / bertentangan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 43,
+    "question_text": "crucial",
+    "audio_transcript": "Decisive or critical, especially in the success or failure of something.",
+    "indonesian_meaning": "Sangat penting dan menentukan",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 44,
+    "question_text": "feasible",
+    "audio_transcript": "Possible to do easily or conveniently; practical.",
+    "indonesian_meaning": "Layak / memungkinkan untuk direalisasikan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 45,
+    "question_text": "pragmatic",
+    "audio_transcript": "Dealing with things sensibly and realistically based on practical considerations.",
+    "indonesian_meaning": "Praktis / berdasarkan kenyataan logis",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 46,
+    "question_text": "unprecedented",
+    "audio_transcript": "Never done or known before.",
+    "indonesian_meaning": "Belum pernah terjadi sebelumnya",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 47,
+    "question_text": "catastrophic",
+    "audio_transcript": "Involving or causing sudden great damage or suffering.",
+    "indonesian_meaning": "Sangat dahsyat / menghancurkan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 48,
+    "question_text": "deteriorate",
+    "audio_transcript": "Become progressively worse.",
+    "indonesian_meaning": "Memburuk / mengalami penurunan mutu",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 49,
+    "question_text": "foster",
+    "audio_transcript": "Encourage the development of something, especially something desirable.",
+    "indonesian_meaning": "Mendorong / menumbuhkan hal positif",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 50,
+    "question_text": "predecessor",
+    "audio_transcript": "A person or thing that held a job or office before the current holder, or an earlier model.",
+    "indonesian_meaning": "Pendahulu / versi sebelumnya",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 51,
+    "question_text": "a double-edged sword",
+    "audio_transcript": "Something that has both advantages and disadvantages.",
+    "indonesian_meaning": "Pedang bermata dua / ada plus minusnya",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 52,
+    "question_text": "every cloud has a silver lining",
+    "audio_transcript": "Every difficult or sad situation has a positive aspect to it.",
+    "indonesian_meaning": "Selalu ada hikmah di balik setiap musibah",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 53,
+    "question_text": "once in a blue moon",
+    "audio_transcript": "Very rarely; almost never.",
+    "indonesian_meaning": "Sangat jarang sekali terjadi",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 54,
+    "question_text": "down in the dumps",
+    "audio_transcript": "Feeling unhappy, depressed, or gloomy.",
+    "indonesian_meaning": "Merasa sedih / tertekan",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 55,
+    "question_text": "cost an arm and a leg",
+    "audio_transcript": "To be extremely expensive.",
+    "indonesian_meaning": "Sangat mahal harganya",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 56,
+    "question_text": "hit the nail on the head",
+    "audio_transcript": "To state the exact truth; to describe precisely what is causing a situation.",
+    "indonesian_meaning": "Tepat sasaran / sangat akurat analisisnya",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 57,
+    "question_text": "burn the midnight oil",
+    "audio_transcript": "To work or study late into the night.",
+    "indonesian_meaning": "Belajar atau bekerja hingga larut malam",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 58,
+    "question_text": "over the moon",
+    "audio_transcript": "Extremely pleased, happy, and thrilled.",
+    "indonesian_meaning": "Sangat gembira dan bahagia",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 59,
+    "question_text": "at the crossroads",
+    "audio_transcript": "At a point where an important decision must be made.",
+    "indonesian_meaning": "Berada di persimpangan keputusan penting",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 60,
+    "question_text": "take it with a grain of salt",
+    "audio_transcript": "To understand that something is likely to be untrue or exaggerated.",
+    "indonesian_meaning": "Tidak langsung percaya begitu saja / skeptis sehat",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 61,
+    "question_text": "see eye to eye",
+    "audio_transcript": "To agree fully with someone on an issue.",
+    "indonesian_meaning": "Sependapat / sevisi dengan orang lain",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 62,
+    "question_text": "broaden one's horizons",
+    "audio_transcript": "To expand ones knowledge, experience, or perspective.",
+    "indonesian_meaning": "Memperluas wawasan dan sudut pandang",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 63,
+    "question_text": "step out of one's comfort zone",
+    "audio_transcript": "To do things that you do not feel comfortable doing or that are unfamiliar.",
+    "indonesian_meaning": "Keluar dari zona nyaman demi perkembangan diri",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 64,
+    "question_text": "out of the blue",
+    "audio_transcript": "Completely unexpectedly; without prior notice.",
+    "indonesian_meaning": "Tiba-tiba tanpa aba-aba atau peringatan",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 65,
+    "question_text": "a blessing in disguise",
+    "audio_transcript": "An apparent misfortune that eventually has good results.",
+    "indonesian_meaning": "Berkah tersembunyi di balik musibah",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 66,
+    "question_text": "through thick and thin",
+    "audio_transcript": "Under all conditions, no matter how challenging or difficult.",
+    "indonesian_meaning": "Dalam suka maupun duka / setia selalu",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 67,
+    "question_text": "food for thought",
+    "audio_transcript": "Something that warrants serious consideration or reflection.",
+    "indonesian_meaning": "Bahan perenungan mendalam",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 68,
+    "question_text": "bite the bullet",
+    "audio_transcript": "To force yourself to do something unpleasant or difficult that you have been hesitating to do.",
+    "indonesian_meaning": "Mengambil keputusan sulit dengan berani",
+    "context_location": "Part 1-3",
+    "level": "B2"
+  },
+  {
+    "id": 69,
+    "question_text": "keep fingers crossed",
+    "audio_transcript": "To hope that someone will be successful or that something good will happen.",
+    "indonesian_meaning": "Berharap yang terbaik / semoga beruntung",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 70,
+    "question_text": "up in the air",
+    "audio_transcript": "Uncertain or unresolved; not yet decided.",
+    "indonesian_meaning": "Belum ada kepastian / masih mengambang",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 71,
+    "question_text": "break the ice",
+    "audio_transcript": "To do or say something that makes people feel more relaxed and comfortable in a social setting.",
+    "indonesian_meaning": "Mencairkan suasana yang kaku",
+    "context_location": "Part 1-3",
+    "level": "A1"
+  },
+  {
+    "id": 72,
+    "question_text": "surge dramatically",
+    "audio_transcript": "To experience a sudden, very steep and large increase.",
+    "indonesian_meaning": "Melonjak tajam dalam waktu singkat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 73,
+    "question_text": "plummet sharply",
+    "audio_transcript": "To fall or drop very rapidly from a high level.",
+    "indonesian_meaning": "Anjlok secara drastis",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 74,
+    "question_text": "fluctuate wildly",
+    "audio_transcript": "To change continually and irregularly with wide oscillations.",
+    "indonesian_meaning": "Berfluktuasi tidak menentu",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 75,
+    "question_text": "plateau at",
+    "audio_transcript": "To reach a state or level where there is little or no further change.",
+    "indonesian_meaning": "Mencapai titik stabil / mendatar",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 76,
+    "question_text": "in stark contrast to",
+    "audio_transcript": "Used to emphasize how completely different one thing is from another.",
+    "indonesian_meaning": "Sangat berbanding terbalik dengan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 77,
+    "question_text": "the vast majority",
+    "audio_transcript": "An overwhelming proportion (usually greater than 75-80%).",
+    "indonesian_meaning": "Mayoritas mutlak / sebagian besar",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 78,
+    "question_text": "a negligible fraction",
+    "audio_transcript": "A very tiny proportion that is unimportant and can be disregarded.",
+    "indonesian_meaning": "Sebagian kecil yang sangat tidak signifikan",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 79,
+    "question_text": "conversely",
+    "audio_transcript": "Introducing a statement or idea that reverses or contrasts with one that has just been made.",
+    "indonesian_meaning": "Sebaliknya / berbanding terbalik",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 80,
+    "question_text": "notwithstanding",
+    "audio_transcript": "In spite of; despite.",
+    "indonesian_meaning": "Meskipun demikian / terlepas dari",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 81,
+    "question_text": "profound implication",
+    "audio_transcript": "Deep, far-reaching effects or consequences.",
+    "indonesian_meaning": "Konsekuensi / dampak yang sangat mendalam",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 82,
+    "question_text": "viable alternative",
+    "audio_transcript": "A practical and capable option that can succeed.",
+    "indonesian_meaning": "Alternatif pilihan yang realistis dan efektif",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 83,
+    "question_text": "mounting pressure",
+    "audio_transcript": "Increasing force or burden that builds up steadily.",
+    "indonesian_meaning": "Tekanan yang semakin meningkat tajam",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 84,
+    "question_text": "pivotal turning point",
+    "audio_transcript": "A critical moment of decision or change with lasting historical effects.",
+    "indonesian_meaning": "Titik balik yang sangat krusial",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 85,
+    "question_text": "holistic perspective",
+    "audio_transcript": "Viewing something by considering whole systems rather than just individual parts.",
+    "indonesian_meaning": "Sudut pandang menyeluruh dari semua sisi",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 86,
+    "question_text": "paradigm shift",
+    "audio_transcript": "A fundamental change in approach or underlying assumptions.",
+    "indonesian_meaning": "Pergeseran paradigma / perubahan pola pikir mendasar",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 87,
+    "question_text": "cognitive ability",
+    "audio_transcript": "Mental capabilities including reasoning, memory, problem-solving, and attention.",
+    "indonesian_meaning": "Kemampuan kognitif / daya pikir dan nalar",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 88,
+    "question_text": "intrinsic motivation",
+    "audio_transcript": "Behavior driven by internal rewards rather than external incentives.",
+    "indonesian_meaning": "Motivasi dari dalam diri / minat murni",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 89,
+    "question_text": "biodiversity conservation",
+    "audio_transcript": "The protection and management of species and biological ecosystems.",
+    "indonesian_meaning": "Pelestarian keanekaragaman hayati",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 90,
+    "question_text": "carbon footprint",
+    "audio_transcript": "The total amount of greenhouse gases generated by human actions and lifestyle.",
+    "indonesian_meaning": "Jejak karbon / jumlah emisi gas rumah kaca",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 91,
+    "question_text": "social cohesion",
+    "audio_transcript": "The strength of relationships and the sense of solidarity among members of a community.",
+    "indonesian_meaning": "Kerekatan sosial / keharmonisan masyarakat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 92,
+    "question_text": "cultural heritage",
+    "audio_transcript": "The traditions, monuments, objects, and culture inherited from past generations.",
+    "indonesian_meaning": "Warisan budaya leluhur",
+    "context_location": "Task 2",
+    "level": "A1"
+  },
+  {
+    "id": 93,
+    "question_text": "exponential growth",
+    "audio_transcript": "Extremely rapid increase in size or extent.",
+    "indonesian_meaning": "Pertumbuhan berlipat ganda / luar biasa pesat",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "question_text": "socioeconomic status",
+    "audio_transcript": "An economic and sociological combined total measure of a persons work experience and economic position.",
+    "indonesian_meaning": "Status sosial dan ekonomi seseorang",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "question_text": "incentivize",
+    "audio_transcript": "To motivate or encourage someone to do something, typically with financial or tangible rewards.",
+    "indonesian_meaning": "Memberikan insentif / dorongan nyata",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "question_text": "empirical research",
+    "audio_transcript": "Research based on observed and measured phenomena and derives knowledge from actual experience rather than theory.",
+    "indonesian_meaning": "Penelitian berbasis fakta dan bukti nyata",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "question_text": "subsidize",
+    "audio_transcript": "Support financially, typically by paying part of the cost from public funds.",
+    "indonesian_meaning": "Memberikan subsidi / bantuan dana",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "question_text": "pervasive",
+    "audio_transcript": "Spreading widely throughout an area or a group of people, especially of an unwelcome influence.",
+    "indonesian_meaning": "Meresap luas / merambah ke segala lini",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "question_text": "mitigating circumstances",
+    "audio_transcript": "Conditions or happenings which do not excuse an offense, but which may be considered as reasons for reducing punishment.",
+    "indonesian_meaning": "Keadaan yang meringankan kesalahan atau sanksi",
+    "context_location": "Task 2",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "question_text": "compulsory education",
+    "audio_transcript": "A period of education that is required of all people and is imposed by government law.",
+    "indonesian_meaning": "Pendidikan wajib belajar bagi anak-anak",
+    "context_location": "Task 2",
     "level": "A1"
   }
 ]

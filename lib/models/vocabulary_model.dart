@@ -14,6 +14,7 @@ class Vocabulary {
   final List<String> topics;
   final String? notes;
   final bool isFavorite;
+  final bool isMastered; // true = Sudah Ingat, false = Belum Ingat / Perlu Diingat
   final DateTime createdAt;
   final DateTime updatedAt;
 
@@ -31,6 +32,7 @@ class Vocabulary {
     this.topics = const ['Other'],
     this.notes,
     this.isFavorite = false,
+    this.isMastered = false,
     required this.createdAt,
     required this.updatedAt,
   });
@@ -49,6 +51,7 @@ class Vocabulary {
     List<String>? topics,
     String? notes,
     bool? isFavorite,
+    bool? isMastered,
     DateTime? createdAt,
     DateTime? updatedAt,
   }) {
@@ -66,6 +69,7 @@ class Vocabulary {
       topics: topics ?? this.topics,
       notes: notes ?? this.notes,
       isFavorite: isFavorite ?? this.isFavorite,
+      isMastered: isMastered ?? this.isMastered,
       createdAt: createdAt ?? this.createdAt,
       updatedAt: updatedAt ?? this.updatedAt,
     );
@@ -87,6 +91,7 @@ class Vocabulary {
       'topics': jsonEncode(topics),
       'notes': notes?.trim().isEmpty ?? true ? null : notes?.trim(),
       'is_favorite': isFavorite ? 1 : 0,
+      'is_mastered': isMastered ? 1 : 0,
       'created_at': createdAt.millisecondsSinceEpoch,
       'updated_at': updatedAt.millisecondsSinceEpoch,
     };
@@ -127,6 +132,7 @@ class Vocabulary {
       topics: parseList(map['topics']),
       notes: map['notes'] as String?,
       isFavorite: (map['is_favorite'] as int? ?? 0) == 1,
+      isMastered: (map['is_mastered'] as int? ?? 0) == 1,
       createdAt: DateTime.fromMillisecondsSinceEpoch(
         map['created_at'] as int? ?? DateTime.now().millisecondsSinceEpoch,
       ),

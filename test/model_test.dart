@@ -112,5 +112,18 @@ void main() {
       expect(updated.phonetic, testVocab.phonetic);
       expect(updated.usageCategories, testVocab.usageCategories);
     });
+
+    test('isMastered field roundtrip and copyWith work properly', () {
+      final unmastered = testVocab.copyWith(isMastered: false);
+      expect(unmastered.isMastered, isFalse);
+      expect(unmastered.toMap()['is_mastered'], 0);
+
+      final mastered = unmastered.copyWith(isMastered: true);
+      expect(mastered.isMastered, isTrue);
+      expect(mastered.toMap()['is_mastered'], 1);
+
+      final restored = Vocabulary.fromMap(mastered.toMap());
+      expect(restored.isMastered, isTrue);
+    });
   });
 }

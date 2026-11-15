@@ -64,12 +64,10 @@ class HomeScreen extends ConsumerWidget {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final isWide = Responsive.isWide(context);
 
-    final targetTotal = stats.total > 0 ? stats.total : 10;
-    final targetDone =
-        stats.total > 0 ? (stats.total >= 3 ? 3 : stats.total) : 0;
-    final remainingWords = (targetTotal - targetDone).clamp(0, 999);
-    final progress =
-        targetTotal > 0 ? (targetDone / targetTotal).clamp(0.0, 1.0) : 0.3;
+    final targetTotal = stats.total;
+    final targetDone = stats.mastered;
+    final remainingWords = stats.unmastered;
+    final progress = stats.masteredPercentage;
     final progressPercent = (progress * 100).toInt();
 
     return Scaffold(
@@ -264,7 +262,9 @@ class HomeScreen extends ConsumerWidget {
                               ),
                               const SizedBox(height: 2),
                               Text(
-                                '$targetDone dari $targetTotal kata selesai',
+                                targetDone == 0
+                                    ? '$remainingWords kata siap dihafal'
+                                    : '$targetDone dari $targetTotal kata sudah diingat',
                                 style: TextStyle(
                                   color: Colors.white.withValues(alpha: 0.85),
                                   fontSize: 12,
@@ -358,7 +358,12 @@ class HomeScreen extends ConsumerWidget {
                         ),
                         const SizedBox(width: 8),
                         InkWell(
-                          onTap: onViewAllTap,
+                          onTap: () {
+                            ref
+                                .read(vocabularyFilterProvider.notifier)
+                                .setMasteredStatus(false);
+                            onViewAllTap();
+                          },
                           borderRadius: BorderRadius.circular(18),
                           child: Container(
                             padding: const EdgeInsets.symmetric(
@@ -435,7 +440,7 @@ class HomeScreen extends ConsumerWidget {
               ),
               const SizedBox(height: 10),
 
-              // Stats Cards (Single Row on Wide Screen, 2x2 Grid on Mobile)
+              // Stats Cards (Row on Wide Screen, Grid on Mobile)
               if (isWide)
                 Row(
                   children: [
@@ -444,6 +449,40 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Total Kata',
                         count: stats.total,
                         icon: Icons.menu_book_outlined,
+                        onTap: () {
+                          ref.read(vocabularyFilterProvider.notifier).reset();
+                          onViewAllTap();
+                        },
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: _StatCard(
+                        title: 'Sudah Ingat',
+                        count: stats.mastered,
+                        icon: Icons.check_circle_rounded,
+                        iconColor: const Color(0xFF10B981),
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setMasteredStatus(true);
+                          onViewAllTap();
+                        },
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: _StatCard(
+                        title: 'Belum Ingat',
+                        count: stats.unmastered,
+                        icon: Icons.schedule_rounded,
+                        iconColor: const Color(0xFFD97706),
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setMasteredStatus(false);
+                          onViewAllTap();
+                        },
                       ),
                     ),
                     const SizedBox(width: 12),
@@ -452,6 +491,12 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Speaking',
                         count: stats.speaking,
                         icon: Icons.mic_none_rounded,
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setUsage('Speaking');
+                          onViewAllTap();
+                        },
                       ),
                     ),
                     const SizedBox(width: 12),
@@ -460,14 +505,12 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Writing',
                         count: stats.writing,
                         icon: Icons.mode_edit_outline_rounded,
-                      ),
-                    ),
-                    const SizedBox(width: 12),
-                    Expanded(
-                      child: _StatCard(
-                        title: 'General',
-                        count: stats.general,
-                        icon: Icons.chat_bubble_outline_rounded,
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setUsage('Writing');
+                          onViewAllTap();
+                        },
                       ),
                     ),
                   ],
@@ -480,6 +523,44 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Total Kata',
                         count: stats.total,
                         icon: Icons.menu_book_outlined,
+                        onTap: () {
+                          ref.read(vocabularyFilterProvider.notifier).reset();
+                          onViewAllTap();
+                        },
+                      ),
+                    ),
+                    const SizedBox(width: 10),
+                    Expanded(
+                      child: _StatCard(
+                        title: 'Sudah Ingat',
+                        count: stats.mastered,
+                        icon: Icons.check_circle_rounded,
+                        iconColor: const Color(0xFF10B981),
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setMasteredStatus(true);
+                          onViewAllTap();
+                        },
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 10),
+                Row(
+                  children: [
+                    Expanded(
+                      child: _StatCard(
+                        title: 'Belum Ingat',
+                        count: stats.unmastered,
+                        icon: Icons.schedule_rounded,
+                        iconColor: const Color(0xFFD97706),
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setMasteredStatus(false);
+                          onViewAllTap();
+                        },
                       ),
                     ),
                     const SizedBox(width: 10),
@@ -488,6 +569,12 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Speaking',
                         count: stats.speaking,
                         icon: Icons.mic_none_rounded,
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setUsage('Speaking');
+                          onViewAllTap();
+                        },
                       ),
                     ),
                   ],
@@ -500,6 +587,12 @@ class HomeScreen extends ConsumerWidget {
                         title: 'Writing',
                         count: stats.writing,
                         icon: Icons.mode_edit_outline_rounded,
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setUsage('Writing');
+                          onViewAllTap();
+                        },
                       ),
                     ),
                     const SizedBox(width: 10),
@@ -508,6 +601,12 @@ class HomeScreen extends ConsumerWidget {
                         title: 'General',
                         count: stats.general,
                         icon: Icons.chat_bubble_outline_rounded,
+                        onTap: () {
+                          ref
+                              .read(vocabularyFilterProvider.notifier)
+                              .setUsage('General');
+                          onViewAllTap();
+                        },
                       ),
                     ),
                   ],
@@ -638,18 +737,22 @@ class _StatCard extends StatelessWidget {
   final String title;
   final int count;
   final IconData icon;
+  final Color? iconColor;
+  final VoidCallback? onTap;
 
   const _StatCard({
     required this.title,
     required this.count,
     required this.icon,
+    this.iconColor,
+    this.onTap,
   });
 
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
-    return Container(
+    final card = Container(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
       decoration: BoxDecoration(
         color: isDark ? AppColors.darkCard : Colors.white,
@@ -700,7 +803,8 @@ class _StatCard extends StatelessWidget {
                 child: Icon(
                   icon,
                   size: 15,
-                  color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                  color: iconColor ??
+                      (isDark ? AppColors.darkPrimary : AppColors.lushPrimary),
                 ),
               ),
             ],
@@ -720,5 +824,14 @@ class _StatCard extends StatelessWidget {
         ],
       ),
     );
+
+    if (onTap != null) {
+      return InkWell(
+        onTap: onTap,
+        borderRadius: BorderRadius.circular(18),
+        child: card,
+      );
+    }
+    return card;
   }
 }

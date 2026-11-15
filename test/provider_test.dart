@@ -163,6 +163,26 @@ void main() {
       filtered = container.read(filteredVocabulariesProvider);
       expect(filtered.every((v) => v.isFavorite), isTrue);
 
+      // Test Filter: Mastered status filter
+      container.read(vocabularyFilterProvider.notifier).reset();
+      await container
+          .read(vocabularyNotifierProvider.notifier)
+          .toggleMastered(addedId, false);
+      container.read(vocabularyFilterProvider.notifier).setMasteredStatus(true);
+      filtered = container.read(filteredVocabulariesProvider);
+      expect(filtered.every((v) => v.isMastered), isTrue);
+      expect(filtered.any((v) => v.id == addedId), isTrue);
+
+      container.read(vocabularyFilterProvider.notifier).setMasteredStatus(false);
+      filtered = container.read(filteredVocabulariesProvider);
+      expect(filtered.every((v) => !v.isMastered), isTrue);
+      expect(filtered.any((v) => v.id == addedId), isFalse);
+
+      // Toggle back
+      await container
+          .read(vocabularyNotifierProvider.notifier)
+          .toggleMastered(addedId, true);
+
       // Test Sort: Alphabetical
       container.read(vocabularyFilterProvider.notifier).reset();
       container
@@ -206,6 +226,9 @@ void main() {
       expect(stats.general, greaterThan(0));
       expect(stats.basic, greaterThan(0));
       expect(stats.advance, greaterThan(0));
+      expect(stats.unmastered, greaterThanOrEqualTo(0));
+      expect(stats.mastered, greaterThanOrEqualTo(0));
+      expect(stats.mastered + stats.unmastered, stats.total);
     });
 
     test('customTopicsProvider adds and fetches custom topics', () async {

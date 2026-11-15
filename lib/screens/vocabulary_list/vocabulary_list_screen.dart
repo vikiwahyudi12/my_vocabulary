@@ -596,9 +596,68 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
                     label: 'Semua',
                     isSelected: filter.selectedUsage == null &&
                         filter.selectedLevel == null &&
+                        filter.isMastered == null &&
                         !filter.onlyFavorites,
                     onTap: () {
                       ref.read(vocabularyFilterProvider.notifier).reset();
+                    },
+                    isDark: isDark,
+                  ),
+                  const SizedBox(width: 8),
+                  _buildFilterPill(
+                    label: 'Belum Ingat (${stats.unmastered})',
+                    isSelected: filter.isMastered == false,
+                    icon: Icons.schedule_rounded,
+                    onTap: () {
+                      ref.read(vocabularyFilterProvider.notifier).setMasteredStatus(
+                            filter.isMastered == false ? null : false,
+                          );
+                    },
+                    isDark: isDark,
+                  ),
+                  const SizedBox(width: 8),
+                  _buildFilterPill(
+                    label: 'Sudah Ingat (${stats.mastered})',
+                    isSelected: filter.isMastered == true,
+                    icon: Icons.check_circle_rounded,
+                    onTap: () {
+                      ref.read(vocabularyFilterProvider.notifier).setMasteredStatus(
+                            filter.isMastered == true ? null : true,
+                          );
+                    },
+                    isDark: isDark,
+                  ),
+                  const SizedBox(width: 8),
+                  _buildFilterPill(
+                    label: 'Favorit',
+                    isSelected: filter.onlyFavorites,
+                    icon: Icons.bookmark_rounded,
+                    onTap: () {
+                      ref
+                          .read(vocabularyFilterProvider.notifier)
+                          .toggleOnlyFavorites();
+                    },
+                    isDark: isDark,
+                  ),
+                  const SizedBox(width: 8),
+                  _buildFilterPill(
+                    label: 'Basic',
+                    isSelected: filter.selectedLevel == 'Basic',
+                    onTap: () {
+                      ref.read(vocabularyFilterProvider.notifier).setLevel(
+                            filter.selectedLevel == 'Basic' ? null : 'Basic',
+                          );
+                    },
+                    isDark: isDark,
+                  ),
+                  const SizedBox(width: 8),
+                  _buildFilterPill(
+                    label: 'Advance',
+                    isSelected: filter.selectedLevel == 'Advance',
+                    onTap: () {
+                      ref.read(vocabularyFilterProvider.notifier).setLevel(
+                            filter.selectedLevel == 'Advance' ? null : 'Advance',
+                          );
                     },
                     isDark: isDark,
                   ),
@@ -620,40 +679,6 @@ class _VocabularyListScreenState extends ConsumerState<VocabularyListScreen> {
                     onTap: () {
                       ref.read(vocabularyFilterProvider.notifier).setUsage(
                             filter.selectedUsage == 'Writing' ? null : 'Writing',
-                          );
-                    },
-                    isDark: isDark,
-                  ),
-                  const SizedBox(width: 8),
-                  _buildFilterPill(
-                    label: 'Favorit',
-                    isSelected: filter.onlyFavorites,
-                    icon: Icons.bookmark_rounded,
-                    onTap: () {
-                      ref
-                          .read(vocabularyFilterProvider.notifier)
-                          .toggleOnlyFavorites();
-                    },
-                    isDark: isDark,
-                  ),
-                  const SizedBox(width: 8),
-                  _buildFilterPill(
-                    label: 'Advance',
-                    isSelected: filter.selectedLevel == 'Advance',
-                    onTap: () {
-                      ref.read(vocabularyFilterProvider.notifier).setLevel(
-                            filter.selectedLevel == 'Advance' ? null : 'Advance',
-                          );
-                    },
-                    isDark: isDark,
-                  ),
-                  const SizedBox(width: 8),
-                  _buildFilterPill(
-                    label: 'Basic',
-                    isSelected: filter.selectedLevel == 'Basic',
-                    onTap: () {
-                      ref.read(vocabularyFilterProvider.notifier).setLevel(
-                            filter.selectedLevel == 'Basic' ? null : 'Basic',
                           );
                     },
                     isDark: isDark,

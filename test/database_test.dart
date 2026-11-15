@@ -154,5 +154,38 @@ void main() {
       topics = await AppDatabase.instance.getCustomTopics();
       expect(topics.contains('Psychology'), isFalse);
     });
+
+    test('Database toggleMastered and mastered stats work properly', () async {
+      final now = DateTime.now();
+      final vocab = Vocabulary(
+        word: 'Ambiguous',
+        meaning: 'Bermakna ganda / ambigu',
+        level: 'Advance',
+        createdAt: now,
+        updatedAt: now,
+        isMastered: false,
+      );
+
+      final insertedId = await AppDatabase.instance.insertVocabulary(vocab);
+      expect(insertedId, isNonZero);
+
+      var fetched = await AppDatabase.instance.getVocabularyById(insertedId);
+      expect(fetched!.isMastered, isFalse);
+
+      // Toggle to mastered
+      await AppDatabase.instance.toggleMastered(insertedId, false);
+      fetched = await AppDatabase.instance.getVocabularyById(insertedId);
+      expect(fetched!.isMastered, isTrue);
+
+      // Verify stats
+      final stats = await AppDatabase.instance.getStats();
+      expect(stats['mastered'], greaterThanOrEqualTo(1));
+      expect(stats['unmastered'], greaterThanOrEqualTo(0));
+
+      // Toggle back to unmastered
+      await AppDatabase.instance.toggleMastered(insertedId, true);
+      fetched = await AppDatabase.instance.getVocabularyById(insertedId);
+      expect(fetched!.isMastered, isFalse);
+    });
   });
 }

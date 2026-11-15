@@ -39,7 +39,7 @@ class AppDatabase {
     try {
       final db = await openDatabase(
         path,
-        version: 3,
+        version: 4,
         onCreate: _onCreate,
         onUpgrade: _onUpgrade,
       );
@@ -51,8 +51,18 @@ class AppDatabase {
     }
   }
 
-        Future<void> _ensureInitialSeeds(Database db) async {
+  Future<void> _ensureInitialSeeds(Database db) async {
     try {
+      // Defensive schema check: ensure is_mastered column exists
+      try {
+        await db.execute(
+          'ALTER TABLE vocabularies ADD COLUMN is_mastered INTEGER NOT NULL DEFAULT 0',
+        );
+        await db.execute(
+          'CREATE INDEX IF NOT EXISTS idx_vocab_mastered ON vocabularies(is_mastered)',
+        );
+      } catch (_) {}
+
       final marker = await db.query(
         'custom_topics',
         where: 'name = ?',
@@ -90,6 +100,7 @@ class AppDatabase {
         topics TEXT NOT NULL,
         notes TEXT,
         is_favorite INTEGER NOT NULL DEFAULT 0,
+        is_mastered INTEGER NOT NULL DEFAULT 0,
         created_at INTEGER NOT NULL,
         updated_at INTEGER NOT NULL
       )
@@ -108,6 +119,7 @@ class AppDatabase {
     await db.execute('CREATE INDEX idx_vocab_created_at ON vocabularies(created_at DESC)');
     await db.execute('CREATE INDEX idx_vocab_level ON vocabularies(level)');
     await db.execute('CREATE INDEX idx_vocab_favorite ON vocabularies(is_favorite)');
+    await db.execute('CREATE INDEX idx_vocab_mastered ON vocabularies(is_mastered)');
 
     // Seed initial IELTS vocabulary data matching design mockup
     await _seedInitialData(db);
@@ -129,6 +141,14 @@ class AppDatabase {
       );
       await db.execute(
         'CREATE INDEX IF NOT EXISTS idx_vocab_favorite ON vocabularies(is_favorite)',
+      );
+    }
+    if (oldVersion < 4) {
+      await db.execute(
+        'ALTER TABLE vocabularies ADD COLUMN is_mastered INTEGER NOT NULL DEFAULT 0',
+      );
+      await db.execute(
+        'CREATE INDEX IF NOT EXISTS idx_vocab_mastered ON vocabularies(is_mastered)',
       );
     }
   }
@@ -11522,7 +11542,23 @@ class AppDatabase {
     final db = await database;
     await db.update(
       'vocabularies',
-      {'is_favorite': currentStatus ? 0 : 1},
+      {
+        'is_favorite': currentStatus ? 0 : 1,
+        'updated_at': DateTime.now().millisecondsSinceEpoch,
+      },
+      where: 'id = ?',
+      whereArgs: [id],
+    );
+  }
+
+  Future<void> toggleMastered(int id, bool currentStatus) async {
+    final db = await database;
+    await db.update(
+      'vocabularies',
+      {
+        'is_mastered': currentStatus ? 0 : 1,
+        'updated_at': DateTime.now().millisecondsSinceEpoch,
+      },
       where: 'id = ?',
       whereArgs: [id],
     );
@@ -11579,6 +11615,8 @@ class AppDatabase {
     int generalCount = 0;
     int basicCount = 0;
     int advanceCount = 0;
+    int masteredCount = 0;
+    int unmasteredCount = 0;
 
     for (final v in vocabs) {
       if (v.hasUsage('Speaking')) speakingCount++;
@@ -11586,6 +11624,11 @@ class AppDatabase {
       if (v.hasUsage('General')) generalCount++;
       if (v.isBasic) basicCount++;
       if (v.isAdvance) advanceCount++;
+      if (v.isMastered) {
+        masteredCount++;
+      } else {
+        unmasteredCount++;
+      }
     }
 
     return {
@@ -11595,6 +11638,8 @@ class AppDatabase {
       'general': generalCount,
       'basic': basicCount,
       'advance': advanceCount,
+      'mastered': masteredCount,
+      'unmastered': unmasteredCount,
     };
   }
 

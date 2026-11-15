@@ -86,6 +86,16 @@ class VocabularyNotifier extends AsyncNotifier<List<Vocabulary>> {
     }
   }
 
+  Future<void> toggleMastered(int id, bool currentStatus) async {
+    final db = ref.read(databaseProvider);
+    await db.toggleMastered(id, currentStatus);
+    await loadVocabularies();
+    final updated = await db.getVocabularyById(id);
+    if (updated != null) {
+      unawaited(CloudSyncService.instance.syncVocabulary(updated));
+    }
+  }
+
   Future<void> deleteVocabulary(int id) async {
     final db = ref.read(databaseProvider);
     final vocab = await db.getVocabularyById(id);
@@ -108,6 +118,7 @@ class VocabularyFilter {
   final String? selectedLevel; // null = All, 'Basic', 'Advance'
   final String? selectedUsage; // null = All, 'Speaking', 'Writing', 'General'
   final String? selectedTopic; // null = All topics
+  final bool? isMastered; // null = All, true = Sudah Ingat, false = Belum Ingat
   final bool onlyFavorites;
   final VocabularySort sort;
 
@@ -116,6 +127,7 @@ class VocabularyFilter {
     this.selectedLevel,
     this.selectedUsage,
     this.selectedTopic,
+    this.isMastered,
     this.onlyFavorites = false,
     this.sort = VocabularySort.newest,
   });
@@ -125,6 +137,7 @@ class VocabularyFilter {
     String? Function()? selectedLevel,
     String? Function()? selectedUsage,
     String? Function()? selectedTopic,
+    bool? Function()? isMastered,
     bool? onlyFavorites,
     VocabularySort? sort,
   }) {
@@ -136,6 +149,8 @@ class VocabularyFilter {
           selectedUsage != null ? selectedUsage() : this.selectedUsage,
       selectedTopic:
           selectedTopic != null ? selectedTopic() : this.selectedTopic,
+      isMastered:
+          isMastered != null ? isMastered() : this.isMastered,
       onlyFavorites: onlyFavorites ?? this.onlyFavorites,
       sort: sort ?? this.sort,
     );
@@ -161,6 +176,10 @@ class VocabularyFilterNotifier extends Notifier<VocabularyFilter> {
 
   void setTopic(String? topic) {
     state = state.copyWith(selectedTopic: () => topic);
+  }
+
+  void setMasteredStatus(bool? status) {
+    state = state.copyWith(isMastered: () => status);
   }
 
   void toggleOnlyFavorites() {
@@ -214,6 +233,11 @@ final filteredVocabulariesProvider = Provider<List<Vocabulary>>((ref) {
             .toList();
       }
 
+      // Mastered / Memorized Filter (Sudah Ingat vs Belum Ingat)
+      if (filter.isMastered != null) {
+        list = list.where((v) => v.isMastered == filter.isMastered).toList();
+      }
+
       // Usage Filter
       if (filter.selectedUsage != null) {
         list = list.where((v) => v.hasUsage(filter.selectedUsage!)).toList();
@@ -251,6 +275,8 @@ class VocabularyStats {
   final int basic;
   final int advance;
   final int favorites;
+  final int mastered;
+  final int unmastered;
 
   const VocabularyStats({
     this.total = 0,
@@ -260,7 +286,12 @@ class VocabularyStats {
     this.basic = 0,
     this.advance = 0,
     this.favorites = 0,
+    this.mastered = 0,
+    this.unmastered = 0,
   });
+
+  double get masteredPercentage =>
+      total == 0 ? 0.0 : (mastered / total).clamp(0.0, 1.0);
 }
 
 final vocabularyStatsProvider = Provider<VocabularyStats>((ref) {
@@ -274,6 +305,8 @@ final vocabularyStatsProvider = Provider<VocabularyStats>((ref) {
       int basic = 0;
       int advance = 0;
       int favorites = 0;
+      int mastered = 0;
+      int unmastered = 0;
 
       for (final v in vocabs) {
         if (v.hasUsage('Speaking')) speaking++;
@@ -282,6 +315,11 @@ final vocabularyStatsProvider = Provider<VocabularyStats>((ref) {
         if (v.isBasic) basic++;
         if (v.isAdvance) advance++;
         if (v.isFavorite) favorites++;
+        if (v.isMastered) {
+          mastered++;
+        } else {
+          unmastered++;
+        }
       }
 
       return VocabularyStats(
@@ -292,6 +330,8 @@ final vocabularyStatsProvider = Provider<VocabularyStats>((ref) {
         basic: basic,
         advance: advance,
         favorites: favorites,
+        mastered: mastered,
+        unmastered: unmastered,
       );
     },
     orElse: () => const VocabularyStats(),

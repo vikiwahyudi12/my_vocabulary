@@ -405,72 +405,94 @@ class VocabularyCard extends ConsumerWidget {
                         ),
                       ),
 
-                      // Right Status Tag: "✓ Siap Latihan" or "● Mastered"
-                      if (vocabulary.isFavorite)
-                        Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Container(
-                              width: 6,
-                              height: 6,
-                              decoration: const BoxDecoration(
-                                color: Color(0xFF10B981),
-                                shape: BoxShape.circle,
-                              ),
-                            ),
-                            const SizedBox(width: 4),
-                            Text(
-                              'Mastered',
-                              style: TextStyle(
-                                fontSize: 11,
-                                fontWeight: FontWeight.w700,
-                                color: isDark
-                                    ? AppColors.darkPrimary
-                                    : AppColors.lushPrimary,
-                              ),
-                            ),
-                          ],
-                        )
-                      else
-                        Container(
-                          padding: const EdgeInsets.symmetric(
-                            horizontal: 9,
-                            vertical: 4,
-                          ),
-                          decoration: BoxDecoration(
-                            color: isDark
-                                ? const Color(0xFF1B3526)
-                                : AppColors.lushPrimaryLight,
-                            borderRadius: BorderRadius.circular(10),
-                            border: Border.all(
-                              color: isDark
-                                  ? const Color(0xFF264C37)
-                                  : AppColors.lushPrimaryBorder,
-                              width: 0.8,
-                            ),
-                          ),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              Icon(
-                                Icons.check_rounded,
-                                size: 12,
-                                color: isDark
-                                    ? AppColors.darkPrimary
-                                    : AppColors.lushPrimary,
-                              ),
-                              const SizedBox(width: 4),
-                              Text(
-                                'Siap Latihan',
-                                style: TextStyle(
-                                  fontSize: 11,
-                                  fontWeight: FontWeight.w700,
-                                  color: isDark
-                                      ? AppColors.darkPrimary
-                                      : AppColors.lushPrimary,
+                      // Right Status Toggle Pill: "✓ Sudah Ingat" vs "⏳ Belum Ingat"
+                      if (vocabulary.id != null)
+                        InkWell(
+                          onTap: () {
+                            ref
+                                .read(vocabularyNotifierProvider.notifier)
+                                .toggleMastered(
+                                  vocabulary.id!,
+                                  vocabulary.isMastered,
+                                );
+                            ScaffoldMessenger.of(context).hideCurrentSnackBar();
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text(
+                                  vocabulary.isMastered
+                                      ? 'Ditandai: Perlu diingat lagi ("${vocabulary.word}")'
+                                      : 'Hebat! Ditandai: Sudah hafal/ingat ("${vocabulary.word}")',
+                                ),
+                                duration: const Duration(milliseconds: 1400),
+                                behavior: SnackBarBehavior.floating,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(10),
                                 ),
                               ),
-                            ],
+                            );
+                          },
+                          borderRadius: BorderRadius.circular(10),
+                          child: AnimatedContainer(
+                            duration: const Duration(milliseconds: 200),
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 10,
+                              vertical: 4.5,
+                            ),
+                            decoration: BoxDecoration(
+                              color: vocabulary.isMastered
+                                  ? (isDark
+                                      ? const Color(0xFF1B3526)
+                                      : AppColors.lushPrimaryLight)
+                                  : (isDark
+                                      ? const Color(0xFF2C2518)
+                                      : const Color(0xFFFEF3C7)),
+                              borderRadius: BorderRadius.circular(10),
+                              border: Border.all(
+                                color: vocabulary.isMastered
+                                    ? (isDark
+                                        ? const Color(0xFF264C37)
+                                        : AppColors.lushPrimaryBorder)
+                                    : (isDark
+                                        ? const Color(0xFF785B1F)
+                                        : const Color(0xFFFDE68A)),
+                                width: 0.9,
+                              ),
+                            ),
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                Icon(
+                                  vocabulary.isMastered
+                                      ? Icons.check_circle_rounded
+                                      : Icons.schedule_rounded,
+                                  size: 13,
+                                  color: vocabulary.isMastered
+                                      ? (isDark
+                                          ? AppColors.darkPrimary
+                                          : AppColors.lushPrimary)
+                                      : (isDark
+                                          ? const Color(0xFFFBBF24)
+                                          : const Color(0xFFD97706)),
+                                ),
+                                const SizedBox(width: 4),
+                                Text(
+                                  vocabulary.isMastered
+                                      ? 'Sudah Ingat'
+                                      : 'Belum Ingat',
+                                  style: TextStyle(
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.w700,
+                                    color: vocabulary.isMastered
+                                        ? (isDark
+                                            ? AppColors.darkPrimary
+                                            : AppColors.lushPrimary)
+                                        : (isDark
+                                            ? const Color(0xFFFBBF24)
+                                            : const Color(0xFFB45309)),
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
                         ),
                     ],

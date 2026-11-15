@@ -144,6 +144,70 @@ class VocabularyDetailScreen extends ConsumerWidget {
           ),
         ),
         actions: [
+          // Mastered / Hafal Toggle Button
+          if (current.id != null)
+            Padding(
+              padding: const EdgeInsets.only(right: 8),
+              child: InkWell(
+                onTap: () {
+                  ref
+                      .read(vocabularyNotifierProvider.notifier)
+                      .toggleMastered(current.id!, current.isMastered);
+                  ScaffoldMessenger.of(context).hideCurrentSnackBar();
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text(
+                        current.isMastered
+                            ? 'Ditandai: Perlu diingat lagi ("${current.word}")'
+                            : 'Hebat! Ditandai: Sudah hafal/ingat ("${current.word}")',
+                      ),
+                      duration: const Duration(milliseconds: 1400),
+                      behavior: SnackBarBehavior.floating,
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                    ),
+                  );
+                },
+                borderRadius: BorderRadius.circular(20),
+                child: Container(
+                  width: 38,
+                  height: 38,
+                  decoration: BoxDecoration(
+                    color: current.isMastered
+                        ? (isDark
+                            ? const Color(0xFF1B3526)
+                            : AppColors.lushPrimaryLight)
+                        : (isDark ? AppColors.darkCard : Colors.white),
+                    shape: BoxShape.circle,
+                    border: Border.all(
+                      color: current.isMastered
+                          ? (isDark
+                              ? const Color(0xFF264C37)
+                              : AppColors.lushPrimaryBorder)
+                          : (isDark
+                              ? AppColors.darkBorder
+                              : AppColors.lushBorder),
+                      width: 1,
+                    ),
+                  ),
+                  child: Icon(
+                    current.isMastered
+                        ? Icons.check_circle_rounded
+                        : Icons.check_circle_outline_rounded,
+                    size: 19,
+                    color: current.isMastered
+                        ? (isDark
+                            ? AppColors.darkPrimary
+                            : AppColors.lushPrimary)
+                        : (isDark
+                            ? AppColors.darkTextMuted
+                            : AppColors.lushTextMuted),
+                  ),
+                ),
+              ),
+            ),
+
           // Favorite Toggle Button (Circular Container)
           if (current.id != null)
             Padding(
@@ -454,32 +518,95 @@ class VocabularyDetailScreen extends ConsumerWidget {
                           ),
                         ),
                       ),
-                      Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                        decoration: BoxDecoration(
-                          color: isDark ? const Color(0xFF1B3526) : AppColors.lushPrimaryLight,
+                      if (current.id != null)
+                        InkWell(
+                          onTap: () {
+                            ref
+                                .read(vocabularyNotifierProvider.notifier)
+                                .toggleMastered(
+                                  current.id!,
+                                  current.isMastered,
+                                );
+                            ScaffoldMessenger.of(context).hideCurrentSnackBar();
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text(
+                                  current.isMastered
+                                      ? 'Ditandai: Perlu diingat lagi'
+                                      : 'Status: Sudah hafal/ingat ✅',
+                                ),
+                                duration: const Duration(milliseconds: 1400),
+                                behavior: SnackBarBehavior.floating,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                              ),
+                            );
+                          },
                           borderRadius: BorderRadius.circular(8),
-                        ),
-                        child: Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Icon(
-                              Icons.check_rounded,
-                              size: 11,
-                              color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                          child: AnimatedContainer(
+                            duration: const Duration(milliseconds: 200),
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 10,
+                              vertical: 4.5,
                             ),
-                            const SizedBox(width: 3),
-                            Text(
-                              'Siap Latihan',
-                              style: TextStyle(
-                                fontSize: 11,
-                                fontWeight: FontWeight.w700,
-                                color: isDark ? AppColors.darkPrimary : AppColors.lushPrimary,
+                            decoration: BoxDecoration(
+                              color: current.isMastered
+                                  ? (isDark
+                                      ? const Color(0xFF1B3526)
+                                      : AppColors.lushPrimaryLight)
+                                  : (isDark
+                                      ? const Color(0xFF2C2518)
+                                      : const Color(0xFFFEF3C7)),
+                              borderRadius: BorderRadius.circular(8),
+                              border: Border.all(
+                                color: current.isMastered
+                                    ? (isDark
+                                        ? const Color(0xFF264C37)
+                                        : AppColors.lushPrimaryBorder)
+                                    : (isDark
+                                        ? const Color(0xFF785B1F)
+                                        : const Color(0xFFFDE68A)),
+                                width: 0.9,
                               ),
                             ),
-                          ],
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                Icon(
+                                  current.isMastered
+                                      ? Icons.check_circle_rounded
+                                      : Icons.schedule_rounded,
+                                  size: 13,
+                                  color: current.isMastered
+                                      ? (isDark
+                                          ? AppColors.darkPrimary
+                                          : AppColors.lushPrimary)
+                                      : (isDark
+                                          ? const Color(0xFFFBBF24)
+                                          : const Color(0xFFD97706)),
+                                ),
+                                const SizedBox(width: 4),
+                                Text(
+                                  current.isMastered
+                                      ? 'Sudah Ingat'
+                                      : 'Belum Ingat',
+                                  style: TextStyle(
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.w700,
+                                    color: current.isMastered
+                                        ? (isDark
+                                            ? AppColors.darkPrimary
+                                            : AppColors.lushPrimary)
+                                        : (isDark
+                                            ? const Color(0xFFFBBF24)
+                                            : const Color(0xFFB45309)),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
                         ),
-                      ),
                     ],
                   ),
                 ],
